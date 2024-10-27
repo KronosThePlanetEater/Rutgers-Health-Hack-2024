@@ -1,13 +1,15 @@
 # Rutgers-Health-Hack-2024
 
 # Create your project directory
-mkdir my_project <br />
-cd my_project
+mkdir my_project(Or whatever you'd like to name it) <br />
+cd my_project(Or whatever you'd you named it)
 
 # Install PyTorch
 pip install torch <br />
 
 # (Optional) Install CUDA Development Kit - version 12.4 recommended <br />
+https://developer.nvidia.com/cuda-12-4-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local 
+
 # Install cuDNN <br />
 py -m pip install nvidia-cudnn-cu12
 
