@@ -4,7 +4,7 @@
 https://www.python.org/downloads/release/python-3120/
 
 # Create your project directory
-in terminal <br />
+In terminal run the following <br />
 ![image](https://github.com/user-attachments/assets/0688d129-7bb7-4712-bc7e-8fa33a65934d)
 
 mkdir my_project(Or whatever you'd like to name it) <br />
