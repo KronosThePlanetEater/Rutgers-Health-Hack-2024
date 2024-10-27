@@ -1,4 +1,6 @@
 # Rutgers-Health-Hack-2024
+# Version of python used
+https://www.python.org/downloads/release/python-3120/
 
 # Create your project directory
 mkdir my_project(Or whatever you'd like to name it) <br />
