@@ -8,7 +8,8 @@ In terminal run the following <br />
 ![image](https://github.com/user-attachments/assets/0688d129-7bb7-4712-bc7e-8fa33a65934d)
 
 mkdir my_project(Or whatever you'd like to name it) <br />
-cd my_project(Or whatever you'd you named it)
+cd my_project(Or whatever you'd you named it) <br />
+myenv\Scripts\activate  # On Windows
 
 # Install Torch
 pip install torch <br />
