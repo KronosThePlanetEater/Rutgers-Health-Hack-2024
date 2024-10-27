@@ -68,4 +68,4 @@ https://huggingface.co/medicalai/ClinicalBERT <br />
 https://pytorch.org/get-started/locally/ <br />
 https://developer.nvidia.com/cuda-12-4-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local  (CUDA Development Kit) <br />
 https://developer.nvidia.com/cudnn (nvidia-cudnn-cu12) <br />
-Visual Studio Code
+[Visual Studio Code](https://code.visualstudio.com/)
