@@ -46,3 +46,14 @@ It also outputs the amount of time it took the run the script, which can be used
 While the either of BridgeScript.py or BridgeScriptHighlighting.py are running, if on Windows run task-manager and under the performance tab you will see how much of the GPU memory is being used. 
 ![image](https://github.com/user-attachments/assets/78edbbb3-efe4-4e2a-81f3-c4cfee952404) <br />
 You can use this information to change the batch_size number as need so it can run well on your hardware. Higher the batch number the more resources it will use, but run faster. Lower the batch number the less resources it will use, but run slower. (The amount of Vram utilized will vary based on the number)
+
+# Tools used
+https://www.python.org/downloads/release/python-3120/ <br />
+Hugging face transformer <br />
+torch  <br />
+https://huggingface.co/docs/transformers/model_doc/marian <br />
+https://huggingface.co/medicalai/ClinicalBERT <br />
+https://pytorch.org/get-started/locally/ <br />
+https://developer.nvidia.com/cuda-12-4-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local  (CUDA Development Kit) <br />
+https://developer.nvidia.com/cudnn (nvidia-cudnn-cu12) <br />
+Visual Studio Code
