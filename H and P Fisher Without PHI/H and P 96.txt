@@ -1,0 +1,284 @@
+
+"This is a practice note that will be filtered from the legal medical record. Practice 
+notes may not be attested or used for billing purposes. At the discretion of the 
+attending/supervising provider, medical students may be allowed to write a H&P 
+and/or progress note. With the proper attestation, these notes may be used for 
+billable purposes. Please speak with your supervising/attending regarding whether 
+you should be using a practice note or a H&P/progress note at this time."
+History and Physical
+Informant: Patient, Old records from cardiology office visits
+Reliability: Good
+Chief Complaint:
+SOB (worse with exertion) and productive cough for 2 days
+History of Present Illness:
+Patient is a 95 yo female with PMH of chronic Afib on Pradaxa, HTN, hypothyroidism, breast 
+cancer s/p mastectomy 1996 and lumpectomy 2005, and multi-valvular disease (moderatesevere AS, moderate MR, moderate-severe TR) s/p TAVR 2018 who presents with 2 days of 
+SOB worse with exertion, associated productive cough, and nasal drip. For the past few 
+years, her dyspnea has been progressively worsening with exertion (doing work around the 
+house, cooking or laundry) but improves with rest. For the past 6 weeks, patient has been 
+experiencing intermittent, mid-sternal chest tightness that worsens with exertion and 
+improves with rest. For the past week, she noted decreased energy and loss of appetite. In
+addition, she has been experiencing R ear pain and intermittent pressure that radiates 
+around her ear. Yesterday, she started noticing a productive cough with clear phlegm and 
+nasal drip, with increased dyspnea when coughing. She took 2 tablets of Dayquil yesterday 
+with no significant improvement in her symptoms. This morning, she woke up with 
+improved cough, but continued dyspnea with coughing. 
+At bedside, patient continues to describe R ear pain but not currently experiencing any 
+dyspnea, cough, chest tightness, or chest pain radiating to jaws or shoulders. She is not 
+complaining of any fever, nausea, vomiting, chills, sore throat, abdominal pain, diarrhea, 
+dysuria, changes in urinary frequency, and bone or muscle pain. Patient did not have any 
+recent changes to her home medications, surgeries, travel, or exposure to sick contacts. Pt 
+describes she did a COVID test at home yesterday and tested negative. Of note, patient has 
+a family history of heart failure in her 3 sisters. 
+Review of Systems:
+See above HPI.
+
+Past Medical History:
+Past Medical History:
+Diagnosis Date
+• A-fib (CMS/HCC)
+• Aortic stenosis
+• HTN (hypertension)
+• Hypothyroid
+• Malignant neoplasm of left breast (CMS/HCC) 2005
+s/p Lumpectomy at RBMC
+• Malignant neoplasm of right breast (CMS/HCC) 1996
+s/p mastectomy at RBMC
+Past Surgical History:
+Past Surgical History:
+Procedure Laterality Date
+• TISSUE AORTIC VALVE REPLACEMENT 02/2018
+TAVR at HUMC
+LUMPECTOMY 2005
+At RBMC
+MASTECTOMY
+At RBMC
+Home Medications:
+Levothyroxine (Synthroid) 75mg tablet daily
+Ibersartan 75mg tablet daily
+Diltiazem (Cardizem) 24hr ER 1.20mg capsule daily
+Furosemide (Lasix) 20mg tablet daily
+Potassium Cl (Klor-Con) ER 10mg ER daily
+Dabigatran etexilate (Pradaxa) 75mg capsule bid
+Vitamin D tablet 1000U daily
+Vitamin B12 tablet 1000mcg daily
+Brinzolamide (Azopt) 1% ophthalmic suspension 1 drop bid
+Timolol ophthalmic suspension 1 drop daily
+Ferrous sulfate 325mg (65mg Fe) tablet every other day
+Allergies:
+Allergen Reactions
+• Iodinated Contrast Media Other
+Difficulty swallowing 20 min after contrast. No SOB, speaking full sentences, 
+respirations unlabored.
+• Clindamycin Itching and Rash
+• Shellfish Containing Products Itching
+
+Social History:
+Never smoked.
+Social drinking, wine during occasions.
+Never used drugs.
+Widowed.
+3 children.
+Lives alone at split level home. Able to perform basic ADLs.
+Family History:
+Family History
+Problem Relation Name Age of Onset
+• Myocarditis Mother 52yo
+• Heart failure Sister 80s
+• Heart failure Sister 80s
+• Heart failure Sister 90s
+Exam: 
+01/06/23 2000
+BP: 136/59
+Pulse: 57
+Resp: 18
+Temp: 36.8 °C (98.2 °F)
+TempSrc: Oral
+SpO2: 97%
+Weight: 49.9kg (110lb 0.2oz)
+Height:
+BMI: 
+157.5cm (5’ 2”)
+20.12 kg/m2
+Physical Exam
+Constitutional: 
+General: She is not in acute distress.
+Appearance: She is not ill-appearing. 
+HENT: 
+Head: Normocephalic and atraumatic. No pain upon palpation.
+Right Ear: External ear normal. There is impacted cerumen. 
+Left Ear: External ear normal. There is impacted cerumen. 
+Nose: No congestion or rhinorrhea. 
+Mouth/Throat: No pharyngeal erythema.
+Mouth: Mucous membranes are moist. 
+Pharynx: Oropharynx is clear. 
+ No jaw tenderness.
+
+Cardiovascular: 
+Rate and Rhythm: Irregularly Irregular.
+Pulses: Normal pulses. 
+Heart sounds: Murmur (Tricuspid regurgitation, holosystolic murmur loudest at left 
+lower sternal border, loud S1) heard. 
+ Elevated JVP (~10cm) with prominent v wave.
+ Nondisplaced PMI
+Pulmonary: 
+Effort: Pulmonary effort is normal. No respiratory distress. 
+ Normal resonance to percussion.
+Breath sounds: Normal breath sounds. No wheezing, rhonchi, or rales. 
+Abdominal: 
+General: Abdomen is flat. Bowel sounds are normal. There is no distension. 
+ Palpations: Abdomen is soft. No hepatomegaly (liver span 15cm) or splenomegaly (spleen 
+span 8cm). 
+Tenderness: There is no abdominal tenderness. There is no right CVA tenderness or left 
+CVA tenderness.
+Musculoskeletal: 
+General: No tenderness.
+Right lower leg: Edema (Trace) present. 
+Left lower leg: Edema (Trace) present. 
+Skin:
+ General: Skin is dry and warm. 
+Neurological: 
+Mental Status: She is oriented to person, place, and time.
+ Cranial Nerves: No CN deficits.
+ Sensory: Sensation is intact.
+ Motor: Motor function is intact.
+Data Review
+I have reviewed all available labs and imaging results in PennChart. 
+Labs:
+Recent Labs
+Lab Units 01/06/23
+1510
+WBC AUTO 10*3/uL 2.87*
+HEMATOCRIT % 33.4*
+HEMOGLOBIN g/dL 10.8*
+PLATELETS AUTO 10*3/uL 147
+MCV fL 90.0
+RDW-CV % 14.6
+SODIUM mmol/L 129*
+CHLORIDE mmol/L 96*
+POTASSIUM mmol/L 5.10*
+
+CO2 mmol/L 22.2
+BUN mg/dL 17
+CREATININE mg/dL 0.6
+CALCIUM mg/dL 9.0
+MAGNESIUM mg/dL 2.1
+ANION GAP mmol/L 11
+Lab Units 01/06/23
+1510
+ALT U/L 14
+AST U/L 31
+ALK PHOS U/L 79
+ALBUMIN g/dL 4.1
+Troponin T HS 3Hr 19ng/L
+Pro-BNP 2,554pg/mL
+Imaging:
+XR Chest 2 Views
+Narrative: EXAM: CHEST X-RAYS
+CLINICAL INDICATION: chest pain;
+TECHNIQUE: 2 view(s) of the chest were obtained. 
+COMPARISON: 11/15/2017 chest x-ray
+FINDINGS:
+Lungs/Pleural Spaces: Faint bandlike opacity seen in the right upper lobe laterally is not well 
+seen on the previous study due to overlying cardiac lead. No focal mass is seen. The lungs 
+are otherwise clear.
+Cardiac silhouette: Moderate cardiomegaly. Mild central vascular congestion. The patient is 
+post TAVR.
+Mediastinal contours: There is calcification of the thoracic aortic knob. There is tortuosity of 
+thoracic aorta.
+Visualized bones: Upper thoracic kyphosis. 
+Other: No other significant findings.
+Impression: Cardiomegaly. Mild CHF.
+A faint opacity is seen in the right upper lobe laterally but is bandlike appearance suggests 
+either a rib related density or atelectatic or fibrotic change.
+
+EKG Impression:
+ATRIAL FIBRILLATION WITH A COMPETING JUNCTIONAL PACEMAKER 
+ANTEROSEPTAL INFARCT, AGE UNDETERMINED 
+ST AND T WAVE ABNORMALITY, CONSIDER LATERAL ISCHEMIA 
+ABNORMAL ECG 
+NO PREVIOUS ECGS AVAILABLE
+Problem List:
+Patient Active Problem List
+Diagnosis Date Noted
+• Shortness of breath 01/06/2023
+• Nonrheumatic tricuspid valve regurgitation 09/12/2022
+Assessment/Plan:
+Patient is a 95 yo female with PMH chronic Afib, HTN, hypothyroidism, and multi-valvular 
+disease s/p TAVR 2018 presenting with few years of progressively worsening dyspnea, few 
+months of intermittent angina, and URI-like symptoms for 2 days (productive cough, nasal 
+drip, decreased appetite and energy) with associated dyspnea that is not improving upon 
+rest.
+# Dyspnea, Cough
+Her onset of dyspnea could be 2/2 URI (given her productive cough, nasal drip, decreased 
+energy and appetite) with underlying progressive coronary artery disease. Although she has
+a proBNP of 2554, her CXR was unremarkable with mild CHF and physical exam was 
+negative for crackles, edema, and other signs of fluid overload. Given her largely euvolemic 
+status, acute exacerbation of CHF and concerns for acute coronary syndrome are less likely. 
+In this acute setting, patient’s viral URI is most likely causing worsening dyspnea with 
+coughing fits. 
+- Respiratory viral panel for URI
+- Not requiring supplemental oxygen currently
+- Consult cardiology for ischemic eval (cath vs stress test?) since hx seems significant for 
+angina
+- Echo TTE to evaluate for heart failure
+- telemetry monitoring
+- continue with home meds 
+#Aortic stenosis s/p TAVR, Tricuspid regurgitation
+- Consult cardiology to consider right heart catheterization to assess hemodynamic status
+- continue home med PO Lasix 20mg (no indication for increased diuresis since pt looks 
+euvolemic on exam)
+#? HF
+Although patient looks euvolemic, patient’s chronic conditions, BNP elevation, and CXR 
+showing mild CHF can be suggestive of HF. 
+- Echo TTE to evaluate
+
+# Hyponatremia
+Based on her cardiologist's note, she is hyponatremic at baseline. Current presentation is 
+also most likely due to decreased PO intake.
+- Start on cardiac diet
+- monitor with BMP
+# R ear pain
+This could be 2/2 URI given the onset. Since her physical exam was negative for any signs of 
+infections, we can monitor the symptom.
+#Leukocytosis
+Elevated WBC of 2.87. Most likely 2/2 viral infection.
+- Monitor with CBC
+# HTN 
+- continue with home med Ibersartan 75mg tablet daily
+#Hypothyroidism
+- continue with home med Levothyroxine 75mg tablet daily
+#Chronic Afib
+- continue with home med Pradaxa 75mg capsule bid
+- continue with home med Diltiazem (Cardizem) 24hr ER 1.20mg capsule daily
+#Fe def anemia
+- continue with home med Ferrous sulfate 325mg (65mg Fe) tablet every other day
+#Distant hx of breast cancer
+Stable. Pt has been getting her yearly follow-up mammography screening. 
+FENP: none | replete PRN | cardiac diet | pradaxa
+
+
+The viral panel came back after this H&P was written, and she tested positive for COVID-19.
+EBM
+Can early Remdesivir prevent progression to severe COVID-19 in patients?
+Gottlieb RL, Vaca CE, Paredes R, et al. Early Remdesivir to Prevent Progression to Severe 
+Covid-19 in Outpatients. N Engl J Med. 2022;386(4):305-315. 
+doi:10.1056/NEJMoa2116846
+P: Patients with Covid-19 who had symptom onset within previous 7 days and ≥1 risk 
+factor for disease progression (age ≥ 60 yo, obesity, certain coexisting medical 
+conditions) in outpatient setting
+I: IV remdesivir (200mg on day 1, 100mg on days 2 and 3)
+C: Placebo. No Remdesivir intervention.
+O: Composite of hospitalization for any cause or death from any cause by day 14
+Overall, the trial showed that patients who received 3 days of remdesivir had 87% lower 
+risk of Covid-19-related hospitalizations or death. There are also other data from 
+different trials that earlier intervention with remdesivir has a greater efficacy the course 
+of Covid-19 infection. However, the main limitations of this trial are that there were 
+under-representation of Black/Asian race, chronic liver disease, chronic kidney disease, 
+immunocompromised status, and cancer patients. In addition, this trial (like other Covid19 related trials) excluded patients who received the SARS-CoV-2 vaccines. Our patient 
+was vaccinated and admitted to our hospital, so a few factors don’t correspond to the 
+methods used when selecting patients in this study. Patient was given remdesivir once 
+we found out she was positive for COVID-19 because of her risk factors for disease 
+progression – age of 95 years and coexisting medical conditions. She is currently only 
+presenting with mild cough, but otherwise doing well with no need for supportive 
+oxygen or corticosteroids. 

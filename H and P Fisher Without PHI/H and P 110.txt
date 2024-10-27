@@ -1,0 +1,197 @@
+Date: 10/11/2020
+Referral Source: ED
+Data Source: Patient (unreliable), Patient’s son (reliable), ED physician note (reliable), Primary 
+care physician (reliable), and outpatient records (reliable)
+Chief Complaint: Confusion and dysuria, for two days
+Mr. B is an 81 yo male with a PMH of recurrent urinary tract infections, hypertension, diabetes, 
+chronic renal failure, bladder cancer post resection and adjuvant chemo (2018), colon cancer 
+post resection (2003), Immune thrombocytopenia being treated with prednisone and 
+rituximab, presenting for confusion and dysuria for two days. Patient is currently alert, awake, 
+but confused about his past medical and social history. Mr. B was apparently well until two days 
+prior to admission, when he started feeling a burning sensation and noticed a foul smell while 
+peeing, suprapubic pain, and groin pain. He reports feeling lightheaded currently and feeling 
+dizzy while standing. This started with his urinary symptoms. He reports weight loss, loss of 
+appetite and states that he has not been drinking as much water as he should be. He does not 
+have fevers, chills, headaches or hematuria. He reports normal bowel movements without 
+diarrhea or bloody stools. He has had 10 UTIs in the past year with his most recent in August 
+when he was admitted to St. Peter's and transferred to a rehab facility upon discharge, where 
+he has been living for six weeks prior to admission.
+His past medical history is notable for low grade posterior wall urothelial cancer posttransurethral resection and adjuvant chemo due to lung metastasis in 2018, colon cancer postleft hemicolectomy in 2003, and Immune Thrombocytopenia for which he has been taking 
+prednisone on and off for 20 years. As per his primary doctor, Mr. B has been taking prednisone 
+for 6 months prior to admission and during this time, experienced hypotension with blood 
+pressures in the 80-70s SBP and 50s DBP. However, follow up with an ACTH stimulation test 
+yielded negative results. He was then treated with hydrocortisone, midodrine, and
+Fludrocortisone, but this regimen was ineffective, and he gained 40lbs in water weight that 
+required diuresis with Torsemide. He was restarted on hydrocortisone and midodrine however 
+six weeks prior to admission. He consulted Nephrology two weeks prior to admission for his 
+hypotension and has yet to schedule and appointment with Endocrinology.
+In the ED, one day prior to admission, his vitals were BP 103/52, HR 66, RR 16, T 97°F, and 96% 
+saturation on room air. Labs ordered by ED were notable for WBC 14.6, and urinalysis showed 
+2+ protein, 1+ blood, >182 WBC, >97 RBC, lactate 1.5, and 3+ leukocyte esterase, although his 
+PCP states that he is always positive for Leukocyte esterase. ED ordered Ceftriaxone 1gm IVPB 
+and NaCl 0.9% Bolus 1L IV. Mr. B was admitted to the medicine floor.
+Past Medical History
+Colon Cancer - dx 2003, status post L hemicolectomy and adjuvant chemo. Metastasis to lung 
+post-resection in 2009. Latest colonoscopy in 2019 was normal. CEA in 1/2020 was 6.0, 5/2020 
+was 5.1.
+Bladder Cancer - low grade posterior wall urothelial bladder, cystoscopy with biopsy in 2/2020 
+negative for malignancy
+Thyroid nodule- stable on US
+Pulmonary Embolism - 2/2015, finished course of Rivaroxaban
+Steroid induced Diabetes Mellitus - last HbA1c on 8/2019 was 6.1
+Recurrent Immune Thrombocytopenia
+Bladder Diverticula, largest measuring 9cm
+Osteoporosis
+Atherosclerotic Heart Disease - last catherization in 2003 with EF=55%; 30% proximal LAD 
+lesion; normal nuclear stress test in 2019
+Hypertension
+Sciatica
+Psoriasis
+Past Surgical History
+See HPI and PMH
+Splenectomy for splenomegaly
+Cholecystectomy
+Medications
+Hydrocortisone Tablet 5 mg by mouth two times a day (home meds)
+Hydrocortisone Tablet 5 mg by mouth every 24 hours (home meds)
+Midodrine 5 mg by mouth daily at 7 am (home meds)
+Albuterol-Ipratropium 
+Tamulosin 0.04mg, once daily
+Allergies/Sensitivities
+Gentamicin - acute renal failure
+Diprivan- unknown
+Augmentin- unknown
+Family History
+Mother - died from complications of heart disease and diabetes
+Father - died from stroke
+Social History
+Smoked 1ppd for 20years, quit in 1978. Drinks alcohol socially. Retired sales representative. 
+Wife died in 2015 from lymphoma. 4 kids.
+Pt usually lives in Fl and gets treatment there, has been in NJ (son lives here) for the last 6 
+months. Family sees multiple doctors and specialists.
+Review of Systems:
+General: recent weight loss, decreased appetite, no fevers orchills
+HEENT: No headaches, no syncope
+Heart: no chest pain or palpitations
+Resp: No cough, shortness of breath
+GI: See HPI, no diarrhea or constipation
+GU: See HPI
+Skin: No rashes
+Neuro: See HPI
+Heme: No easy bruising/bleeding
+MSK: lower back pain, neck pain with movement, pain in the back of the heels, no lower 
+extremity pain
+Physical Exam
+T: 98.2, HR: 72 and regular rhythm, BP: 74/40, RR: 16, SpO2: 98% 
+Gen: patient is in no acute distress and lying down in bed
+HEENT: NCAT, anicteric sclera without conjunctival injection, MMM
+Cardiac: normal S1/S2, no murmurs, rubs or gallops
+Lungs: crackles at the base of the lungs
+GI: Soft, RLQ LLQ and suprapubic area tender to light palpation, no organomegaly, normal 
+bowel sounds
+GU: not assessed
+Ext: 1+ lower extremity edema
+Neuro: unaware of any medical history but attentive. AAOx3, knew he was in a hospital, not 
+which one and knew the year. Screened negative on delirium. 5/5 strength in all extremities
+Labs
+2 x Troponin T: 0.02 [10/10 @ 22:04, 18:53 ]
+Labs ordered by ED: See HPI
+Imaging
+10/10/2020 20:00 Chest 2 Views (PA/LAT or AP/LAT)
+IMPRESSION: No radiographic evidence of acute cardiopulmonary disease.
+10/11/2020 08:51 EKG 12 Lead AdultVentricular Rate 57BPM
+Atrial Rate 53BPM
+QRS Duration 58ms
+Q-T Interval 404ms, QTC Calculation(Bezet) 393ms
+R Axis 85degrees, T Axis 55degrees
+Diagnosis: UNDETERMINED RHYTHM, NONSPECIFIC ST ABNORMALITY
+ABNORMAL ECG WHEN COMPARED WITH ECG OF 30-JUL-2020 16:35,
+CURRENT UNDETERMINED RHYTHM PRECLUDES RHYTHM COMPARISON
+ST ELEVATION NOW PRESENT IN INFERIOR LEADS
+ST NO LONGER ELEVATED IN LATERAL LEADS
+07/30/2020: CT
+Pancreas: The pancreas appears abnormal with diffuse ductal dilatation and multiple cystic 
+lesions. The differential diagnosis includes malignancy.
+Kidneys, Ureters, and Bladder: There is diffuse, irregular thickening of the bladder wall with a 
+differential diagnosis which includes chronic outlet obstruction, infection, and/or malignancy. 
+There is mild associated infiltration of the perivesical fat. A couple of left bladder diverticula are 
+noted, the larger measuring roughly 9 cm. No hydronephrosis. Occasional tiny renal stones 
+bilaterally.
+Summary
+Mr. B is an 81 year old male with past medical history of recurrent UTI, bladder cancer post 
+resection in 2018, colon cancer post left hemicolectomy and chemo treatment in 2003 
+complicated by lung metastasis needing resection in 2009, immune thrombocytopenia on 
+chronic intermittent steroids for 20 years, presenting for dysuria and confusion for 2 days.
+Patient has a past medical history of hypotension for six months as well. Review of systems is 
+pertinent for dysuria, a foul smell associated with urination, suprapubic pain, groin pain, 
+lightheadedness, dizziness while standing, weight loss, and loss of appetite. Physical exam is 
+pertinent for hypotension, crackles at the base of the lungs, RLQ LLQ and suprapubic area 
+tender to light palpation, and 1+ lower extremity pitting edema. Labs show low K+, high BUN, 
+high WBC, low HgB, low Hct, low platelets. Most likely etiology is adrenal insufficiency 
+secondary to long-term prednisone use.
+Assessment and Plan 
+1. Hypotension 
+a. Highest on the differential for hypotension and a diagnosis that must be ruled 
+out is an adrenal crisis due to tertiary adrenal insufficiency caused by 20 years off 
+and on with prednisone use being more consistent in the six months prior to 
+admission. Taking glucocorticoids (GC) can lead to suppression of the 
+hypothalamic–pituitary–adrenal (HPA) axis which can present with hypotension, 
+weight loss, and hypokalemia. A 2015 meta-analysis that reported at rates of 
+adrenal insufficiency following corticosteroid treatment, based on systematic 
+review of 47 studies with 3,753 patients, found that in patients taking low 
+(<10mg) dose oral corticosteroids, risk was 2.4%, for patients taking 
+corticosteroids for more than 1 year, the risk was 27.4%, and for patients taking 
+oral corticosteroids, the risk was 48.7% (Leonie H. A. Broersen, Alberto M. 
+Pereira, Jens Otto L. Jørgensen, Olaf M. Dekkers, Adrenal Insufficiency in 
+Corticosteroids Use: Systematic Review and Meta-Analysis, The Journal of Clinical 
+Endocrinology & Metabolism, Volume 100, Issue 6, 1 June 2015, Pages 2171–
+2180, https://doi.org/10.1210/jc.2015-1218). 
+b. Next on the differential is septicemia which may be due to systemic spread of his 
+urinary tract infection, however septicemia that progresses to septic shock 
+presents with tachycardia, not a part of this patient’s presentation. Dehydration 
+due to acute infection, polyuria, and history of insufficient water intake is 
+supported by a high BUN level, however IV NS boluses given in the ED did not 
+correct the hypotension. Lastly, CHF needs to be ruled out as a cardiogenic cause 
+of hypotension and is on the differential due to the presence of hypertension, 
+atherosclerotic heart disease, and EF: 55%. 
+c. Plan:
+i. Consult endocrine because of his history of steroid use and because the 
+patient continues to be hypotensive despite fluid boluses. Follow-up with 
+a random cortisol and thyroid function tests to assess for adrenal 
+function. Low cortisol and high TSH might point to adrenal insufficiency. 
+Next step would be to repeat the ACTH stimulation test.
+ii. Order an echocardiogram and proBNP to rule out CHF
+iii. Hold further IV fluids due to crackles being present on lung exam
+iv. Continue hydrocortisone 5mg once daily and midodrine 5mg once daily 
+(home meds)
+2. Confusion
+a. Mr. B presents with classic symptoms of UTI. Labs ordered by ED show WBC 
+14.6, and urinalysis showed 2+ protein, 1+ blood, >182 WBC, >97 RBC, lactate 
+1.5, and 3+ leukocyte esterase. However, his UTI could be complicated by 
+bladder and kidney abnormalities shown on the CT (diffuse irregular thickening 
+of the bladder wall, left bladder diverticula, and occasional tiny renal stones). 
+Consult urology - since patient has had 10 UTIs in the past, consider whether 
+there is a urinary obstruction or any role for prophylaxis antibiotics.
+b. Continue Ceftriaxone Injection 1 gm i.v. piggyback every 12 hours
+c. Follow up with blood and urine cultures and sensitivity and lactate levels to rule 
+out septic shock
+d. Per PCP, Mr. B is at baseline mental status currently. Assess his mental status 
+daily to monitor for change. 
+3. Immune thrombocytopenia 
+a. Mr. B has a history of immune thrombocytopenia previously managed with 
+prednisone on/off for 20 years, temporarily held for Rituximab treatment, and 
+then restarted 6 months prior to admission.
+b. Patient currently has low RBC, HgB, HCT, platelets - could be due to dilution post 
+IV NS bolus. Monitor.
+c. Order haptoglobin, LDH, reticulocyte count, CBC
+4. Benign prostatic Hyperplasia
+a. Hold home meds because of hypotension
+5. Diabetes
+a. Insulin Lispro (HumaLOG) Sliding Scale. subcutaneous before each meal and 
+bedtime
+F: none
+E: replete
+N: NPO
+P: enoxaparin
+Dispo: med-surg, tele
+Code: FULL

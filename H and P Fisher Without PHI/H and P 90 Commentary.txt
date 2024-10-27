@@ -1,0 +1,70 @@
+
+Although you did submit the H&P yesterday, it was only 10 minutes before midnight, and so I don't feel too guilty about not
+getting back to you until now. As I expected, the write-up has many strengths. I will mention these, as well as make a few
+constructive suggestions to add even more strength to your excellent work.
+1. First, before I forget, I want to compliment you for not using "admit" "claim" "deny" and "endorse" in describing the
+patient's reporting of symptoms.
+2. I commend you for indicating the informant and the informant's reliability right up front. This excellent practice allows
+the reader to apply the appropriate degree of skepticism (which in this case is, essentially, none) to what is reported. We
+always want to feel able to rely on the accuracy of what is reported.
+3. It is excellent that you included the duration of the chief complaint right up front with the chief complaint itself.
+4. What you have given as the HPI (reported very well, with good detail but no really unnecessary information in the first
+paragraph) is actually the most recent episode in an illness that really began with the initial pulmonary embolus and the
+factors/events that led up to it. This pulmonary embolism is, now, the second instance of that event. In my world (and,
+also, in the world of the editors of the New England Journal of Medicine, as illustrated in their feature "Case Records of the
+Massachusetts General Hospital"), it is important to begin at the beginning of the actual present illness. Sometimes that
+means starting with the earliest risk factor for what eventually happened. For example, if someone comes in with
+hemoptysis and is a smoker, it is appropriate to begin with the smoking history and the patient's state of health prior to any
+smoking. If it is a patient with a painful sickle cell crisis, it would be reasonable, in my opinion, to start with the very first
+symptom of sickle cell disease, which, often, is painful swelling of the fingers ("dactylitis"). In the narrative of this patient, I
+might begin as follows:
+This is a 56 year-old female who was in apparent good health until XXXXX, 2021, when she had (give the
+symptoms) and was found to have deep vein thrombosis (state where and how extensive) and pulmonary
+embolism. She was initially anticoagulated and treated with abixaban. She continued to take apixaban and felt well, but
+stopped taking it nine months prior to admission because (and give the reason, if known). She continued to feel
+well until two hours prior to admission...(and then give the information that you so eloquently reported in the first
+paragraph of the HPI).
+It is important to make the HPI as chronological as possible (which is always done in the New England Journal of
+Medicine).
+The second paragraph of the HPI as you have recorded it is really part of the "Hospital Course" and not part of the HPI as
+it was up to the time of admission. Most authorities would include in the HPI only events that occurred up to the moment of
+admission. It is good to include this information where you did, but it would be more accurate to label it "Hospital Course".
+It might have been useful to indicate, in the HPI, why she stopped taking the apixaban.
+5. I commend you for not mentioning, in the ROS, what you have already mentioned in the HPI.
+6. In the PMHx, the HTN belongs there, and, perhaps the OSA (although that may have been reasonable to add at the
+end of the HPI); but the DVT and PE really are inseparable parts of the HPI. In my world, HPI and PMH are usually
+mutually exclusive.
+7. In a hospital admission note (which is, really, a comprehensive H&P), it is appropriate to include, in the Family History,
+parents, siblings, and children, with ages and state of health. In this case, the absence of a familial thrombotic diathesis
+would have been appropriate to incorporate into the HPI, together with any other risk factors for the patient's DVTs.
+8. I personally like to describe the heart rhythm with the heart rate in the Vitals. And when the patient is tachypneic, it is
+useful to describe if there is any respiratory distress. (Actually, most authorities prefer that the presence or absence of
+respiratory distress always be mentioned in the general description. In your instance, you mentioned that she was "in no
+painful distress". I'm not sure what that means. With tachypnea, you'd want to mention distress relating to the work of
+breathing.
+9. Please form the habit of percussing every chest. It only takes about 15 seconds. If she had a big pulmonary infarct
+you might detect in with percussion.
+10. Although "regular rate and rhythm" is a catch phrase in wide use, it is really the rhythm that is regular. The rate is
+either normal, rapid, or slow. It is very important that your descriptions be as precise as possible.
+11. It is excellent that you recorded the presence of distal pulses. It would be more complete to describe their amplitude,
+at least in general terms (e.g., 2+ for normal, 4+ or "bounding" for very abnormally strongly felt pulses, such as you might
+2/23/23, 6:17 PM Re: H&P2
+https://mail.aol.com/webmail-std/en-us/PrintMessage 2/2
+see with severe aortic insufficiency [water hammer pulses]). It is also important to mention whether the amplitude of the
+pulses is symmetrical. Several lives have been saved when asymmetry of peripheral pulses is pursued.
+12. Except for your not considering the beginning of this illness to be with the first pulmonary embolism, your A/P
+discussion is outstanding. I am especially pleased that you expressed concern about a hypercoagulable state (which old
+fogies like me sometimes call a thrombotic diathesis). And I am extremely pleased that you raised the spectre of an occult
+malignancy that may have predisposed her to this problem. While it is true that her sedentary life and substantial obesity
+may have contributed to it, as a dear colleague of mine used to say "a dog can have ticks and fleas at the same time." I
+think it would be very reasonable to do a search for an underlying malignancy at this point.
+13. Your EBM section is excellent and very relevant to the immediate management of this patient. Your analysis of the
+paper reflects sound clinical insight and very good scholarship.
+Emma, I hope that these comments don't come across as unduly critical. There are so many strengths in this write-up.
+But, to me, it is very important in constructing the HPI to recognize where it actually begins and what are events in the
+overall narrative. This will teach you to seek the earliest symptoms and signs of illnesses and, hopefully, prevent severe
+consequences later on for the patient(s). I perceive in your work, thus far, real clinical acumen and excellent ability to
+express your thoughts and report your observations. What I am suggesting, really, is just to add a little polish that will give
+your work even more luster, enabling you to enlighten your colleagues and, I hope one day, your students.
+I look forward to your third H&P with eager anticipation.
+Respectfully,

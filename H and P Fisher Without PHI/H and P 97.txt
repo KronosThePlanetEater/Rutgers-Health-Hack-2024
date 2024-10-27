@@ -1,0 +1,242 @@
+
+"This is a practice note that will be filtered from the legal medical record. Practice notes 
+may not be attested or used for billing purposes. At the discretion of the 
+attending/supervising provider, medical students may be allowed to write a H&P and/or
+progress note. With the proper attestation, these notes may be used for billable purposes. 
+Please speak with your supervising/attending regarding whether you should be using a 
+practice note or a H&P/progress note at this time."
+History and Physical
+Informant: Patient, Patient’s sister, Old records from previous ED visits and inpatient psych 
+hospitalization
+Reliability: Patient – Poor (not delirious, but poor historian and tangential), Patient’s sister – Fair 
+(not aware of patient’s medical history)
+Chief Complaint:
+Alcohol Withdrawal for 3 days, Auditory/Visual hallucinations
+History of Present Illness:
+This is a 46 y.o. male with a PMH of EtOH use disorder, Major Depressive Disorder with psychotic 
+features, and T2DM who presents with auditory/visual hallucinations and concerns for alcohol 
+withdrawal after not drinking 3 days ago. Pt has been drinking since he was 14yo and has had 
+frequent ED visits for either alcohol intoxication (normally drinking about 10 beer cans daily) or 
+alcohol withdrawal. He has a history of voluntary inpatient psychiatric hospitalization in July 2020 
+due to MDD with severe psychosis. Per collateral from patient’s sister, patient has been to alcohol 
+rehabs several times, with the most recent stay last year. Per chart review, he had stated that he 
+had 1 episode of unwitnessed seizure in the setting of alcohol binging in January 2022. Pt’s sister
+describes that patient has been evicted from apartments several times due to drinking problems 
+and was brought to the sister’s residence a few days ago. However, once he came to his sister’s 
+residence, he promised to stop drinking and last drank 3 days ago prior to arrival. On the first day 
+of not drinking, he reports he was nauseous, vomited, and had abdominal pain that improved. On 
+the second day of not drinking, patient’s sister reports that patient was describing he saw and 
+heard people in his sister’s house upstairs when there was no one at home. Today prior to arrival, 
+patient’s sister witnessed the patient running towards a house that he described was “burning,” 
+but the house was not burning.
+At bedside, patient appears disheveled and remains tangential when asking questions. He does 
+not complain of any fever, nausea, vomiting, headaches, chest pain, dyspnea, abdominal pain,
+auditory/visual hallucinations, tactile hallucinations, and SI/HI. 
+Review of Systems:
+Review of Systems
+A complete review of systems was performed and was otherwise negative. 
+Past Medical History:
+As mentioned above.
+
+
+Past Surgical History:
+Past Surgical History:
+Procedure Laterality Date
+• NO PAST SURGERIES
+Home Medications:
+None
+Allergies:
+No Known Allergies
+Social History:
+Social History
+Socioeconomic History
+• Marital status: Single
+Occupational History
+• Worked at a warehouse for 13 years
+Currently unemployed; looks around for different jobs, performing various jobs on different 
+days
+Tobacco Use
+• Smoking status: Current Every Day Smoker; Pt's sister reports he smokes 1pack 
+per day since he was 30yo; 16 pack year
+• Smokeless tobacco: Never Used
+Substance and Sexual Activity
+• Alcohol use: Yes
+Alcohol/week: 70.0 standard drinks
+Types: 10 cans of beer daily
+• Drug use: Never
+Social History Narrative
+Pt reports he was residing in his sister's house before being brought in by her. Pt's sister reports 
+he has been evicted from several apartments due to his alcohol use.
+Family History:
+Family History
+Problem Relation Name Age of Onset
+• No Known 
+Problems
+Mother
+• Alcoholic Father (Deceased) Unknown
+
+
+Exam: 
+Vitals:
+01/14/23 1047
+BP: 124/84
+BP Location: Right arm
+Patient 
+Position:
+Sitting
+Pulse: (!) 113 regular rhythm
+Resp: 18
+Temp: 37.1 °C (98.7 °F)
+SpO2: 97%
+Weight: 83.9 kg (185 lb)
+Height:
+BMI: 
+1.575 m (5' 2")
+33.8 kg/m2
+Physical Exam
+Constitutional: 
+Appearance: He is obese. He is not in acute distress.
+Comments: Appears confused/disheveled
+HENT: 
+Head: Atraumatic. 
+Mouth/Throat: No pharyngeal erythema. 
+Mouth: Mucous membranes are dry. 
+Eyes: 
+Conjunctiva/sclera: Scleral icterus
+Right eye: Right conjunctiva is injected. 
+Cardiovascular: 
+Rate and Rhythm: Regular rhythm. Tachycardia present. 
+ Heart sounds: No murmurs, rubs, or gallops.
+ PMI ~7cm from midsternal line, in 5th intercostal space.
+Pulmonary: 
+Effort: No respiratory distress. Normal pulmonary effort.
+ Normal resonance to percussion.
+Breath sounds: Normal breath sounds. No wheezing, rhonchi or rales. 
+Abdominal: 
+General: Abdomen is flat. Bowel sounds are normal. There is no distension. 
+Palpations: Abdomen is soft. No hepatomegaly (liver span 13.5cm) or splenomegaly (spleen 
+span 9cm)
+Tenderness: There is no abdominal tenderness. There is no right or left CVA tenderness.
+
+
+Musculoskeletal: 
+ General: No tenderness.
+Right lower leg: No edema. 
+Left lower leg: No edema. 
+Skin:
+General: Skin is warm and dry. 
+Neurological: 
+Mental Status: He is oriented to person, place, and time. 
+Motor: Tremor (b/l) present. 
+ Sensory: Sensation is intact.
+Psychiatric: 
+Attention and Perception: He is inattentive. He does not perceive auditory or 
+visual hallucinations. 
+Speech: Speech is tangential. 
+Thought Content: Thought content does not include homicidal or suicidal ideation. 
+Comments: Did not report any AVH, SI, or HI at bedside.
+Labs:
+Recent Labs
+Lab Units 01/14/23
+1146
+WBC AUTO 10*3/uL 7.75
+HEMATOCRIT % 35.6*
+HEMOGLOBIN g/dL 12.2*
+PLATELETS AUTO 10*3/uL 111*
+MCV fL 84.4
+RDW-CV % 13.0
+Recent Labs
+Lab Units 01/14/23
+1122
+SODIUM mmol/L 135*
+CHLORIDE mmol/L 93*
+POTASSIUM mmol/L 3.60
+CO2 mmol/L 24.2
+BUN mg/dL 11
+CREATININE mg/dL 0.5
+CALCIUM mg/dL 9.4
+MAGNESIUM mg/dL 2.2
+ANION GAP mmol/L 18*
+Recent Labs
+Lab Units 01/14/23
+1122
+
+
+ALT U/L 51*
+AST U/L 79*
+ALK PHOS U/L 89
+ALBUMIN g/dL 4.5
+INR 0.99
+Imaging:
+XR Chest 1 View
+Narrative: EXAM: XR CHEST 1 VIEW
+CLINICAL INDICATION: fever;
+TECHNIQUE: A single view of the chest was obtained.
+COMPARISON: 7/8/2020
+Impression: Postsurgical changes/Catheters and Support Devices:
+None. 
+Lungs/Pleural Spaces:
+Within normal limits.
+Heart/Mediastinum:
+Within normal limits. 
+Other:
+No other significant findings.
+Summary:
+No radiographic evidence of acute cardiopulmonary disease.
+Electronic access to images available to referring providers online.
+FINAL RESULT BY: Yaron Lebovitz MD DICTATED: 2/10/2022 1:27 AM
+Problem List:
+Patient Active Problem List
+Diagnosis Date Noted
+• Alcohol abuse with intoxication (CMS/HCC) 05/13/2022
+• Alcohol abuse with withdrawal (CMS/HCC) 01/14/2023
+• Alcohol withdrawal, uncomplicated (CMS/HCC) 02/10/2022
+Assessment/Plan:
+This is a 46 y.o. male with a PMH of EtOH use disorder, MDD with psychotic features, and T2DM 
+who presents with auditory, visual hallucinations and alcohol withdrawal concerning for alcoholic 
+
+
+hallucinosis vs psychosis.
+# Alcohol Withdrawal
+- hx of drinking since age 14, multiple rehabs and ED visits
+- last drink 3 days prior to arrival
+- CIWA protocol 
+- Zofran PRN for nausea
+- MVI, folate, thiamine
+- tele monitoring
+- peer recovery consulted
+#Hallucinations
+#MDD with psychotic features
+Hallucinations are concerning for alcoholic hallucinosis vs psychosis (given patient’s hx of MDD 
+with features of psychosis and previous voluntary psych hospitalization in 7/2020 where he was 
+rx’ed Risperdal 1mg PO at bedtime, Prozac 30mg PO daily which he does not take right now). 
+- CIWA as above
+- UDS
+- consult psych tomorrow AM
+# Elevated LFTs, Thrombocytopenia
+ALT 51, AST 79, total bili 1.9. Mildly elevated LFTs which were normal during previous ED visits. 
+Most likely 2/2 alcohol use. 
+- RUQ U/S to rule out cirrhosis
+#Thrombocytopenia
+Plt 111 on admission, previously 200s on previous visits. Most likely 2/2 liver disease.
+- Follow-up HIV, HCV
+# Anion gap Metabolic acidosis
+AG 18, most likely 2/2 alcoholic ketoacidosis vs starvation ketosis d/t poor PO intake. Lactate was 
+1.10 wnl, ruled out lactic acidosis.
+- continue to monitor BMP
+- U/A for ketones
+- ? VBG if needed for further exploration of metabolic acidosis
+# Normocytic Anemia
+Hb 12.2, MCV wnl. Most likely 2/2 alcohol use.
+- F/u iron studies, vit B12, folate
+# T2DM (not on home meds)
+HbA1c 6.6 on ED visit 2/2022. Was rx'ed metformin 500mg bid during that admission, but he is no 
+longer taking any medications. Glucose 167 today on admission.
+- Monitor Glucose levels
+- Can start ISS if sugars > 180
+- Follow-up A1c, lipid panel
+
+
+
+
+

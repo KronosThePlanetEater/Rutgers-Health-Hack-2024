@@ -1,0 +1,244 @@
+
+ 
+"This is a practice note that will be filtered from the legal medical record. Practice notes 
+may not be attested or used for billing purposes. At the discretion of the 
+attending/supervising provider, medical students may be allowed to write a H&P and/or 
+progress note. With the proper attestation, these notes may be used for billable 
+purposes. Please speak with your supervising/attending regarding whether you should 
+be using a practice note or a H&P/progress note at this time." 
+ 
+History and Physical 
+Chief Complaint: 
+L eye blurry vision, abdominal pain, diarrhea
+History of Present Illness: 
+This is a 47 year-old male who was diagnosed with T2DM at age 25, and was 
+started on insulin. He continued his medications until a year ago, when he decided to 
+discontinue insulin since his glucose levels have been stable when monitored at home. 
+One week prior to admission, he noticed sharp, stabbing epigastric abdominal pain 
+which he rated as 7/10 on the pain scale. He describes the pain would come and go. In 
+addition, he noted 1-2 daily episodes of watery, non-bloody, brown/yellow diarrhea for 
+one week. He also describes decreased oral intake of solids and liquids during this time 
+period. A few hours prior to admission, he woke up in the morning with left frontal 
+headache and blurry vision in his left eye. He notes feeling like there is a curtain over his 
+eye where he can only see silhouettes and outlines in the left visual field. He describes 
+slightly better vision in his left peripheral field. He does not complain of any changes in 
+vision of his right eye in all visual fields. He does not experience any pain with eye 
+movements.
+After admission, he describes his abdominal pain and headache are now resolved. 
+He describes he has been urinating normally. He did not experience any fever, chills, 
+nausea, vomiting, chest pain, palpitations, cough, shortness of breath, and dysuria. He 
+has not undergone any recent surgeries and has not traveled recently. He has not been 
+exposed to any sick individuals and did not try any new food recently. 
+Review of Systems:
+Constitutional: Negative for chills and fever. Decreased PO intake. 
+HENT: Negative for ear pain, hearing loss, rhinorrhea, sneezing, sore throat, trouble 
+swallowing and voice change. 
+Eyes: Negative for pain and redness. L eye blurry vision (slightly better on L peripheral 
+visual field). Negative for vision changes in his R eye.
+Respiratory: Negative for cough, chest tightness and shortness of breath.
+Cardiovascular: Negative for chest pain and palpitations. 
+Gastrointestinal: Negative for abdominal distention, blood in stool, nausea and vomiting. 
+Abdominal pain: Epigastric, stabbing, sharp (now resolved). Diarrhea: Watery, 
+brown/yellow, non-bloody.
+
+
+Genitourinary: Negative for decreased urine volume, difficulty urinating, dysuria and 
+urgency. 
+Musculoskeletal: Negative for neck pain. 
+Allergic/Immunologic: Negative. 
+Neurological: Negative for speech difficulty. Headaches: L frontal headache (now 
+resolved)
+Psychiatric/Behavioral: Negative. 
+Past Medical History: 
+Diabetes mellitus (diagnosed at age 25). Patient is currently not on any medications.
+Past Surgical History: 
+Patient has not undergone any surgeries.
+Home Medications:
+Patient is not on any home medications.
+Allergies: 
+No Known Allergies
+Social History: 
+Patient has never smoked cigarettes before. Patient describes occasionally consuming 
+alcohol (1-2 times a month). His most recent alcohol intake was last Friday (5 days prior 
+to admission), when he drank about 6oz of whiskey. Patient has never used drugs before. 
+He is currently unemployed. He describes living at home with a friend. 
+Family History: 
+Patient describes having one older sister with high blood sugar levels. Otherwise, the rest 
+of his family members are in good health. 
+Exam: 
+Vitals:
+01/04/23 0710 01/04/23 1121
+BP: (!) 201/101 (!) 181/99
+BP Location: Right arm
+Patient 
+Position:
+Sitting
+Pulse: 87 83
+Resp: 16 18
+Temp: 36.7 °C (98.1 °F)
+TempSrc: Temporal
+SpO2: 99% 96%
+Weight: 75 kg (165 lb 5.5 oz)
+Height: 1.6 m (5' 3")
+
+
+Physical Exam
+Constitutional: 
+ General: He is not in acute distress.
+ Appearance: He is not ill-appearing. He appears well-nourished.
+HENT: 
+ Head: Atraumatic. No pain upon palpation. 
+ Nose: No congestion or rhinorrhea. 
+ Mouth: Mucous membranes are moist. 
+ Pharynx: Oropharynx is clear. 
+ No jaw pain. 
+Eyes: 
+ General: Visual field deficit (L visual field deficit, slightly better on the L peripheral 
+visual field, normal R visual fields) present. No scleral icterus.
+ Extraocular Movements: Extraocular movements intact. 
+ Conjunctiva/sclera: Conjunctivae normal. 
+ Pupils: Pupils are equal, round, and reactive to light. 
+Cardiovascular: 
+ Rate and Rhythm: Normal rate and regular rhythm. 
+ Pulses: Normal pulses. 
+ No murmurs, rubs, or gallops.
+Pulmonary: 
+ Effort: Pulmonary effort is normal. No respiratory distress. 
+ Normal resonance to percussion.
+ Breath sounds: Normal breath sounds. No wheezing, rhonchi or rales. 
+Abdominal: 
+ General: Abdomen is flat. Bowel sounds are normal. There is no distension. 
+ Palpations: Abdomen is soft. 
+ Tenderness: There is no abdominal tenderness. There is no right CVA tenderness or left 
+CVA tenderness. 
+Musculoskeletal: 
+ Cervical back: Normal range of motion. 
+ Right lower leg: Edema (2+) present. 
+ Left lower leg: Edema (2+) present. 
+Skin:
+ General: Skin is dry. 
+Neurological: 
+ Mental Status: He is alert and oriented to person, place, and time. 
+ Cranial Nerves: No facial asymmetry. No CN deficits other than the CN2 testing of the L 
+eye.
+ Sensory: Sensation is intact. 
+ Motor: Motor function is intact. 
+Labs: 
+
+
+ 
+Recent Labs
+Lab Units 01/04/23
+0820
+WBC AUTO 10*3/uL 6.13
+HEMATOCRIT % 35.1*
+HEMOGLOBIN g/dL 11.2*
+PLATELETS 
+AUTO
+10*3/uL 232
+MCV fL 84.2
+RDW-CV % 13.6
+Recent Labs
+Lab Units 01/04/23
+1055
+01/04/23
+0820
+SODIUM mmol/L 141 139
+CHLORIDE mmol/L 111* 108
+POTASSIUM mmol/L 5.90* 6.10*
+CO2 mmol/L 20.3* 18.5*
+BUN mg/dL 29* 32*
+CREATININE mg/dL 3.0* 3.9*
+CALCIUM mg/dL 8.8 9.6
+ANION GAP mmol/L 10 13
+Recent Labs
+Lab Units 01/04/23
+0820
+ALT U/L 18
+AST U/L 23
+ALK PHOS U/L 74
+ALBUMIN g/dL 3.6
+Imaging: 
+No image results found.
+Problem List: 
+Diagnosis Date Noted
+• AKI (acute kidney injury) (CMS/HCC) 01/04/2023
+• Vision loss of left eye 01/04/2023
+• Hypertensive urgency 01/04/2023
+
+
+Assessment/Plan: 
+XXXXX XXXXX is a 47 year-old male with PMH of T2DM who presents with 1 week of 
+epigastric, sharp abdominal pain and watery, non-bloody diarrhea, in addition to acute 
+onset of L frontal headache and L eye blurry vision this morning. His BUN levels and 
+elevated creatinine, in addition to physical exam findings of bilateral pitting edema, are 
+suggestive of AKI on undiagnosed CKD. His monocular vision loss associated with 
+headache can be due to retinal diseases (eg, central retinal artery occlusion, retinal 
+detachment) or optic disc abnormalities (eg, giant cell arteritis, inflammatory conditions).
+There is also concern for hypertensive urgency given that his BP ranged from 181/99-
+201/101. 
+# AKI on undiagnosed CKD
+Since the patient reported decreased PO intake and a week of daily episodes of diarrhea, 
+pre-renal acute kidney injury is most likely. Given his history of diabetes and elevated 
+creatinine level at 3.9mg/dL upon admission, there could be underlying undiagnosed 
+chronic kidney disease. 
+[ ] give 1L IV fluids
+[ ] Renal and urinary bladder ultrasound to rule out obstructive causes of AKI
+[ ] Urinalysis and urine lytes to have diagnostic insight (eg, looking for RBCs, proteinuria)
+#Left eye blurry vision
+Patient describes sudden onset of left eye vision blurriness that is not resolving, which he 
+noted as “curtain over his eye.” He also describes associated L frontal headache that is 
+now resolved. He does not experience any periorbital pain or pain with extraocular 
+movements. Although a clear etiology is not available at this time, some differentials are 
+central retinal artery occlusion given his history of diabetes and sudden onset, giant cell 
+arteritis, central retinal vein occlusion, and retinal detachment. Giant cell arteritis is less 
+likely given the lack of temporal headache, jaw pain, fever, and scalp tenderness. 
+[ ] Consult optho for comprehensive eye examination (funduscopic examination)
+[ ] Carotid doppler to rule out carotid atherosclerosis (common cause of central retinal 
+artery occlusion)
+[ ] ESR, CRP to rule out inflammatory causes of optic disc abnormalities (eg, giant cell 
+arteritis
+#Hypertensive Urgency
+Patient had blood pressure ranging from 181/99-201/101. Although he presented with 
+headache and monocular vision loss, it is challenging to assess if there is evidence of end 
+organ dysfunction. The goal to control his blood pressure will involve lowering his BP by 
+25%. 
+[ ] Administer 1 dose of 10mg hydralazine and reassess blood pressure
+#Hyperkalemia
+
+
+Labs showed his K was at 6.1, but patient does not have any cardiac symptoms of 
+hyperkalemia like heart palpitations/arrhythmias on EKG nor any signs of muscle 
+weakness. 
+[ ] Administer IV calcium gluconate
+[ ] Start Lokelma (sodium zirconium cyclosilicate) 
+#Abdominal pain, non-bloody diarrhea
+Patient’s GI symptoms (abdominal pain, diarrhea) are most likely due to self-limited viral 
+gastroenteritis. Since he does not have other concerning symptoms such as fever, anuria, 
+dizziness, hematochezia, and vomiting, we can continue to monitor his GI symptoms
+without additional interventions. His abdominal pain is also now resolved. 
+#Uncontrolled diabetes
+Although the patient was on insulin until a year ago, he presented to the ED without 
+being on any glucose-controlling medications and elevated glucose levels of 166.
+[ ] Measure HbA1c
+[ ] Start Insulin sliding scale
+Literature Search
+What is the best algorithmic approach to evaluating acute kidney injury?
+- Start with prerenal causes of AKI to determine if there is decreased kidney 
+perfusion due to fluid depletion, heart insufficiency, or renal vasoconstriction. If 
+prerenal causes are ruled out, postrenal causes such as obstruction should be 
+ruled out by using an ultrasound. If postrenal cause is also ruled out, we can 
+explore intrarenal causes of AKI such as acute interstitial nephritis, 
+glomerulonephritis, and other nonspecific causes (eg, ischemia, toxins, sepsis). 
+Kellum JA, Lameire N; KDIGO AKI Guideline Work Group. Diagnosis, evaluation, and 
+management of acute kidney injury: a KDIGO summary (Part 1). Crit Care. 
+2013;17(1):204. Published 2013 Feb 4. doi:10.1186/cc11454
+Makris K, Spanou L. Acute Kidney Injury: Diagnostic Approaches and Controversies. Clin 
+Biochem Rev. 2016;37(4):153-175.
+How can screening for albuminuria be useful for patients with T2DM?
+- Increased urinary protein excretion is an early manifestation in diabetic 
+nephropathy, so using a specific assay for albumin can be clinically significant for 
+having insight into developing nephropathy in diabetic patients. 
+Satchell SC, Tooke JE. What is the mechanism of microalbuminuria in diabetes: a role for 
+the glomerular endothelium?. Diabetologia. 2008;51(5):714-725. doi:10.1007/s00125-
+008-0961-8

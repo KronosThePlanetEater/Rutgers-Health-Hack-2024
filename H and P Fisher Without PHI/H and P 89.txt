@@ -1,0 +1,133 @@
+
+*History provided by patient and mom at bedside
+CC: severe upper mid abdominal pain for 6 days
+HPI: This is an otherwise healthy 34-year-old female who presented at 2 AM this morning to the 
+ED for evaluation of constant epigastric pain that started 6 days ago. 6 days prior to admission 
+she states that after she drank concentrated apple juice she developed epigastric pain. She 
+reports that the pain has been constant over the past 6 days, waxing and waning in severity, 
+and is most severe after meals. She reports that the pain radiates to her back and describes it 
+as 10/10 in severity at its worst. To relieve the pain, she smokes marijuana (see amount in 
+social history) which provides some relief to a severity of 4-5/10. She has not taken any other 
+medication for the pain. The pain has interrupted her sleep over the past 6 days and 3 days 
+prior to admission she describes an instance where she woke up and was covered with sweat. 
+She reports nausea which is associated with the pain when it is severe, but no vomiting. She 
+states that she has never had pain like this before. She reports a history of heartburn over the 
+last “several years”, but says this pain is different than the discomfort and burning she 
+experiences with that. The patient also notes that her stool has been pale-yellow in color and 
+her urine is bright yellow – both things she has not experienced prior to 6 days ago.
+ROS: 
+CONSTITUTIONAL: no weight loss, fever and chills.
+HEENT: no changes in vision or hearing.
+RESPIRATORY: no SOB or cough.
+CV: no palpitations or CP.
+GI: (+) abdominal pain, nausea, pale stool. No vomiting or diarrhea.
+GU: no dysuria or urinary frequency.
+MSK: no myalgia or joint pain.
+SKIN: no rash or pruritus.
+NEUROLOGICAL: no headache or syncope.
+PSYCHIATRIC: no recent changes in mood. No anxiety or depression.
+PMHx:
+Migraines since she was a “young girl” that have not bothered in for “sometime now”
+SurgHx:
+No past surgeries.
+Medications:
+Patient does not take any prescription or over-the-counter medication, nor supplementals or 
+vitamins.
+Allergies:
+No known allergies to drugs, food, latex, or environmental exposures.
+Emma Idzikowski IM H&P1 Submitted February 19, 2023 7:36 am
+Social Hx:
+Smokes marijuana – “one bowl per day after work”. When she stays home from work, she 
+reports taking “a few puffs a couple of times an hour”.
+Consumes alcohol – a few glasses of wine 2-3x per week.
+Does not use other drugs such as cocaine or heroin.
+Patient works as a 911 dispatcher for the county.
+She lives alone in an apartment.
+FamHx:
+Mother and maternal grandmother with breast cancer.
+No known medical problems on paternal side.
+Patient does not have any children or siblings.
+PE:
+Vitals – T 36.9C (98.4F), HR 81 – regular rhythm, RR 17, BP 113/88, 98% RA
+Constitutional:
+ Thin appearing female, resting comfortably in bed. In no distress.
+HENT: 
+ Head: Normocephalic. 
+ Mouth: Mucous membranes are moist and anicteric.
+Eyes: 
+ Pupils: Pupils are equal, round, and reactive to light. Sclera anicteric.
+Cardiovascular: 
+ Rate and Rhythm: Normal rate and regular rhythm. 
+ Pulses: Normal pulses. 
+ Heart sounds: Normal heart sounds. 
+Pulmonary: 
+ Effort: Pulmonary effort is normal. 
+ Breath sounds: Normal breath sounds. 
+Abdominal: 
+ General: Abdomen is flat. There is no distension or tympany.
+ Tenderness: There is abdominal tenderness. There is no guarding. 
+ Comments: Epigastric tenderness to deep palpation. Liver span 4.5 cm midsternal line; 7 cm 
+midclavicular line
+Musculoskeletal: 
+ General: Normal range of motion. 
+Skin:
+ General: Skin is warm. 
+ Capillary Refill: Capillary refill takes less than 2 seconds. 
+ Coloration: Skin is not jaundiced. 
+Neurological: 
+ General: No focal deficit present. 
+ Mental Status: She is alert and oriented to person, place, and time. Mental status is at 
+baseline. 
+Psychiatric: 
+ Mood and Affect: Mood normal.
+
+Labs:
+WBC 8.19
+Hgb 14.3
+Plt 157
+ALT 227 > 200
+AST 415 > 392
+Alk Phos 93 > 107
+Lipase 45
+Imaging:
+US abdomen RUQ –
+Cholelithiasis, without definite sonographic evidence of cholecystitis. However, given findings 
+on same-day CT, further evaluation with a nuclear medicine HIDA scan could be obtained to 
+evaluate for cystic duct patency.
+CT Abdomen Pelvis with contrast -
+Cholelithiasis with minimal gallbladder wall thickening and diffuse wall hyperenhancement. 
+There is mild pericholecystic fluid noted adjacent to the cystic duct. The common bile duct 
+measures 6 mm in diameter. Findings overall are suggestive of acute cholecystitis. 
+Recommend further evaluation with right upper quadrant ultrasound.
+Left adnexal lesion measuring up to 2.8 cm, could represent hemorrhagic cyst however 
+dedicated pelvic ultrasound with Doppler is recommended for further evaluation.
+A/P:
+This is an otherwise healthy 34-year-old female who presented to the ED for epigastric pain 
+radiating to her back for the past 1 week and pale stools. ED workup revealed elevated AST, 
+ALT, Tbili, gallstones on CTAP and RUQ US, concerning for choledocholithiasis. GI has been 
+consulted and patient is schedule for an ERCP tomorrow.
+#Epigastric pain
+#Elevated AST, ALT, Tbili
+#Cholelithiasis
+Given the presence of gallstones and subsequently elevated AST, ALT and T bili we are 
+concerned for choledocholithiasis with possible concern for cholecystitis provided the CTAP 
+demonstrating gallbladder wall thickening, enhancement, and mild pericholecystic fluid. 
+However, it is encouraging that her WBC is normal and she remains afebrile. Patient will have 
+an ERCP done tomorrow which will help to identify any stones that are stuck in the CBD causing 
+obstruction and they will subsequently be removed with possible stent placement. With her 
+uptrending T bili (3.4 > 4.4) we will continue to monitor for obstruction and check after her 
+ERCP. Her UA was positive for bilirubin, but the patient does not have jaundice at the current 
+moment. Nonetheless, it is reassuring that her CBD is 6mm, on the upper end of normal as this 
+does not indicate a major, continuous obstruction. It is also reassuring that her lipase (=45) is
+within normal limits, suggesting against an episode of acute pancreatitis. Another differential 
+diagnosis to consider is cholangitis, but in the setting of being afebrile, alert, and normotensive 
+
+
+this is much less likely. We may also think about Sphincter of Oddi dysfunction, however with in 
+the presence of gallstones being the primary suspicion for the cause of intermittent 
+obstruction, this may be less likely.
+For symptomatic management we will give Zofran 4 mg PRN for nausea and vomiting and 
+Toradol 15 mg PRN for pain. Once the patient’s acute presentation including AST, ALT, and T bili 
+are resolved she will likely need to follow up with surgery for a cholecystectomy in the next 2-3 
+weeks. In the interim patient will remain NPO starting at midnight tonight for her ERCP 
+tomorrow.

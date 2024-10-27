@@ -1,0 +1,284 @@
+
+Informant: the patient, supplemented by her husband 
+Reliability: the patient is reliable, except for descriptions of her episodes
+CC: “I passed out twice this morning” 
+ 
+HPI 
+A 75 y.o. female with a pmh of TIA, recurrent syncope and HTN who presents with two episodes 
+of syncope today. The first was in bed at approximately 3 AM and the second was when getting 
+up and going to the bathroom around 7 am. This is the first time she has ever had two in the 
+same day, and the latter was the longest one she has ever had, estimated to be between 10 and 
+15 minutes by her husband who witnessed them both. She normally has two of these "attacks" 
+a year. She has no memory of them. She is fatigued after each event. No headache. No 
+confusion. The episodes are not preceded by an aura but sometimes there is lightheadedness 
+beforehand, but usually by surprise. She can be awakened from these episodes by splashing 
+cold water on her and by tapping her face. She believes these are distinct from the TIA which 
+she had one month ago. She visited a neurologist approximately 10 years ago and there was no 
+diagnosis. 
+Her husband states that she has had a poor memory since last spring (6 months), primarily
+affecting her short term memory. He says that she is occasionally non-responsive when they 
+talk to her. She is like a "rubber doll". There was one episode last week where she was getting 
+dressed and putting on tights over her jeans after being told that didn't make sense. She does 
+not remember these episodes. She has had a change in gait over the last year. She is somewhat 
+stooped and takes small steps. Recently, her knees locked up and she could not stand or move. 
+There is no tremor.
+PAST MEDICAL HISTORY:
+Hyperlipidemia 
+Hypertension 
+TIA 
+Chronic Syncope
+ 
+PAST SURGICAL HISTORY:
+None
+SOCIAL HISTORY:
+Retired school teacher, retired before the pandemic. 
+Lives with husband. 
+No alcohol/smoking/drug use. 
+Husband was a smoker up until the late '80s. He smoked in the house. 
+FAMILY HISTORY:
+Mother has a complex medical history which includes RA, and htn, although she is not sure of 
+details. Unlikely to have had any neurologic problems. Mother is deceased.
+Father deceased. 
+
+HOME MEDICATIONS/ALLERGIES:
+Prior to Admission 
+medications 
+Medication
+amLODIPine (Norvasc) 5 mg 
+tablet
+aspirin 81 mg EC tablet
+atorvastatin (Lipitor) 40 mg 
+tablet
+ ROS:
+Constitutional: fatigued
+Eyes: no aura, or changes in vision
+Resp: no shortness of breath
+CV: no palpitations/chest pain
+GI: No abdominal pain/changes in bowel movements
+GU: no dysuria
+Neuro: memory changes, husband cites that she has been forgetful over the last year
+Musculoskeletal: no soreness
+Objective
+VITALS:
+Last 24 hours (Low-High, Last) -
+Temp: [36.9 °C (98.5 °F)-37.2 °C (99 °F)] 37.2 °C (99 °F)
+Heart Rate: [70-85] 73
+Resp: [15-18] 18
+BP: (126-150)/(81-84) 150/81
+SpO2: [93 %-98 %] 93 %
+Height - 1.651 m (5' 5")
+Weight - 80 kg (176 lb 5.9 oz)
+Body mass index is 29.35 kg/m².
+No intake/output data recorded.
+I/O this shift:
+In: 1000 [IV Piggyback:1000]
+Out: -
+PHYSICAL EXAM: 
+Physical Exam
+Constitutional: 
+ General: She is not in acute distress.
+ Appearance: She is not toxic-appearing. 
+HENT: 
+ Head: Normocephalic and atraumatic. 
+Eyes: 
+ Extraocular Movements: Extraocular movements intact. 
+ Pupils: Pupils are equal, round, and reactive to light. 
+
+Cardiovascular: 
+ Rate and Rhythm: Normal rate and regular rhythm. 
+ Pulses: Normal pulses. 
+ Heart sounds: Normal heart sounds. No murmur heard.
+ No friction rub. No gallop. 
+Pulmonary: 
+ Effort: Pulmonary effort is normal. 
+ Breath sounds: Normal breath sounds. No dullness to percussion. No hyperresonance. 
+Abdominal: 
+ General: Abdomen is flat. Bowel sounds are normal. 
+ Palpations: Abdomen is soft. 
+ Tenderness: There is no guarding or rebound. 
+Musculoskeletal: 
+ General: No swelling. 
+ Right lower leg: No edema. 
+ Left lower leg: No edema. 
+Lymphadenopathy: 
+ Cervical: No cervical adenopathy. 
+Neurological: 
+ General: No focal deficit present. 
+ Mental Status: She is alert and oriented to person, place, and time. Mental status is at 
+baseline. 
+ CN 2-12 intact 5/5 strength in extremities 
+LAB: 
+Labs: 
+Lab Results
+Component Value Date
+CKTOTAL 89 11/29/2022
+TROPONINT <0.01 11/29/2022
+TROPONINT <0.01 10/06/2022
+TROPONINT <0.01 10/04/2022
+Lab Results
+Component Value Date
+WBC 6.37 11/29/2022
+HGB 13.2 11/29/2022
+HCT 38.5 11/29/2022
+MCV 88.3 11/29/2022
+PLT 211 11/29/2022
+Lab Results
+Component Value Date
+GLUCOSE 116 (H) 11/29/2022
+CALCIUM 8.9 11/29/2022
+NA 136 11/29/2022
+K 3.57 (L) 11/29/2022
+
+CO2 24 11/29/2022
+CL 99.5 11/29/2022
+BUN 13 11/29/2022
+CREATININE 0.797 11/29/2022
+Recent Labs
+Lab Units 11/29/22
+0824
+MAGNESIUM mg/dL 2.0
+Lab Results
+Component Value Date
+ALT 36 11/29/2022
+AST 44 11/29/2022
+ALKPHOS 91 11/29/2022
+BILITOT 0.6 11/29/2022
+Lab Results
+Component Value Date
+CHOL 200 10/05/2022
+Lab Results
+Component Value Date
+HDL 71 10/05/2022
+No results found for: LDLCALC
+Lab Results
+Component Value Date
+TRIG 79 10/05/2022
+Lab Results
+Component Value Date
+HGBA1C 5.1 10/05/2022
+No results found for: TSH
+IMAGING, AND OTHER STUDIES:
+US Carotid Duplex Bilateral
+Conclusions: MINIMAL CAROTID DISEASE BILATERALLY WITH STENOSIS IN THE RANGE OF 0-
+15%. 
+Right: Complete Duplex imaging of the extracranial carotid arteries was performed with B-Mode 
+imaging, color flow analysis, and Doppler Spectral waveform analysis. B-mode imaging reveals 
+minimal to no plaque in the carotid system. Color flow analysis reveals symmetric uniform 
+antegrade flow. Spectral waveforms are normal with a normal spectral window and normal flow 
+velocities. PSV in the ICA is < 100 cm/sec. The vertebral artery displays antegrade flow with 
+normal flow velocities. 
+
+These findings are consistent with a 0-15% stenosis of the internal carotid artery.
+Left: Complete Duplex imaging of the extracranial carotid arteries was performed with B-Mode 
+imaging, color flow analysis, and Doppler Spectral waveform analysis. B-mode imaging reveals 
+minimal to no plaque in the carotid system. Color flow analysis reveals symmetric uniform 
+antegrade flow. Spectral waveforms are normal with a normal spectral window and normal flow 
+velocities. PSV in the ICA is < 100 cm/sec. The vertebral artery displays antegrade flow with 
+normal flow velocities. 
+These findings are consistent with a 0-15% stenosis of the internal carotid artery.
+ 
+CT Head Without Contrast
+Narrative: EXAM: CT HEAD WO CONTRAST
+CLINICAL INDICATION: Syncope, recurrent; Mental status change, unknown cause;
+TECHNIQUE: Axial CT images of the head were obtained without intravenous contrast. Sagittal 
+and coronal reconstructions were performed. CT was performed using one or more dose 
+reduction techniques including automated exposure control, adjustment of the mA and/or kV 
+according to patient size, and/or use of iterative reconstruction technique.
+COMPARISON: MRI 10/5/2022 and CT scan 10/4/2022.
+Count of known CT scans and NM Myocardial Perfusion studies in last 12 months (Quality 
+Measure G9321): 1
+FINDINGS: 
+Ventricles/Extra-axial Spaces: Normal for age.
+Brain Parenchyma: No acute intracranial hemorrhage. No acute territorial infarction. No mass 
+effect or midline shift. Supratentorial white matter low density likely representing moderate 
+chronic small vessel ischemic changes.
+Calvarium: Within normal limits.
+Paranasal Sinuses: Mucosal thickening left sphenoid sinus. 
+Mastoids: Minimal right mastoid fluid. Middle ear cavities and external auditory canals are 
+normally aerated.
+Orbits: Visualized portions unremarkable.
+Other: No other significant findings.
+Impression: Atrophy. White matter changes. Minimal sinus disease and right mastoid fluid. No 
+bleed. No mass. No shift. No infarct. No change.
+Electronic access to images available to referring providers online.
+FINAL RESULT BY: Alan M Saunders MD DICTATED: 11/29/2022 1:52 PM
+ 
+
+XR Chest 1 View
+Narrative: EXAM: XR CHEST 1 VIEW
+CLINICAL INDICATION: cough;
+TECHNIQUE: A single view of the chest was obtained.
+COMPARISON: 10/4/2022
+Impression: Postsurgical changes/Catheters and Support Devices:
+None. 
+Lungs/Pleural Spaces:
+No posterior effusion or pneumothorax
+Heart/Mediastinum:
+Small hiatus hernia. 
+Other:
+No free air.
+Summary:
+Small hiatus hernia.
+Electronic access to images available to referring providers online.
+FINAL RESULT BY: Alan M Saunders MD DICTATED: 11/29/2022 8:32 AM
+ASSESSMENT AND PLAN:
+# recurrent syncope 
+Diff: seizures, absence seizures, vasovagal, cardiac syncope, Alzheimer’s, CJD, Parkinson’s, Lewy 
+Body Dementia, vascular dementia
+- recommend EEG 
+- Consult to neurology 
+- Atrophy and White matter changes evident on head CT 
+- Order MRI per neurology to get better view of the white matter changes (recent one one 
+month ago s/p tia)
+- f/u urinalysis 
+- q4 neruo checks 
+- telemetry 
+- Vascular dementia supported by the history of TIA one month ago and relatively fast memory 
+loss since the spring 
+- follows with cardiologist, saw yesterday for normal echo, scheduled for carotid duplex Friday 
+but performed today and also normal. No known arrhythmias
+- ordered orthostatic blood pressures, but seems unlikely given the high blood pressure at rest. 
+
+# memory changes 
+Diff: Alzheimers, CJD, Parkinsons, Lewy Body Dementia, age related change, vascular dementia, 
+major depression, hypothyroidism 
+- MOCA exam 
+- order tsh 
+- MRI per above 
+# htn 
+- c/w home amlodipine 
+# hld 
+- c/w home statin 
+# hypokalemia = resolved
+Code Status: full
+VTE Prophylaxis: heparin
+Diet Order: normal
+Ask (PICO)
+P: the patient is likely having absence seizures 
+I: what is the treatment for absence seizures in adults 
+C: compared to generalized seizures 
+O: which medications are used 
+Acquire: 
+Panayiotopoulos CP. Treatment of typical absence seizures and related epileptic 
+syndromes. Paediatr Drugs. 2001;3(5):379-403. doi: 10.2165/00128072-200103050-
+00006. PMID: 11393330.
+Appraise: 
+The author was a leader in epilepsy research holding joint appointments at Harvard, the 
+University of Western Australia and St. Thomas Hospital, London. 
+Advise: 
+Absence seizures can be diagnosed by clinical features or by 3 or 4 hz spikes and slow wave 
+forms on EEG. They can have a combination of motor and autonomic dysfunction. Motor 
+movements primarily affect the mouth. This is similar to our patient, as the husband said that if 
+there are any movements, they involve the mouth twitching or jaw clenching. 
+Interestingly, absence seizures can be induced in those afflicted through hyperventilation in 
+90% of patients. Lately, video games have become an increasing prevalent trigger. Other 
+triggers include bright lights or sounds, but it is equally frequent to have no trigger at all. Our 
+patient believes that heat may have something to do with her episodes. 
+Absence seizures are more prevalent in the pediatric population. It is possible people outgrow 
+the condition. 10 to 15% of adults who have epilepsy will have absence seizures. 
+
+As far as treatment, there are three first line therapies including valproic acid, ethosuximide, 
+and lamotrigine. Of these, ethosuximide can be used only in patients who have exclusively 
+absence seizures, and no other type. Their efficacy ranges between 50 and 75% when used as 
+monotherapies. Lamotrigine combined with valproic acid can be used when monotherapy is not 
+sufficient. Clonazepam and acetazolamide can also be used as adjunctive agents. 
