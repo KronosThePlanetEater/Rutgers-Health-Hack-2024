@@ -50,7 +50,9 @@ Similar proccess as to running the other two scripts, when prompted, input the p
 # Optimization
 While the either of BridgeScript.py or BridgeScriptHighlighting.py are running, if on Windows run task-manager and under the performance tab you will see how much of the GPU memory is being used. 
 ![image](https://github.com/user-attachments/assets/78edbbb3-efe4-4e2a-81f3-c4cfee952404) <br />
-You can use this information to change the batch_size number as need so it can run well on your hardware. Higher the batch number the more resources it will use, but run faster. Lower the batch number the less resources it will use, but run slower. (The amount of Vram utilized will vary based on the number)
+You can use this information to change the "batch_size" number as need so it can run well on your hardware. Higher the batch number the more resources it will use, but run faster. Lower the batch number the less resources it will use, but run slower. (The amount of Vram utilized will vary based on the number)
+![image](https://github.com/user-attachments/assets/4ff74b68-10e8-4e8f-8bb3-3c8c68bf4212)
+
 
 # Tools used
 https://www.python.org/downloads/release/python-3120/ <br />
