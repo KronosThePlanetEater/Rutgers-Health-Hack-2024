@@ -3,10 +3,11 @@
 https://www.python.org/downloads/release/python-3120/
 
 # Create your project directory
+in terminal
 mkdir my_project(Or whatever you'd like to name it) <br />
 cd my_project(Or whatever you'd you named it)
 
-# Install PyTorch
+# Install Torch
 pip install torch <br />
 
 # (Optional) Install CUDA Development Kit - version 12.4 recommended <br />
@@ -26,3 +27,10 @@ pip install python-docx docx2txt PyPDF2 hl7
 
 # Verify CUDA and cuDNN Installation
 python -c "import torch; print('CUDA available:', torch.cuda.is_available()); print('cuDNN version:', torch.backends.cudnn.version()); print('CUDA device count:', torch.cuda.device_count()); print('CUDA device name:', torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'No CUDA device')"
+
+# Testing
+First run the bert.py file so that it can download any need information from (https://huggingface.co/medicalai/ClinicalBERT) without running into any major issues. <br />
+Then run clinical_bert_test.py as a demo test to make sure that the AI model is functioning properly. <br />
+
+# Running
+To run our summarizing script, run 
