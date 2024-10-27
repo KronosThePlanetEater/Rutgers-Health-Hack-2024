@@ -1,0 +1,146 @@
+
+CC: Chest pain, dyspnea on exertion 
+HPI: The Patient is a 58-year-old female who, aside from CHF and ACS, was in her usual state of 
+health until one month ago when she noticed worsening dyspnea on exertion accompanied by 
+substernal left-sided pressure while climbing a flight of stairs. It resolved within five minutes of 
+rest. She then checked her hands and feet for swelling and found swelling in her hands 
+bilaterally. She relayed her symptoms to Dr. Iyer who directed her to take extra doses of 
+torsemide and spironolactone. This helped for a few days until symptoms returned. She does 
+not weigh herself regularly but estimates a 4 lbs. weight gain in the past month. She normally 
+can walk 3 blocks before feeling winded, though her exercise tolerance had reduced to 1 block 
+in the week leading up to her admission. She has recently added a third pillow to help her sleep 
+at night. She has not experienced radiating pain to her jaw/shoulder, nausea, vomiting, fever, 
+or chills. She has not changed her diet or level of activity and is diligent with medication 
+adherence. 
+Dr. Iyer told her to come to the ED because her DOE and typical angina have not resolved with 
+outpatient diuresis. In the ED she received furosemide i.v. 40 mg at 1300 last night and 0600 
+today. Her urine output has not been measured but she woke up to urinate ~5 times. When I 
+saw her this afternoon, she described an overnight headache which had resolved and improving 
+dyspnea since starting furosemide. She feels her hand swelling has come down but notes new 
+abdominal distension. She told me that previous CHF exacerbations have been accompanied by 
+hepatic congestion.
+ROS:
+General: No recent illness
+HEENT: No photophobia, visual changes, see HPI
+Chest: See HPI
+CV: See HPI
+Abd: No blood in stool, See HPI
+GU: no dysuria
+Extremities: See HPI:
+Skin: No new rashes
+Neuro: No numbness/weakness
+Psych: patient had trouble sleeping because she felt unsafe in ED. She was concerned that her 
+roommate (who had apparent mental illness) was watching her
+PMH:
+- CHFrEF, 35-40% on 8/2020, LV moderately dilated, grade 1 diastolic dysfunction
+- CAD s/p PCI to RCA 12/2013
+- Moderate MR
+- AICD
+- DM2
+- OSA
+- Obesity
+- HTN
+- HLD
+- Chronic IDA
+- Stage II breast cancer, left breast s/p L total mastectomy 06/2017
+- Colon ca s/o colectomy 2012
+- IBS
+- Gerd
+PSxH:
+- PCI to RCA 12/2013
+- L total mastectomy 6/2017
+- Colectomy 2012 
+Home medications:
+- Aldactone 25 mg po BID
+- Aspirin 81 mg QD
+- Atorvastatin 80 mg po QHS
+- Calcium carbonate 1500 mg po QD
+- Torsemide 20 mg po BID
+- Dicyclomine 10 mg po TID, PRN for abdominal pain
+- Hydralazine 50 mg TID
+- Isosorbide dinitrate 20 mg po TID w/ hydralazine 
+- Insulin glargine 60 units subq BID
+- Insulin aspart 44 units subq TID
+- Letrozole 2.5 mg QD (non-steroid aromatase inhibitor) 
+- Metoprolol succinate 200 mg extended release po QD
+- Omeprazole 40 mg po BID
+- Ondansetron 4 mg q6hr PRN
+- Potassium chloride 60 mEq PO tab, TID
+- Tramadol 50 mg po q6 PRN
+- Trazodone 150 mg QHS
+- Vit D3 2000 intl units po QD
+- Diclofenac 1% topical gel QID for knee pain
+- Zolpidem 10 mg QHS 
+Allergies:
+Losartan  anaphylaxis 
+ace inhibitor  hives, lip swelling
+Morphine  nausea 
+Family history:
+Mother - breast cancer
+Father - HTN 
+Social history:
+Patient has never smoked or used recreational drugs. She has remotely used alcohol but never 
+frequently and not in recent years. She works intermittently as a security guard and lives alone 
+at home. 
+Physical Exam:
+Vitals: 
+- T 98.0, BP 137/76 and stable, HR 102, sinus tachycardia, RR 18m spO2 97% on room air, 
+weight: 115.2 kg
+General: Appears anxious, in no acute distress
+HEENT: Pupils equally round and reactive to light, extra ocular movements intact, no JVD 
+appreciable with patient at 45%, though limited by body habitus
+Chest: Clear to auscultation in all fields 
+Cardiac: Sinus tachycardia with S1/S2 with no murmurs rubs or gallops
+Abdomen: Normoactive bowel sounds, soft and nontender to palpation, unable to palpate liver 
+or spleen.
+Extremities: Trace non-pitting edema in ankles and hands bilaterally. Hands appear more 
+swollen than ankles, still non-pitting 
+Neurologic: 5/5 strength in shoulder abduction, extension/flexion of the elbow, and grip 
+strength in upper extremities bilaterally. 5/5 in flexion/extension of hips, knees, ankles. No 
+new numbness. 
+Skin: No rashes on upper/lower extremities, face, abdomen, back. Large number of skin tags on 
+neck and superior medial back. Patient reports have been stable for a long time
+Labs & imaging
+- Troponin < 0.01 X3 on 3/31 @ 13:44, 16:01, 18:58
+140 106 12 96
+4.2 23.3 0.8
+- Ca 9.0, Mg 2.0, 
+- WBC: 8.5 / Hb 12.2 / Hct 36.8 / Plt 249 
+- D-Dimer 729, age adjusted to 580, VTE possible
+- Pro BNP 268 pg/mL Rule out acute HF
+- CXR no radiographic evidence of acute cardiopulmonary disease
+- EKG: Sinus tachycardia, LAD, no ST/T changes noted
+Assessment & Plan 
+Patient is 58-year-old female with PMH including HFrEF, CAD s/p PCI to RCA, and HTN 
+presenting with 1 month history of worsening dyspnea on exertion and typical angina. She has 
+been in sinus tachycardia with negative troponin X3 and her symptoms have improved with 
+diuresis in ED, though she still experiences SOB and substernal chest pain. We need to admit 
+her for CHF exacerbation and to rule out P/E (in setting of malignancy) vs. ACS. 
+1. Orthopnea, edema, slight weight gain: Most likely an acute on chronic CHFrEF 
+exacerbation. Unclear etiology as she doesn’t recall recent illness, changes in 
+diet/activity or issues with medication adherence. This may be the natural progression 
+of her diastolic CHF and we should conduct a trans-thoracic echocardiogram to assess if 
+there has been a change from her baseline. 
+2. Dyspnea on exertion and chest pain: ACS vs PE. Absence of ST elevations, troponins and
+unstable angina rules out STEMI, NSTEMI, and unstable angina. We need a CTA of chest 
+to rule out PE. If no PE is evident, this likely represents worsening stable angina in the 
+setting of her CHF exacerbation 
+3. Sinus tachycardia: Could be 2° to HCF exacerbation, PE, ACS, or anxiety. Patient did not 
+sleep well last night, and is nervous in ED. 
+4. DM II: hold home meds, start insulin glargine 40 units BID, lispro 30 units TID 
+5. HTN: controlled on admission with systolic pressure in 130s. Continue home hydralazine 
+50 mg PO TID 
+6. OSA: CPAP helps her sleep at home. We should set her up with CPAP during admission 
+to provide for her comfort, and to avoid a bump in her systolic blood pressure. 
+7. HLD: continue home atorvastatin 80 mg QD
+8. Gerd: continue home omeprazole 40 mg po BID 
+9. Stage II breast cancer s/p l total mastectomy 6/2017: Home letrozole 2.5 mg po QD not 
+in hospital formulary. She needs to arrange for someone to bring it in. Because she lives 
+at home alone, we should speak with her to make sure she has adequate social support 
+to make this feasible. Continue to follow with Dr. Omena
+10. Colon cancer s/p colectomy 2012: Home tramadol 50 mg po Q6hr PRN. Continue to 
+follow up with Dr. Malhotra
+11. Chronic IDA: Hb 12.2, MCV 85, which is stable for her. 
+12. Insomnia: continue home trazadone 150 mg po QHS, zolpidem 10 mg QHS. 
+FENP: None / replete PRN / NPO pending possible cath / enoxaparin 
+Code status: Full code. 

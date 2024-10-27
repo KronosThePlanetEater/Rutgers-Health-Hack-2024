@@ -1,0 +1,53 @@
+
+I have reviewed your third H&P and am happy to say that it shows very nice growth compared with the first two. (Also, I
+am pleased that you submitted it so soon after handing in the last two. This makes my job a little easier.) My comments
+are as follows:
+1. This time I want to start by commending you for avoiding "admit" "claim" "deny" and "endorse".
+2. I commend you for including the duration of the chief complaint right up front with the CC itself.
+3. I commend you for indicating the informants and their reliability.
+4. The HPI is very well constructed, with good attention to chronology and appropriate inclusion of detail.
+5. I am a little confused about the timing of the stenting with the 2015 myocardial infarction. Your use of "s/p" in that
+context makes it unclear. Usually, stenting is done AFTER the myocardial event. As it is conventionally used, "s/p" means
+"status post" and indicates that the patient had an event or procedure in the past. It appears that you used it in this
+instance to mean "followed by" and this is not how this jargon is used. Clarity is critically important in clinical
+documentation.
+6. Your inclusion of tingling as a pertinent negative is excellent!
+7. Much of what you have in PMH and PSH is already mentioned in the HPI and need not be repeated. In this setting it
+is OK to say "see HPI".
+8. When you report an allergy, it is very important to include how the allergy is manifested. This is important to allow the
+reader to distinguish between allergy and intolerance, and also, especially with drugs, to assess the relative hazard of
+using a congener of the drug based on the seriousness of the allergic reaction. For example, if someone vomits with
+ampicillin, it would still be safe to use another member of the penicillin family. If someone has bronchospasm or
+anaphylaxis with ampicillin, then it would be unacceptably dangerous to use another member of that family for that patient.
+9. Children are properly included in the family history, not the social history.
+10. You appropriately referred to the HPI for those things in the ROS that are mentioned in the HPI. Bravo!
+11. Although in your world FND is common parlance, it may not be on the "approved" list of abbreviations for the hospital.
+Please be careful with abbreviations.
+12. I commend you for using "reflux" and not "reflex" with the word "hepatojugular".
+13. Although you do describe the right upper extremity to some extent in the HPI, with a formal document like an inpatient
+admission note, you should repeat the physical findings in detail in the physical examination. This is because, except for
+fever and weakness, nothing can be both a symptom and a sign. Symptoms are what the patient reports and signs are
+things that the examiner elicits or describes.
+14. In this instance it would have been very useful to measure his the circumference of each forearm as a baseline. You
+could use a point that is the same distance from the olecranon process or the distalmost part of the ulna. That way,
+another examiner would know exactly where to measure it to compare the size from one point in time to another.
+15. I commend you for explicitly stating that the hand is warm and well perfused.
+16. Although your discussion in the Plan section is thoughtful, I can't agree with the conclusion. To me, the inciting event,
+the trauma to the arm, most probably led to a subcutaneous or intramuscular (or even subperiosteal) hemorrhage which
+progressed because of his therapeutic inhibition of platelet function. If this were my patient, among my earliest diagnostic
+maneuvers would be imaging to see if there is a hematoma in the forearm. Sometimes ultrasound is enough, but
+sometimes it may be necessary to get a three-dimensional image such as a CT scan or MRI. This would inform the people
+caring for the patient about how likely a subsequent compartment syndrome would be. Based on the swelling that you
+describe, and the good perfusion, it does not sound like arterial thrombosis; and with his antiplatelet therapy it seems
+relatively unlikely that venous thrombosis is the culprit. Antiplatelet agents really work and people who take them -- even
+baby aspirin -- can really bleed with trauma. Honestly, I don't think that a work-up for a coagulopathy would be very
+fruitful. I will be the first to acknowledge my error if this reasoning is not correct; but, given the evolution of this patient's
+course, I really think that a trauma-induced hemorrhage into the soft tissue is what started it.
+17. If he had, in fact, had superficial venous thromboses while taking an antiplatelet agent, then there may, indeed, be an
+underlying thrombotic diathesis. I infer from what you wrote that when that happened several years ago, such a diagnosis
+was not looked for.
+overall, this H&P shows excellent growth over your first two efforts. Given your relative lack of experience, your
+discussion under the "Plan" is not out of the ordinary. And I may be completely misguided in my own interpretation of what
+actually happened to this patient. I would certainly like to know how this patient's subsequent course evolved.
+And I look forward to your next several H&Ps.
+7/9/2021 Re: IM H&P #3

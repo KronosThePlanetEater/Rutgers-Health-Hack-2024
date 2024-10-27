@@ -1,0 +1,127 @@
+
+CC: Back pain for one week, epigastric pain for 2 days, N/V for 24 hours
+Informant: Patient, who is reliable
+HPI:
+The patient is a 23 -year-old-male with a significant SH for EtOH consumption and 
+noncontributory PMH presenting with new onset back pain for the past week, which progressed 
+to include epigastric pain for the past two days, and progressed further to include NBNB emesis 
+x4 after meals for the past 24 hours. The patient describes an extensive EtOH history that 
+began approximately 3 years ago while in college and included 5-10 shots of whiskey per day 
+for a period of 18 months, after which he was admitted to a rehab facility for detox for a period of 
+1 month. After another 2 months of abstinence from EtOH, he reports returning to a pattern of 
+5-10 shots per day for another 9 months. The last 3 months he reports a significant reduction in 
+his EtOH intake and states his last drink of alcohol of any quantity was on 9 May 2021. He was 
+in his normal state of health a week ago when he had new onset back pain, followed by 
+epigastric pain, and now NBNB emesis for the last 24 hours. These episodes of emesis 
+occurred after dinner the previous night and breakfast the morning of presentation. He reports 
+still having an appetite. He states the pain is dull and constant, currently a 6/10 and an 8/10 at 
+its worst. The pain becomes sharp and is at its worst when he tries to sleep prone on his 
+abdomen. The pain prevented him from sleeping the night before admission and he does report 
+taking any OTC medications to alleviate his pain. His epigastric pain is well localized but his 
+back pain is more diffuse and extends across the width of his back in his lower thoracic and 
+upper lumbar spine. His last bowel movement was 36 hours prior to admission and was well 
+formed, no changes in color and no blood visible. He has not passed gas in the last 24 hours 
+and states he feels very bloated. He does not report any shortness of breath, cough, or pleuritic 
+pain but does feel pain in his abdomen with deep inspiration. He reports recent night sweats in 
+which he feels intolerant to heat, but does not feel and fever, chills, or significant fatigue.
+ROS:
+ General: See HPI
+ Neuro: Patient states no dizziness / numbness / tingling
+ HEENT: Patient states vision changes / no coryza / no sore throat / no change in hearing
+ CV: Patient states no chest pain / palpitations
+ Lungs: See HPI
+ GI: See HPI
+ GU: Patient states no changes in urinary habits / no pain or blood on urination 
+ Patient states no bruises or easy bleeding
+ Derm: Patient states no new rashes or other skin changes
+ Psych: Patient states he has a positive mood with little anxiety
+PMH:
+ Asthma (never hospitalized) from ages 5-10
+Medications:
+ None
+Allergies:
+ None
+Matt Beier H&P 4 submitted Thursday, July 15, 10:00 PM
+PSH:
+ None
+FH:
+ Father age 64 and alive, history of DMT2, HLD, HTN, hypothyroidism
+ Mother age 61 and alive, history of DMT2, HLD, HTN
+ No known FH of cancer
+ Two older sisters, ages 26 and 28, neither with any known health issues
+SH:
+ Currently employed at a GNC
+ Lives at home with parents. Feels safe
+ EtOH history as per HPI
+ Occasionally chews tobacco. Has never smoked.
+ No other drug use
+Vitals:
+ BP 196/106
+ HR 108, regular rhythm
+ T 97.9F
+ RR 16, normal inspiratory effort without use of accessory muscles
+ SpO2 100% on RA
+PE:
+ General: Patient is in no acute distress, is well nourished, and answers appropriately
+ Neuro: A&Ox3, CN II-XII are intact, motor and sensation grossly intact, no obvious FND 
+ HEENT: EOMI, PERRLA, sclera anicteric, no conjunctival pallor, no signs or pharyngeal 
+erythema, lesions, or ulcers
+ Neck: Trachea is midline, no elevation in JVD or hepatojugular reflux, no palpable lymph 
+nodes, could not palpate thyroid
+ CV: Tachycardic with regular rhythm, normal S1/S2 no murmurs, rubs, or gallops
+ Lungs: Normal inspiratory effort. Lungs clear to auscultation bilaterally, with no 
+wheezes, rhonchi, or rales. Normal resonance to percussion bilaterally and normal 
+tactile fremitus bilaterally in all fields.
+ Abdominal: Soft and nondistended. Slightly hypoactive BS. Tender to palpation in the 
+epigastric regions. No rigidity. The liver and spleen were not palpable.
+ Back: Tenderness on palpation to the lower thoracic and upper lumber spine and 
+laterally there is CVA tenderness
+ Extremities: Radial and DP and 2+/2+ and symmetric. Equal strength in upper 
+extremities on flexion/extension of wrists and forearm. No signs of edema in shins 
+bilaterally. Warm and well perfused. 
+ Skin: No evidence of rashes, skin breakdown, or ulcers.
+Labs and Data:
+ CBC: WBC 13.5, Hb 16.5, Plt 449
+ BMP: Na 132, Cl 95, K 4.3, Ca 9.5, Mg 1.7, Cr 0.5, BUN 2, HCO3- 24.2
+ LFT: AST 169, ALT 77, AlkPhos 185, Tbili 1.2, Dbili 0.4, Alb 3.9
+Matt Beier H&P 4 submitted Thursday, July 15, 10:00 PM
+ Lipase: 107
+ CT Abdomen with IV contrast: Significant for multiple pseudo cyst appearing structures 
+throughout the pancreas with largest in the head of the pancreas and measuring 6.4cm. 
+There was also significant peri-pancreatic fluid. The gall bladder and biliary structures 
+were unremarkable. Evidence of fatty liver. All other visualized structures were within 
+normal limits.
+Assessment:
+ This patient is a 23 yom with an extensive SH of EtOH and noncontributory PMH that 
+presents with new onset back and epigastric pain with N/V and NBNB emesis. His PE is 
+significant for epigastric and CVA tenderness and he has CT findings suggestive of 
+pancreatitis with a mildly elevated lipase, AST, ALT, and AlkPhos.
+Plan:
+#New onset back pain, epigastric pain, NBNB emesis
+ The patient’s presentation of epigastric pain radiating to the back with N/V and 
+associated CT findings are strongly suggestive pancreatitis. Given the patient’s reported 
+long EtOH history and relative abstinence the last three months, as well as minimal 
+sings of acute inflammation such as fat stranding on CT, this appears to be a case of 
+chronic pancreatitis with unclear cause for the current precipitation of new onset 
+symptoms. Additionally, the lipase is only mildly elevated at 107. While EtOH is the 
+most common cause of pancreatitis, gallstones are the second most common and high 
+triglycerides and also reasonably common. Given the unremarkable biliary and GB CT 
+findings gallstone pancreatitis seems unlikely. The patient’s strong FH of HLD warrants
+getting a lipid panel to see if triglycerides play a role in his current presentation. The 
+patient should be started on IV lactated ringers for fluid resuscitation. The patient has a 
+BISAP score of 1 suggesting relatively low risk of mortality from his current presentation. 
+GI should be consulted for possible ERCP pancreatic duct stenting and EUS FNA of the 
+pseudo cystic structures. 
+#Hepatitis
+ The patient’s currently elevated AST and ALT seem most likely to be secondary to 
+pancreatitis and of EtOH etiology given AST/ALT ratio > 2
+ Viral hepatitis and autoimmune hepatitis panels should be ordered to rule out other 
+causes of hepatitis. 
+#CVA tenderness
+ Given the patient’s back pain extends laterally to his flank and he describes tenderness 
+on palpation to the same region, a urinary analysis should be ordered to rule out 
+possible urinary tract infection or kidney stone
+#N/V
+ Zofran should be administered for N/V
+#Pain
+ IV Tylenol for patient’s current pain

@@ -1,0 +1,116 @@
+
+History obtained from patient who appears to be a reliable source
+CC: 1 day chest pressure and hemoptysis
+HPI: Patient is a 44y y/o m w/ PMHx of recent Achilles tendon repair (2/11/22) who presents with 
+1 day of chest pressure and hemoptysis. Patient was in his usual state of health prior to the 
+aforementioned symptoms and those outlined below. 4 weeks PTA, he had a left achilles tendon 
+repair ), for which he was placed in a below knee solid cast. Since the 
+procedure, he has been spending most of the day recumbent in bed. He was on ASA 324mg for 
+anticoagulation post procedure which he has taken daily and Motrin 600mg for pain prn. 2 weeks 
+PTA, he noticed intermittent swelling in his left anterior medical thigh just proximal to the knee, 
+but no pain or erythema. The swelling was associated with occasional episodes of his L toes 
+becoming cold with a blue appearance, both symptoms were alleviated with foot elevation. One 
+week ago, he developed a non-bloody cough and then for the past 3 days began having tactile 
+fevers and chills. Last night at around 6PM he began having constant squeezing L sided chest pain
+with occasional radiation to the epigastrium or left shoulder described as a 6/10 in severity. The 
+pressure is worse with deep breaths or laying on his left side. He did not try anything to relieve the 
+pain. This AM, he had an episode of small volume hemoptysis while in the shower, and so he 
+decided to come to the ED. The blood was described as minimally streaked when he intentionally 
+brought up sputum. At no point has he had any SOB. Reports no current fever, chills, weight loss, 
+fatigue, rashes, joint pains or swelling, palpitations, abd pain, N/V, constipation, or diarrhea. He is 
+not vaccinated for covid and never tested positive, but he took an antibody test in November
+which was positive. No other known recent infections. No recent sick contacts. No recent long 
+distance travel. No known family histories of malignancy, recurrent 1st trimester pregnancy losses, 
+hypercoagulable disorders, or DVTs/PEs. No similar symptoms in the past or history of DVT or PE.
+ROS: Pertinent positives per HPI, ROS otherwise negative
+PMHx:
+Previous R foot fracture 20 years ago without need of surgical intervention
+PSurgHx:
+Achilles tendon repair (2/11/22)
+Appendectomy (age 5)
+Meds/herbs/supplements:
+aspirin 324 mg – since procedure 2/11/22
+Motrin 600mg PRN for pain since procedure, approximately 3 weekly.
+Allergies:
+No Known Allergies
+FHx:
+Mother- HTN, alive 79
+Father- HTN, alive 81
+No siblings or children
+No known extended family history including grandparents and cousins of DVT/PE or 
+hypercoagulable disorder
+
+Social Hx:
+Patient lives in South River with his wife. He owns his own construction business and works on 
+new residential construction. He has never worked on older buildings. No known history of 
+exposure to asbestos or silica. No tobacco, EtOH, drug use. His wife and he are very health 
+conscious and go to the gym together 5 times weekly. Eats leafy greens with 2 meals daily.
+Objective:
+VITALS 
+T: 99.7 Tmax: 99.7 
+HR: 109 (109 - 109) – regular rhythm 
+BP: 137/83 (137/83 - 137/83)
+RR: 17 (17 - 17) and unlabored | SpO2: 97% (97% - 97%) on room air
+General: Age appropriate male in NAD
+HEENT: No lymphadenopathy appreciated. No tracheal deviation. No mucosal or conjunctival 
+pallor. No nuchal rigidity. No erythema or exudates.
+Chest: Tachycardic , no MGR, resonant to percussion
+Lungs: Clear to auscultation bl, normal chest excursion, resonate to percussion
+Abdominal: Liver approx 8cm on percussion (no free edge palpable), no splenomegaly appreciated, 
+normal bowel sounds, tympanitic to percussion, no tenderness to palpation
+Extremities: Left hard cast noted on the left foot with no signs of skin irritation around openings. 
+Compared the right leg, on gross visual inspection, there is mild increased swelling extending from 
+knee to the inguinal region. Circumference should have been measured. No pitting edema. No 
+digital clubbing. No focal joint swelling. L leg evaluation limited secondary to cast.
+Skin: No evidence of petechiae, purpura, or ecchymosis. 
+Neuro: CN2-12 intact, 5/5 strength in all major muscle groups, A&Ox3
+Psych: responding to questions appropriately
+Labs:
+LABS (last 24h) 
+WBC: 11.8 / Hb: 13.4 / Hct: 38.5 / Plt: 238 
+-- Diff: N:75.70% L:15.5% Mo:7.8% Eo:0.3% Baso:0.3%
+PT: 13.6 / PTT: 29/ INR: 1.21 
+137 | 101 | 11
+--------------------< 106 Ca: 9.3 Mg: 1.9
+4.1 | 27.4 | 0.8
+Bands = 3
+Trop: 6
+Bnp: 18
+Imaging:
+CTA Chest W/Contrast- Severe bilateral pulmonary emboli as described with evidence of increased 
+right-sided heart pressures. Bilateral lower lobe and inferior left upper lobe ground glass opacities, 
+which may represent infection and/or pulmonary infarcts.
+EKG (my read): NSR at 96 bpm, normal axis, no ST, T or Q wave abnormalities 
+Gardner Ryan H&P 5 submitted 2022 03 17 (Thu) mid-pm
+Assessment and Plan:
+Patient is a 44y y/o m w/ PMHx of recent Achilles tendon repair (2/11/22) who presents with 1 day 
+of chest pressure, and hemoptysis in the setting of recent immobility which was found to be a 
+provoked PE. In the ED, vitals notable for tachycardia to 109. Labs are WNL. Imaging showing 
+bilateral PE with evidence of increased right-sided heart pressures. EKG NSR, BNP and troponin
+wnl. ED called for MICU screen and IR was consulted. Patient was determined to be 
+hemodynamically stable for medical floors admission and IR determined he was not a candidate 
+for endovascular intervention at this time. Hep gtt started.
+#Large b/l PE
+-1 day of chest pressure and hemoptysis, in the setting of recent immobility from Achilles tendon 
+repair (2/11), was on ASA 324mg for AC
+-CTA chest shows severe b/l PE with evidence of increased right-sided heart pressures. As well as 
+b/l lower lobe and inferior left upper lobe ground glass opacities, which may represent infection 
+and/or pulmonary infarcts
+-EKG NSR, trop, BNP wnl
+-No evidence of coagulopathy 
+-PESI score 0
+-Saturating appropriately on room air and no signs of hemodynamic compromise 
+-Echo pending to further access cardiac function and LE duplex pending to access if there is still 
+clots in legs
+-Started on hep gtt started in case condition worsens and needs intervention. Will start on DOAC if 
+remains stable.
+-Cont to trend trop and BNP, if elevates or patient becomes hemodynamically unstable call MICU 
+and IR for re-eval
+#Leukocytosis with neutrophil predominance 
+-Likely reactive to PE (well documented in literature) but will get respiratory panel. Exam not 
+consistent with acute infection of oropharynx. Bands = 3
+-Will continue to trend, if continues to elevate or accompanies fevers (which can also be seen with 
+PE), will get blood culture.
+#Achilles tendon repair
+-Surgical repair on 2/11/22
+-Plan for cast removal on 3/15, will consult ortho in AM for possible removal as inpatient

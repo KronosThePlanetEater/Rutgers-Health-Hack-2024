@@ -1,0 +1,98 @@
+
+CC: Chest pain for 1 day
+Informant: Patient. He is reliable. History was taken with an interpreter as the patient speaks 
+Spanish as his native language
+HPI: The patient is a 58 year old male with no PMH that was in his usual state of health when 
+he noticed chest pain at noon the day before admission to the hospital. He describes the pain 
+as being in his chest and points to his sternum when asked to locate the pain. It initially came 
+on with exertion but now is constant and occurs at rest. He says it was one of the worst pains of 
+his life. He states the it feels like a tight squeezing and that it is accompanied by a feeling of 
+clogging in his chest that prevented him from being able to breathe. He states there was some 
+discomfort in his left shoulder yesterday but none currently. The pain prevented him from 
+sleeping last night, and early in the morning he went to a drug store and bought some Tylenol. 
+The Tylenol helped with his pain but did not resolve it completely, after which he came to the 
+emergency room. He does not describe any palpitations and has had no N/V/D. 
+ROS:
+ General: States no fever / chills / fatigue. No recent travel or sick contacts.
+ Neuro: States no dizziness / numbness / tingling
+ HEENT: States no headache / sore throat / coryza / change in vision or hearing
+ CV: See HPI
+ Pulm: See HPI. States no cough or pain with breathing
+ GI: See HPI. States no abdominal pain or discomfort
+ GU: States no change in urination or pain with urination
+ MSK: States no joint or muscle pain
+ Heme: States no easy bruising or nose bleeds
+ Derm: States no rashes or skin changes
+PMH
+ None
+Medications
+ None
+Allergies
+ None
+FH
+ States he is not in contact with his father, mother, or siblings and could not provide their 
+current health status. He is not aware of any family history of HTN / HLD / DM / Cancer.
+SH
+ Live at home by himself. Immigrated to United States from Mexico approximately in year 
+2000
+ Works in a local restaurant as a cook
+ Drink 2-3 beers each day after work
+ States no tobacco or other drug use
+Beier Matthew H&P 5 submitted Thu 7/22 evening
+Vitals:
+ T 97.1F
+ HR 75 and regular
+ BP 150/90
+ RR 16, normal inspiratory effort with no use of accessory muscles
+ SpO2 100% on RA
+PE:
+ General: Patient is in no acute distress, is well nourished, and answers appropriately
+ Neuro: A&Ox3, CN II-XII are intact, motor and sensation grossly intact, no obvious FND 
+ HEENT: EOMI, PERRLA, sclera anicteric, no conjunctival pallor, no signs or pharyngeal 
+erythema, lesions, or ulcers
+ Neck: Trachea is midline, no elevation in JVD or hepatojugular reflux, no palpable lymph 
+nodes, could not palpate thyroid
+ CV: Regular rate and regular rhythm, normal S1/S2 no murmurs, rubs, or gallops
+ Lungs: Normal inspiratory effort. Lungs clear to auscultation bilaterally, with no 
+wheezes, rhonchi, or rales. Normal resonance to percussion bilaterally and in all fields.
+ Abdominal: Soft and nondistended. Normal BS. Non-tender to palpation. No rigidity. 
+The liver and spleen were not palpable.
+ Extremities: Radial and DP and 2+/2+ and symmetric. Equal strength in upper 
+extremities on flexion/extension of wrists and forearm. No signs of edema in shins 
+bilaterally. Warm and well perfused. 
+ Skin: No evidence of rashes, skin breakdown, or ulcers.
+Labs
+ CBC: WBC 5.6, Hb 9.4, Hct 33.8, Plt 243, MCV 75
+ BMP: Na 136, Cl 102, K 4.1, Ca 8.2, HCO3 23, BUN 14, Cr 0.5, Glucose 137
+ High sensitivity troponin: 380
+ CXR: Possible opacity in left lower lobe. No evidence of cardiomegaly
+ EKG: T wave inversions in leads V4-6
+Assessment: Patient is a 58 year old male with no PMH that presents to the ED with one day of 
+chest pain first on exertion and now at rest, and was accompanied by SOB. His CV and 
+Pulmonary PE were unremarkable but initial labs were significant for elevated cardiac troponin 
+and T wave inversions on EKG.
+#Chest pain
+ The patient’s presentation, elevated cardiac enzymes, and EKG finds are concerning for 
+ACS and specifically an NSTEMI. Cardiology should be consulted immediately for 
+possible intervention and the patient should be started on anti-platelet therapy of ASA 
+and Plavix. He should also be started on a heparin drip for anticoagulation. Sublingual 
+nitroglycerin should be administered. Given his current SpO2 he does not need 
+supplemental oxygen. A beta blocker may also be considered. While ACS appears 
+most likely, PE should also be considered. His Wells score suggests he is at low risk of 
+PE.
+Beier Matthew H&P 5 submitted Thu 7/22 evening
+#Anemia
+ The patient has a microcytic anemia. Iron studies should be ordered for workup of his 
+anemia.
+Education: When is cardiac catherization indicated for patients suspected of NSTEMI?
+ According to UpToDate, patients with high suspicion of NSTEMI are indicated for 
+intervention when they are hemodynamically unstable, have severe LV dysfunction, 
+recurrent anginal pain refractory to medical management, new or worsening mitral 
+regurgitation, or sustained ventricle arrhythmias. Our patient does not appear to have 
+any of these, although a bedside echo would be useful to evaluate LV function and look 
+for any mitral regurgitation. Additionally, a TIMI risk score can be used to risk stratify 
+patients for cardiac catherization. High risk is a score of >= 5 and intermediate risk is 3-
+4. Both of these groups were shown to benefit from intervention in the TACTICS-TIMI 
+trial. Based on my calculation, our patient’s TIMI score is 2, so it would be reasonable to 
+try medical management first and see if he has resolution of symptoms and 
+improvement on EKG and of cardiac enzymes.

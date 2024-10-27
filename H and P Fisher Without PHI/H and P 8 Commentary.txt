@@ -1,0 +1,54 @@
+
+I have reviewed your write-up. It does not surprise me that the write-up has many strengths. As you will see is usual for
+me, I have several comments, but many are more related to style than substance:
+1. I commend you for indicating the reliability of the informant right up front. That is very helpful in telling the reader how
+much skepticism to use when reading the document.
+2. Ideally you should have the duration of the chief complaint right next to the chief complaint itself.
+3. I don't think that the diabetes history is needed in the introductory sentence of the History of Present Illness. The
+smoking--yes--because it may increase the risk for the main problem, as you astutely allude to later in the document.
+4. Ideally, you should use the moment of admission as the reference point for every event in the document (as opposed
+to "Easter" or "ago". That way, regardless of when the document is read, the reader can reconstruct the precise
+chronology of the history.
+5. If you want to say something about why he saw his doctor the day he did, you need not give the details of the diabetes
+symptoms. You can say, for example, "for an unrelated reason (see below) he saw his PCP, who noted..." I assume the
+reason for admission was the blood sugar and diabetes-related symptoms. The point is, if the chief complaint is related to
+the leg swelling, try not to distract the reader with other unrelated problems. The alternative approach is that you could
+have two separate paragraphs in the HPI, one about the diabetes and its symptoms and one about the leg swelling. It is
+not unreasonable to indicate that he has two parallel histories of present illness.
+6. One of the things about me that I ask that you accept is my negative opinion about the use of the words "admit"
+"claim" "deny" and "endorse" in medical histories. We don't accuse patients of having symptoms, that they should have to
+"deny" having them. There are alternative, more neutral ways to express this. I will attach a slide set on the oral
+presentation that has several slides about this issue. Well-refereed medical journals never use these words in case
+presentations. As for "endorse" (which you did not use), using this word blurs the meaning of what is said. When
+someone tells me that a patient "endorses" drug abuse, does that mean that the patient recommends it to others?
+7. You need not repeat elsewhere what is already in the HPI. Just say, "see HPI" or "in addition to what is in the HPI..."
+8. The absence of family history of coagulation disorders rightly belongs in the HPI.
+9. There should be more in the Family History: Both parents, with their ages whether alive or dead, all siblings, and
+children, also whether alive or dead, with ages. Also, there are a number of potentially inherited illnesses which should be
+mentioned, whether present or absent. (To name a few, cancer, arthritis, blood disorders [e.g., thalassemia]) And there
+are some non-inherited diseases that can run in a family, such as tuberculosis (which was once thought to be inherited
+because it afflicted so many members of a household -- for example, the Bronte family of literary fame).
+10. It would be more complete to include the marital status in the social history.
+11. In the vitals, it is conventional to indicate the general description of the rhythm (e.g., regular) with the heart rate; and,
+especially with this patient, it would be useful to indicate whether the respirations are "labored" or "unlabored" and their
+depth (e.g., "shallow")
+12. In HEENT, at least take a look at the throat in addition to the eyes.
+13. I am a percussion enthusiast. In this case, especially, it would have been relevant.
+14. In addition to describing the fact that the bowel sounds are present, it is conventional to indicate whether they are
+normal. Also, especially in this patient, description of liver size and consistency would be very important.
+15. It would be more complete to state how high up the leg the edema extends (e.g., to malleoli, to mid-shin, to midthigh...)
+16. It would be ideal to give calf circumferences, measured the same distance from an immovable landmark, such as the
+tibial tuberosity. If possible you should acquire a tape measure.
+17. The absence of numbness, weakness, and paresthesias, as you report it, is really history and not physical exam. If
+you are talking about a sensory modality, then you should state which (elgl, pain, light touch...).
+18. It is very interesting that, with such extensive pulmonary emboli, the SaO2 was so good, especially in a smoker.
+19. Your discussions in the Assessment and Plan are extremely good! I am especially pleased that you are taking
+malignancy into consideration as a potential underlying cause of all the clotting. It is possible that some of his baseline
+swelling is related to the likelihood that he stands for most of his working day. (Most athletic coaches in high school also
+teach a class--or, at least, they did when I was in school. The systems didn't pay salaries solely for coaching.)
+20. I don't think you can invoke renal disease as contributing to his edema, given his normal creatinine level. If you are
+concerned about renal damage from diabetes, a urinalysis, concentrating especially on proteinuria, would be very helpful.
+21. In managing his diabetes, do you think that diet should also have a role?
+22. Your choice of an article for EBM was excellent. Very current and very applicable to this patient.
+I know that this seems like a lot of criticism, but, really, it is not meant to demoralize you. Rather, your write-up
+showed such strength, that what I am suggesting, mainly, is adding a little polish. You never handed work in to me before,
