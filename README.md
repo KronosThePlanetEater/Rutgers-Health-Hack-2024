@@ -1,4 +1,5 @@
-# Rutgers-Health-Hack-2024
+# Rutgers Health Hack 2024
+
 # Version of python used
 https://www.python.org/downloads/release/python-3120/
 
@@ -33,4 +34,15 @@ First run the bert.py file so that it can download any need information from (ht
 Then run clinical_bert_test.py as a demo test to make sure that the AI model is functioning properly. <br />
 
 # Running
-To run our summarizing script, run 
+To run our summarizing script, run BridgeScript.py, in the terminal it will prompt you with the file path for the data/notes you want to summarize. Copy the file as path, and paste it into the terminal (Note: remove the quotes at the ends of the copied path or else it will throw an error).
+
+To run the other our summarizing script, run BridgeScriptHighlighting.py, in the terminal it will prompt you with the file path for the data/notes you want to summarize. Copy the file as path, and paste it into the terminal (Note: remove the quotes at the ends of the copied path or else it will throw an error). BridgeScriptHighlighting.py is meant to summarize the information and create links to the part of the data/note it got the summarized information from. This is to make it easier for people to quickly read the summarized information and then open up the more detialed part of the patient information that they are intrested in. 
+
+# Output
+Once the script is done running, in the terminal, it will output some text "Categorized patient data has been written to C:\Users\dhrum\Health-hack\SUMMARY_H and P 1 Commentary.txt.txt" (may vary based on folder installation) This is where the summarized file is located. <br />
+It also outputs the amount of time it took the run the script, which can be used to optimize it further or better prformance. 
+
+# Optimization
+While the either of BridgeScript.py or BridgeScriptHighlighting.py are running, if on Windows run task-manager and under the performance tab you will see how much of the GPU memory is being used. 
+![image](https://github.com/user-attachments/assets/78edbbb3-efe4-4e2a-81f3-c4cfee952404) <br />
+You can use this information to change the batch_size number as need so it can run well on your hardware. Higher the batch number the more resources it will use, but run faster. Lower the batch number the less resources it will use, but run slower. (The amount of Vram utilized will vary based on the number)
