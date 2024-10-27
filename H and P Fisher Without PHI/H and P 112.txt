@@ -1,0 +1,129 @@
+Michael Sunyak
+Patient Name: 
+Date: 
+Referral Source: ED
+Data Source: Patient (semi-reliable) and his wife (reliable)
+
+CC: “I’ve been falling more the past two weeks”
+
+HPI: The patient is a 73-year-old male with a significant past medical history including COPD, A-fib on Xarelto, emphysema, HTN, prediabetes, anemia, CHF, CAD s/p stent placements in 2006, and a recent right sided CVA in December of 2020 that is presenting with increasing weakness and falls over the past 2 weeks. The patient reports that after his stroke in December, he has had continued weakness in his left leg and left arm which was initially improved when he went to rehab after his admission. He was discharged from rehab a few weeks ago with home PT, OT, and a home nurse, and for the past two weeks he has been having increased weakness on his left side. The patient reports that he has been falling during this time and has fallen 3-4 times in the past week. He states that he will be using his walker and his left leg will suddenly give out on him and will slowly fall to the ground. He does not report hitting his head, LOC, dizziness, light headedness, or any other symptoms at the time of his fall. This morning the patient was changing his pants with the assistance of his wife, and as he was getting changed, he slid off of the side of the bed and onto the ground, and he reports that he was no able to push or pull himself up and this caused him to call EMS to come to the ED. The patient is also complaining of a large bump on his right buttock which has been there for about of month and has gotten worse over that time. He reports that it is tender to palpation and especially painful while sitting on a toilet seat. The patient reports that he has been having some blurry vision as well.
+
+PMH: COPD, A-fib on Xarelto, emphysema, HTN, prediabetes, anemia, CHF, CAD s/p stent placements, prostate CA s/p radical prostatectomy, and a recent CVA in December of 2020.
+
+PSH: Radical prostatectomy 18 years ago, suprapubic catheter placement 4 years ago, appendectomy at age 10
+
+Medications:
+Fluticasone-Vilanterol 200 mcg-25 mcg/inh 1 puff inhalation daily
+Umeclidinium 62.5 mcg/inh Inhalation Powder 1 puff inhalation daily
+Aspirin Chewable 81 mg PO QD
+Amlodipine 5 mg PO QD
+Atorvastatin 20 mg PO QD
+Buspirone 10 mg PO BID
+Fluoxetine 20 mg PO QD
+Furosemide 40 mg PO QD
+Gabapentin 600 mg PO Q12hrs
+Acetaminophen 650 mg PO prn every 6 hours
+Tramadol 12.5 mg PO prn every 6 hours
+
+
+Allergies: Ragweed and fresh cut grass – itchy and teary eyes. No known drug allergies
+
+FH: Father had prostate cancer and lived until he was 90
+Mother had uterine cancer and lived into her 90s
+Brother has Parkinson's Disease and colon cancer and is currently 83
+Has two children 46 and 50 without medical problems
+
+SH: patient lives at home with his wife with assistance from at home nurses. The patient has a 126-pack year history as he smoked about 3 packs of day from when he was 13 until he was 55. Drinks a beer occasionally with dinner and does not use any other recreational drugs
+
+ROS: As per the HPI plus the following:
+General: (-) fevers, chills, headache, LOC, nausea, dizziness, lightheaded
+HEENT: (+) blurry vision, (-) Headache
+Lungs: (-) SOB, cough
+Heart: (-) chest pain
+Abdomen: (-) abdominal pain, vomiting, diarrhea
+MSK: (+) back pain, weakness in the LUE and LLE
+Neuro: (+) numbness in his left fingers
+
+Physical Exam:
+Vitals: Temp 98.2
+	HR 72
+	BP 143/80
+	RR 18
+	O2 sat of 93% on 2L NC O2
+	Weight: 220 lbs
+
+General: Lying comfortably in bed, in no acute distress. Breathing through pursed lips. On 2L NC
+HEENT: Normocephalic. Moist mucous membranes.
+Neck: No detectable JVD.
+Heart: irregularly irregular rhythm but a normal rate, no murmurs, rubs, or gallops appreciated
+Lungs: Clear to auscultation bilaterally however difficult to hear secondary to body habitus
+Abdomen: Obese abdomen, soft, nontender, no organomegaly, positive bowel sounds. Suprapubic catheter in place without any erythema
+Extremities: No edema, cyanosis, or clubbing.
+Skin: There was a 6 cm in diameter fluctuant area on the right medial buttock which was tender to palpation. Well defined borders. Slight increase in warmth over the area however without any erythema or discoloration. No rashes.
+Neuro: Mentation Intact. CN II-XII intact. Strength was 5/5 in the RUE and RLE and 4/5 in LUE and LLE. Sensation was intact throughout
+
+Labs:
+WBC: 9.3, Hb: 14.5, Hct: 44.2, Plt: 194
+Diff: N:83.1%  L:7.6%  Mo:5.8%  Eo:2.9%  Baso:0.6%
+Na: 141, K: 4.0, Cl: 103, Bicarb 29.4, BUN 19, Creat 0.9, Glucose 94
+PT: 16.1, PTT 33, INR 1.37
+
+Urine Color: Yellow
+Urine Appearance: CLOUDY
+Urine Specific Gravity: 1.021
+Urine pH: 6.0
+Urine Protein: 2+
+Urine Glucose: NEGATIVE
+Urine Ketones: NEGATIVE
+Urine Bilirubin: NEGATIVE
+Urine Blood: 2+
+Urine Urobilinogen: <2.0 mg/dL
+Urine Leukocyte Esterase: 3+
+Urine Nitrite: POSITIVE
+Urine RBC: 15 /HPF
+Urine WBC: 100 /HPF
+Urine Bacteria: FEW
+Urine Squamous Epithelial Cells: <1 /HPF
+Urine Yeast: RARE
+Urine Mucous: RARE
+
+Imaging:  
+
+02/10/2021 16:10 CT Pelvis W/Contrast-
+ Pelvic Wall: Superficial medial right buttock lesion measuring 2.5 x 4.6 cm (series 2, image 110) with central low density and surrounding infiltrative changes, without muscular or rectal involvement.
+IMPRESSION:
+Superficial small medial right buttock lesion as described above without muscular or rectal involvement.  Differential considerations include an abscess or hematoma.
+
+02/10/2021 16:46 CT Head W/O Contrast-  No acute intracranial hemorrhage.  No acute territorial infarction.  Encephalomalacia involving the right basal ganglia and corona radiata and right frontotemporoparietal cortex at sites of prior chronic infarctions, with evolution of previously noted intraparenchymal hemorrhage.  Chronic left basal ganglial lacunar infarction, unchanged.  No mass effect or midline shift.  Supratentorial white matter low density likely representing mild chronic small vessel ischemic changes, unchanged.
+IMPRESSION:  
+No acute intracranial hemorrhage, mass effect, or midline shift.  No acute traumatic injury.
+Encephalomalacia involving the right basal ganglia and corona radiata and right frontotemporoparietal cortex at sites of prior chronic infarctions, with evolution of previously noted intraparenchymal hemorrhage.  Chronic left basal ganglial lacunar infarction, unchanged.  
+Mild small vessel ischemic changes, unchanged.
+Ex vacuo dilatation of the right lateral ventricle.  No hydrocephalus.
+
+EKG: A-Fib at 72 bpm with a right axis deviation
+
+Assessment/Plan: The patient is a 73-year-old male with a significant past medical history including COPD, A-fib on Xarelto, emphysema, HTN, prediabetes, anemia, CHF, CAD s/p stent placements, and a recent CVA in December of 2020 presenting with worsening weakness and falls over the past 2 weeks. The patient is found to have weakness of the LUE and LLE which the patient reports is worse than his previous baseline. CT head was found to have no acute findings compared to last.
+
+Weakness:
+The patient’s symptoms are most likely secondary to the stroke from December. The patient reports that his symptoms really started after he was discharged from rehab. The patient’s home environment might not be conducible to walking with his new weakness, therefore this could be the cause of his falls. However, other etiologies must be ruled out such as a new stroke or other metabolic abnormality. The patient’s head CT did not show any new stroke; however CT head is not always sensitive. The patient can get a repeat MRI in 48-72 hours to see if there are any changes not initially seen. The patient should be evaluated by PT and OT while in the hospital to evaluate his gait and his strength. If there are no other lab or imagining abnormalities, then the patient will be discharged back to rehab after his admission. The patient does have a UTI, though he has an indwelling suprapubic catheter, therefore he most likely is chronically colonized. However, he had blood cultures done, so will follow up to see if there is any bacteremia causing his weakness. It is less likely with a normal white count and without a temperature.
+
+The most helpful thing for this patient would be to continue doing exercises at home with PT. In a meta-analysis they found that exercise was found to be the most effective way of reducing the number of falls in patients after having a stroke. There was a 28-34% reduction in fall rate when compared to patients without any at home exercise. Unfortunately, while exercise does decrease the number of falls, it does not decrease the number of people that fall with a risk ratio of 1.03 indicating no statistical significance, therefore there is no change from people who are fallers to non-fallers. Additionally, there was found to be an increase in the quality of life in patients with at home interventions of exercise.
+
+Denissen  S, Staring  W, Kunkel  D, Pickering  RM, Lennon  S, Geurts  ACH, Weerdesteyn  V, Verheyden  GSAF. Interventions for preventing falls in people after stroke. Cochrane Database of Systematic Reviews 2019, Issue 10. Art. No.: CD008728. DOI: 10.1002/14651858.CD008728.pub3. Accessed 11 February 2021.
+
+
+Right Buttocks Lesion:
+The patient has a lesion on his right buttock which appears fluctuant however non-erythematous. This could be a hematoma as he has had repeat falls, therefore he could have landed on his buttocks leading to a chronic hematoma. Additionally, this could be an abscess which could have been growing causing this tenderness to palpation. Surgery should be consulted to drain the abscess as there does appear to be fluid. This fluid is not causing the patient to be febrile, so most likely it is non-infectious, however once it is drained, then it can be cultured for confirmation.
+
+UTI:
+The patient has a chronic indwelling catheter, so the UA is not as reliable as a normal catheter would be. The patient was given CTX in the ED. This UTI could be a cause of his weakness, therefore it should be promptly treated to see if there is resolution of symptoms. He has not had any suprapubic pain or tenderness.
+
+A-Fib:
+The patient is currently in AFib, however he reports that this is his baseline. Start the patient on heparin while in the hospital for better control and for the possibility of surgery as Xarelto will stay in his system for longer.
+
+COPD:
+Continue using albuterol as needed and your other daily inhalers while in the hospital. Patient is satting at 93% on 2L of NC
+
+HTN:
+Continue taking BP medications while in the hospital. The patient has a history of a stroke so we do not want the blood pressure to go too low or high as this could cause repeat damage.

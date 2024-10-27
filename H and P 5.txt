@@ -1,0 +1,133 @@
+
+Data Source- Patient, good historian
+Chief Complaint- Weakness 
+
+HPI
+Pt is a 53YOM with a hx of HIV/AIDs currently on HAART, HTN, HLD,  recent hospital admission 12/2020 for AMS, and polysubstance use who presents with multiple generalized symptoms and is not feeling well. He states that for the last few weeks he has felt weakness in his legs and pain in his toes and has had trouble walking. He has fallen 2 times due to this, once on ice and once tripping over something. He says that “something is going on” with his legs and feet. He does not recognize a particular initiating event. Pt’s family was concerned and wanted him to come in. Pt also describes minor gum bleeding over the past few weeks. He has poor dentition and many missing teeth. The pt did not have any history of epistaxis or easy bleeding or bruising. He does not feel numbness, or tingling in his extremities, has no blurry vision, vertigo/dizziness or lightheadedness. He states he has not had fever, chills, headache, SOB, chest pain, abdl pain, N/V/D. Pt sees a primary care provider for HIV and stated that he restarted HAART in 12/20 after being off it for many months prior.  
+
+On past hospital admission in Nov/Dec 2020 pt was admitted for AMS in the setting of an infection. The underlying cause of AMS was never discovered however they believe it was a combination of toxic metabolic encephalopathy which occurred concurrently with SIRS. At that time the pt’s CD4 count was 45. A Lumbar puncture was performed and found to be normal. The pt was treated for the infection and AMS resolved. 
+
+PMH
+HIV (dx in 1999) past complicated by cryptococcal meningitis, PCP pneumonia 
+HTN mild and not controlled with any medications. Pt is not sure when he was told he had HTN 
+HLD under control. Pt has been taking medications consistently since 2020.  
+BPH treatment started with finasteride in 2019
+Recent Hospitalization Nov-Dec/2020 for AMS of unknown source. Potentially toxic metabolic syndrome. Treated for SIRS criteria as well which may have contributed to AMS. Significantly LP on recent admission was normal. 
+
+Surgical hx
+Hemi-Colectomy (C. Diff colitis) 2008
+
+Medications
+Atorvastatin 40mg daily
+Bactrim 800mg daily (PCP prophylaxis)
+Dolutegravir 50mg daily
+Emtricitabine-tenofovir alafenamide 200mg daily
+Finasteride 5mg oral
+Nicotine 14mg transdermal patch
+Vitamin B1 once daily
+
+Allergies- Penicillin “I pass out”
+
+Family Hx
+Father has no known health issues, mother died at 34 due to “blood clot in her brain after an accident”
+
+Social history
+Pt states that he stopped using crack, smoking tobacco and drinking on 10/29/2020. He stated that he used all substances extensively in the past but was not able to quantify how much 
+Pt lives with his family locally 
+
+Review of Systems 
+General: See HPI, pt is thin, no changes in sleep or appetite. No recent weight changes, mild gum bleeding for the past few weeks. No epistaxis, no easy breathing
+HEENT: No recent headaches, no vision changes. No eye tearing, itching, or discharge. No changes in hearing acuity. No nasal congestion or post nasal drip. Pt has poor dentition with many missing teeth. Mild buccal petechiae. Uvula midline. No white on tongue. No ulcers or abscesses
+Pulm: No SOB, changes in breathing, no dyspnea 
+Cardio: No palpitations, or feelings of racing heart. No leg pain upon exertion
+GI: No abdominal pain, or distention. No changes in bowel movements, no hematemesis, hematochezia, melena
+GU: No urinary changes, no hematuria. History of straining on urination but no symptoms since starting finasteride. No sense of urgency, dysuria or burning. 
+Neuro: See HPI
+Endocrine: No polyuria or changes in thirst, no decrease in weight
+MSK: Minor decrease in strength in legs (See HPI)
+Skin: No easy bruising, no hair loss or rashes, no new lesions or sores 
+Psych: No depression or anxiety 
+
+Vitals
+T 97.2F,     HR 65,      BP 127/93,     RR 16 SPO2 100% on RA
+General: Pt appears older than stated age, A/Ox3, able to provide his own history, laying in a bed,  thin, no evidence of bruising or bleeding 
+Skin: No cyanosis. No rashes or lesions. Scars on arms especially in cubital areas. 
+HEENT: EOM intact, PERRL, no conjunctival pallor, no scleral icterus, no cervical lymphadenopathy, poor dentition, missing teeth, no lesions or ulcers in the mouth, small petechiae on R buccal mucosa. No exudate, no white noted on tongue. No cervical or supraclavicular lymphadenopathy. 
+Cardio: Normal S1, S2, no rubs, gallops or murmurs
+Resp: Clear to auscultation bilaterally, no wheezes, crackles, rhonchi
+ABD: Normal bowel sounds, soft, no guarding or rigidity, midline abdl scar and L abdominal scar
+Extremities: No peripheral edema, pulses equal and strong bilaterally, no lesions or rashes. No ulcers on feet. 
+Neuro- CNII-XII intact, no focal deficits. 4/5 strength in lower extremities  bilaterally, 5/5 strength in upper extremities. Sensation equal bilaterally is all extremities. Normal finger to nose. No dysmetria. Reflexes 2+ in the lower extremities
+Psych- Normal affect, cooperative, able to all answer questions appropriately
+
+Labs:
+
+135 | 102 | 19
+--------------------< 115    Ca: 9.1 
+4.1 | 22.5 | 0.7
+
+WBC 3.2/ Hb 9.1/Hct 27/Plt 20/MCV 93
+AST:103/ ALT:15/ AlkPhos 106/ Bili 2.2/ Dir 0.3/ Prot 8.4/Alb 4.0
+
+Peripheral smear- schistocytes, anisocytosis, few platelets 
+CD4 Count 50
+Viral load undetectable 
+PT/PTT 13.1/30  
+LDH 1400
+Haptoglobin <8.10
+Fibrinogen 170
+D-dimer 4419
+INR 1.10
+B12 727, Folate 15
+BAC- 0.0 
+Drug Screen-negative for cocaine, and all other substances
+
+EKG- sinus brady at 55bpm, normal rhythm, no ST elevations or depressions
+
+Head CT- No acute intracranial hemorrhage or mass effect
+
+CT C-spine- W/O contrast- No acute cervical spine fractures
+
+**Historical labs were also found  to compare and it showed that anemia and leukopenia were both chronic. In 12/202- hgb 9.0 and WBC 3.4
+
+Summary Statement
+Pt is a 53YOM with history of HIV on HAART since 12/2020, HTN, HLD, BPH and polysubstance use who presented with leg weakness, pain in his toes and recent falls. Pt’s labs were significant for new onset thrombocytopenia, platelets 20, and a hemolytic picture, increased indirect bilirubin, LDH, fibrinogen and peripheral smear positive for schistocytes. 
+
+Assessment and Plan
+1.	New onset Thrombocytopenia with evidence of schistocytes
+a.	Platelet count of 20, with schistocytes seen on the peripheral smear. On a prior CBC from past hospitalization in 12/2020 it was noted that the anemia and leukopenia were chronic (Hgb 9.9 and WBC 3.4). The most concerning diagnosis is TTP in the setting of schistocytes on peripheral smear. The patient also has a history positive for mild gum bleeding and physical had 2-3 petechiae on the buccal mucosa. Differential diagnosis includes DIC however the pt is afebrile and there is no obvious source of infection, furthermore PT/PTT would be expected to be more elevated in a setting of DIC. Drug induced thrombotic microangiopathy (DITMA) is also on the differential, the patient was taking Bactrim for PCP pneumonia prophylaxis and that is a potential cause of TTP. Hemolytic Uremic Syndrome (HUS) is another possibility in the setting of schistocytes however renal abnormalities are more common and the pt’s creatinine is 0.7. Other possibilities that are possible but less likely due to the finding of positive schistocytes include malignancy which is potential in the setting of anemia and leukopenia.. Malignant HTN can also cause new onset thrombocytopenia but is unlikely in this setting with normal BP of 127/93. Alcohol, Chronic liver disease and low folate are also positive in this patient’s history but would not be likely to cause schistocytes and are therefore less likely causes of thrombocytopenia. Viruses including rubella, mumps, varicella, parvovirus, Hep C, EBV, HIV are possible causes of thrombocytopenia. The pt has a history of HIV however, more likely is HIV associated TTP. 
+2.	Anemia and leukopenia 
+a.	Past medical records from most recent hospital admission 12/2020 indicate that the anemia and leukopenia are chronic and not new onset at this time. Past Hgb 9.0 and WBC 3.4. Pt does not appear to be symptomatic as he does not have fatigue, lightheadedness or dizziness. The other labs indicate that the anemia is likely hemolytic based on it’s normocytic nature, high fibrinogen and d-dimer, high LDH, indirect pattern of hyperbilirubinemia. The peripheral smear with schistocytes further point towards a thrombotic anemia. Notably HAART medications can cause leukopenia as well as HIV.  
+b.	Malignancy is still a possible cause of TTP and could account for anemia and leukopenia and should be ruled out. Pt has no recent history of weight loss or fevers and no overt signs of malignancy. 
+3.	HIV/AIDs
+a.	Pt has a history consistent with severe HIV/AID including hx of PCP pneumonia and cryptococcal meningitis. Current CD4 count is 50 however viral load is undetectable. Pt is seeing Dr. Jacobs at Chandler for HIV management. He was restarted on HAART therapy (dolutegravir, emtricitabine -tenofovir alafenamide) in 12/2020 after being off HAART medication for months prior. During his recent hospital admission in 2020 for AMS a Lumbar puncture was performed and was normal. 
+b.	Pt is taking Bactrim for PCP pneumonia prophylaxis 
+4.	Polysubstance use
+a.	Pt states that he stopped using all substances including crack, alcohol and cigarettes 10/29/2020 however used them all extensively prior to that. He states that he wants to remain sober. A drug screen was performed and was negative for all substances. 
+Plan
+1.	Order ADAMTS13 level, consult with heme due to the high probability of TTP either from HIV or drug induced. Likely needed to begin daily plasma exchange therapy and prednisone at 70mg/day. Consult with ID due to history of HIV and the potential to use Rituximab. Pt has a CD4 of 50 and therefore it is uncertain whether an immunosuppressant can be safely used. Order abdominal CT scan to rule out malignancy as a cause. 
+a.	CBC especially platelets should be trended regularly
+b.	Discontinue bactrim in the setting of possible drug induced TTP, for PCP prophylaxis atovaquone could be started in place of TMP-SMX
+c.	Order an abdominal CT to rule out possibility of malignancy
+2.	Pt should be screened for common AIDs associated illnesses that may be present at low CD4 counts. This includes retesting for cryptococcal Ag, and MAC, as well as concurrent illness such as HepC
+3.	Prior medical conditions, HTN has been well controlled in the ED , HLD stable on home atorvastatin 40mg which should be continued , BPH stable, continue with home finasteride 5mg 
+4.	Substance use appears to be under control. Pt states that he wishes to remain clean and has not used substances since 10/29/2020
+
+FENP
+Fluids-none
+Electrolytes- replete prn 
+Nutrition- regular diet
+Prophylaxis- Do not use heparin in the setting of thrombocytopenia with unknown cause and potentially increased bleeding 
+
+EBM 
+
+Caplacizumab Treatment for Acquired Thrombotic Thrombocytopenic Purpura  
+Double‐blind caplacizumab vs placebo (2019)
+
+Thrombotic thrombocytopenic purpura (TTP), arises from a deficiency of ADAMTS13 which functions by cleaving von Willebrand Factor (VWF). This deficiency means that platelets are able to form thrombi in blood vessels and the ADAMTS13 does not allow for cleaving of the VFW from platelets. This leads to hemolytic anemia, and thrombocytopenia which may lead to end organ damage. Current standard of care includes plasma exchange therapy, steroids (1mg/kg daily), and recently Rituximab which is given weekly. Treatment of TTP increases the survival from <10% to approximately 90% however there is still significant mortality. Caplacizumab is a new biologic agents that functions as an anti–von Willebrand factor and inhibits interaction between von Willebrand factor multimers and platelets. It is hopeful that its use will lead to further decreased mortality. 
+
+P 145 patients with TTP defined by the presence of both thrombocytopenia and microangiopathic hemolytic anemia with schistocytes seen on blood smear. Patients were excluded if they had suspected thrombotic microangiopathies that were not associated with TTP, such as HUS, or if they had congenital TTP.
+I Caplacizumab (10-mg intravenous loading bolus, followed by 10 mg daily subcutaneously) 
+C  placebo was used 
+O Among patients with TTP, treatment with caplacizumab was associated with:
+ faster normalization of the plt count caplacizumab vs. placebo (2.69  vs. 2.88 days), lower incidence of composite TTP-related death, recurrence of TTP, or a thromboembolic event during the treatment period (74% lower with caplacizumab, P<0.001). There was also a lower rate of recurrence of TTP than placebo (67% lower with caplacizumab)

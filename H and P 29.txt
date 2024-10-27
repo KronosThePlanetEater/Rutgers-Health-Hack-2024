@@ -1,0 +1,150 @@
+
+CHIEF COMPLAINT: "I feel sick with a headache and high blood pressure"
+HPI: 51 year old male with 15 year history of hypertension without medication for 1 month due 
+to an issue changing physicians who was in his usual state of health until 4 days ago of when he 
+developed a headache associated with weakness, lethargy, and left visual field deficit described 
+as a shimmering blurry spot. He describes the pain as intermittent on the back, right, and front of 
+his head rated 9/10 at its worst. He went to an urgent care yesterday due to continued pain where 
+he reports "his systolic BP was 204, they gave him IV meds, did a CT head, sent him home with 
+Losartan and Amlodipine with his BP still systolic 200." From 9pm last night to 9am this 
+morning he took 3-4 doses of his Losartan 100 mg and Amlodipine 10 mg provided by the 
+urgent care due to elevated BP of 180s on his home monitor and his systolic BP was still in the 
+180s prior to presentaiton. He reports no chest pain, SOB, nausea, vomiting, syncope, head 
+trauma, fever, sick contacts, recent travel.
+ED Course: Patient treated with Labetalol 10 mg IV and Ativan 1 mg IV. He reports relief of 
+headache, now 1/10, BP still 175/104.
+PMH: Hypertension, Factor V Leiden mutation
+SURGICAL HISTORY: Appendectomy ~25 years ago
+HOME MEDICATIONS: Losartan 100 mg daily, Amlodipine 10 mg daily, has been without 
+these medication for approximately 1 month due to his primary physician retiring and not having 
+a prescription refill from his new physician.
+ALLERGIES: NKDA
+FAMILY HISTORY: Father died in 70s of heart disease, hypertension, Mother alive and well. 2 
+children age 17 and 19 without any known medical issues.
+SOCIAL HISTORY:
+Tobacco: Remote smoking history in 20s, only a few cigarettes on social occasions 
+Alcohol: Drinks 3 5% seltzers per day and occasionally has 6-7 drinks at family events
+Drugs: Marijuana daily, prior hx cocaine use, has not used cocaine in many years
+Job: Works as contractor
+
+Submitted Wed 10/06 10:00 pm
+REVIEW OF SYSTMES:
+Constitutional: (+) Fatigue, No fever, chills, vomiting.
+Cardiac: No chest pain or palpitations
+Pulmonary: No cough, shortness of breath, or wheezing.
+GI: No abdominal pain, diarrhea, or constipation
+GU: No hematuria or dysuria
+Neurologic: No syncope, focal weakness, neck stiffness, numbness, or tingling, tremors, or 
+confusion.
+VITALS (last 24h) 
+T: 98.3 Tmax: 98.3 
+HR: 94 (82 - 107) regular
+BP: 183/104 (153/89 - 183/104)
+RR: 16 (16 - 16) | SpO2: 96% (96% - 98%)
+PHYSICAL EXAM
+GENERAL: Patient alert and oriented to person place and time, in no acute distress, resting 
+comfortably in bed, cooperative.
+HEENT: Mucous membranes moist, no conjunctival pallor or scleral icterus. EOMI, PERRLA, 
+no papilledema evident on fundoscopic exam.
+CARDIO: Tachycardic, regular rhythm, no murmurs, rubs or gallops, normal S1 and S2.
+PULM: Clear to auscultation bilaterally no rales, rhonchi, or wheezing. Lungs resonant to 
+percussion, no dullness noted. 
+GI: Abdomen soft nontender, normoactive bowel sounds, no tenderness or palpable masses.
+EXTREM: No edema or deformities noted
+SKIN: No ecchymosis or rashes.
+NEURO: CN II-XII intact, strength 5/5 in all extremities, no pronator drift, sensation intact.
+LABS:
+LABS (last 24h) 
+134 | 95 | 23
+--------------------< 137 Ca: 10.6 Mg: 2.2 
+3.0 | 20.7 | 1.5
+WBC: 15.0 / Hb: 17.3 / Hct: 48.7 / Plt: 221 
+-- Diff: N:83.90% L:7.3% Mo:7.6% Eo:0.2% Baso:0.3%
+PT: 11.2 / PTT: x / INR: 1.00 
+Troponin: 33
+IMAGING:
+EKG: NSR at 92 bpm, left axis deviation, no ST elevations, incomplete RBBB.
+ASSESSMENT & PLAN
+51 year old male with PMHx of hypertension without medication for 1 moth reporting an 
+intermittent headache for 4 days associated with scotoma, lethargy and decreased sleep. Patient 
+had no focal deficits on exam, was found to have elevated Trop 33, WBC at 15, Cr of 1.5, 
+bicarbonate of 20.7, Potassium of 3.0, will treat and workup hypertensive emergency.
+
+# Hypertensive Emergency
+- The patient was found to be 183/104 upon presentation to the emergency department. Given 
+his Systolic > 180, visual symptoms, and AKI, he meets criteria for hypertensive emergency. 
+Given his lack of hypertensive medication for 1 month, hypertension may be likely due to 
+medication nonadherence, although other causes including cocaine abuse given his history 
+of cocaine use which can be evaluated with a urine drug screen. Hyperaldosteronism could 
+also be a cause of hypertension given his hypokalemia. He has a reported history of daily 
+alcohol use, although he reported only 3 5% seltzers per day and his last drink was 4 days 
+ago, this may be less likely. A less common, but notable cause would be pheochromocytoma 
+which could be evaluated with urine metanephrines, although his lack of palpitations or 
+sweating and history of nonadherence with BP medications make this less likely on the 
+differential. Blood pressure was lowered slightly with Labetalol. Given his elevated creatine, 
+we will hold Losartan and treat his BP with Coreg 12.5 mg PO BID, Amlodipine 10 mg PO 
+tomorrow morning, and Labetalol PRN for systolic BPs > 160 with goal MAP reduction of 
+no more than 25% within the first 24 hours. The patient reported he had an unremarkable CT 
+head prior to presenting to this hospital, will attempt to obtain radiology report from 
+performing facility, if unable to do so in a timely manner or if patient’s condition worsens, 
+will order a CT head. Given his normal neurologic exam, there is low suspicion for an 
+intracerebral hemorrhage. Will order echocardiogram to evaluate for any underlying cardiac 
+disease given significant hypertension. 
+#Headache
+- Headache pain was 9/10, now 1/10 after Ativan 1mg IV and improving of visual symptoms. 
+Headache is likely secondary to hypertension, given normal neurological exam and absence 
+of papilledema, there is low suspicion for intracranial pathology. Will follow-up with CT 
+head report from outside facility and re-scan if unable to receive records promptly. 
+#Elevated troponin
+- Troponin of 33, no chest pain or SOB, no ischemic changes on EKG. There is low suspicion 
+for ACS, but will re-order and trend troponin to re-evaluate. Elevated troponin could likely 
+be secondary to supply demand mismatch due to hypertension.
+- Will order repeat EKG.
+#AKI
+- Will order urine studies including urine electrolytes and trend creatine/BUN to evaluate for 
+underlying kidney damage. Patient’s baseline creatine is unknown as there were no prior 
+records found in the EMR.
+- Will hold ACE inhibitors/ARBs for now and re-evaluate creatine/BUN tomorrow morning.
+#Elevated AG Metabolic Acidosis
+- WBC elevated at 15, could be secondary to hemoconcentration given elevated Hgb, will 
+order lactate to further evaluate. Patient Metabolic acidosis could also be secondary to renal 
+acid secretion dysfunction due to underlying kidney injury. No treatment indicated at this 
+time, will re-evaluate with morning labs. 
+#Hypokalemia
+- Will replete with Potassium Chloride 40 meq PO and re-evaluate potassium in the morning. 
+Hanlon TJ H&P 4
+Submitted Wed 10/06 10:00 pm
+Evidence Based Medicine:
+Clinical Question: What are the common complications of hypertensive emergency?
+Retrospective study of admitted patients at a tertiary care university hospital in Khon, Kaen 
+Thailand from January 2016 – December 2019.
+Patients: 1,342 patients with Hypertensive Emergency. Followed criteria set by American 
+College of Cardiology/American Heart association for hypertensive emergency: SBP greater 
+than or equal to 180 mmHg and/or diastolic BP greater than or equal to 120 mmHg with 
+evidence of acute target organ damage including ACS, acute heart failure, stroke, intracerebral 
+hemorrhage, hypertensive encephalopathy, acute aortic disease, AKI.
+Most common presenting symptoms:
+1) Limb weakness (24.5%)
+2) Dyspnea (10.8%)
+3) Impaired consciousness (8.8%)
+4) Dysarthria (7.6%)
+5) Headache (5.4%)
+6) Generalized fatigue (5.1%)
+Most common complications in the study:
+1) Stroke (49.8%)
+2) Acute heart failure (19.3%)
+3) ACS (6.5%)
+4) Acute aortic disease (2.5%)
+5) Acute kidney injury (1.5%)
+80% of patients were admitted, and the mortality rate of admitted patients was 1.6%. 
+IV antihypertensive medication was given to 42% of patients, most common medications being 
+Nitroglycerine, Nicardipine, and Labetalol.
+This study provides good background information regarding the common and uncommon 
+presenting symptoms and complications of hypertensive emergency. The patient in this case had 
+less common presenting symptoms (headache, generalized fatigue), and complications (acute 
+kidney injury). The end organ damage/complication in half of this study population was a stroke 
+which is significant and highlights the importance of a thorough neurologic physical exam when 
+elevating patients with severely elevated blood pressures!
+Kotruchin P, et al. Clinical treatment outcomes of hypertensive emergency patients: Results from 
+the hypertension registry program in Northeastern Thailand. J Clin Hypertens. 2020 Dec 00:1-7. 
+doi:10.1111/jch.14119

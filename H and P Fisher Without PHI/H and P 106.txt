@@ -1,0 +1,217 @@
+
+Internal Medicine History and Physical Examination – Week 6
+Patient Name: Mr. A
+Date: 9/1/2022
+Referral Source: ED
+Data Source: Patient, reliable
+Subjective
+Chief Complaint:
+“I have a fever and a sore throat”. 
+HISTORY OF PRESENT ILLNESS:
+Mr. A is a 39 y.o. male with a history of TB (s/p treatment in DR 2006) who presented with 2 
+week history of fevers and dysphagia. Patient was in his normal state of health until 2 weeks 
+ago when he developed nausea, non-bilious non-bloody vomiting and gas-like epigastric pain, 
+which he attributes to food he ate at work. He also reports an associated 15 lbs weight loss 
+over 2 weeks due to decreased food intake in setting of dysphagia to solid foods, resorting to
+only eating soup and other liquids. In addition, the patient "walked in the rain" several days ago 
+and subsequently developed fevers, chills, non-productive cough, and phlegm in chest. Patient 
+notes taking an herbal remedy (unclear specific name) without significant improvement. 
+Otherwise, no chest pain, shortness of breath, diarrhea, palpitations, dizziness, headache, GI or 
+urinary incontinence, rashes or visual changes reported. 
+The patient does not report any recent travel or sick contacts. He believes his symptoms may 
+be due to dust from the warehouse he works in, although no other coworkers have reported 
+similar symptoms. In addition, he believes his symptoms may also be due to developing cold 
+after walking in the rain several days ago. 
+Of note, the patient immigrated from the Dominican Republic 3 years ago and does not have a 
+PCP or seen a provider since his move. He is planning on receiving a private health insurance in 
+10/2022. 
+On admission, patient was found to be febrile to 102 an HIV positive on rapid HIV test. Labs 
+were within normal limits and chest x-ray was negative acute infection. 
+Patient does not report any risk factors for HIV including maternal HIV infection while in-utero,
+IV drug use, frequent unprotected intercourse, or previous sexual partners with history of HIV. 
+The patient has one tattoo on his left forearm, which he received in tattoo parlor in DR. 
+Otherwise, patient unaware of source of infection.
+PAST MEDICAL HISTORY:
+TB - diagnosed and treated in 2006 in DR. Patient presentation and exact treatment was 
+unclear. 
+PAST SURGICAL HISTORY:
+No surgical history reported.
+Submitted Wed 2022 09 07 10:31 pm
+SOCIAL HISTORY:
+Patient immigrated from Dominican Republic 3 years ago. 
+Patient is not married. 
+Patient lives in a home in NB with son, 11 years-old. 2 other residents (non-family members)
+also live in the home. 
+Patient works in warehouse- dusty conditions but the facility is reportedly new. No 
+occupational exposures. 
+Patient never smoked. Patient does not report prior or current use of recreational drugs, 
+including intravenous drugs.
+Patient does not report prior or current use of alcohol. 
+Patient reports 3 female sexual partners during his lifetime, last reported sexual activity 1.5 
+years ago. Patient reportedly had unprotected sex with 1 long term female partner, although he 
+has 3 children with 3 different women. Patient is not aware of any of his partner's being 
+diagnosed with STIs.
+FAMILY HISTORY:
+Patient's father died at age 72, history of diabetes mellitus. 
+Patient's mother is 68 years-old and has no known medical history. 
+Patient's brother has diabetes mellitus. 
+Patient’s 3 sons are alive and well. 
+No other family history reported.
+HOME MEDICATIONS:
+Herbal supplements – unclear of exact supplement. 
+No other medications or supplements reported.
+ALLERGIES:
+No known drug allergies. 
+ROS:
+Constitutional: See HPI.
+HEENT: No recent trauma, LOC, headache, confusion, changes in vision, vertigo, tinnitus or 
+lightheadedness reported. 
+Resp: See HPI.
+CV: No chest pain, tightness, palpitations.
+GI: No abdominal pain, reflux, constipation, nausea, vomiting, diarrhea, hematochezia or 
+melena reported. 
+GU: No dysuria, urgency, frequency, incontinence reported. 
+Neuro: No syncope, slurring of speech, neck stiffness, numbness or tingling or gross motor or 
+sensory deficits. 
+Psych: No depression, anxiety or stress reported.
+Musculoskeletal: No joint pain, swelling, erythema reported.
+Submitted Wed 2022 09 07 10:31 pm
+Objective
+VITALS:
+Last 24 hours (Low-High, Last) 
+Temp: [36.6 °C (97.8 °F)-38.9 °C (102 °F)] 36.6 °C (97.8 °F)
+Heart Rate: [79-103] 79, regular 
+Resp: [18] 18
+BP: (124-140)/(76-79) 124/76
+SpO2: [98 %] 98 %
+PHYSICAL EXAM:
+General appearance: Patient is well developed and nourished. Patient is not in apparent 
+distress. 
+HEENT: No scalp lesions. Pupils equal/round, reactive to light. Visual fields and extraocular 
+muscles intact. No conjunctival pallor. Normal hearing bilaterally and tympanic membrane. Oral 
+thrush. No sinus tenderness. Trachea midline. No thyroid gland enlargement or nodules. No 
+carotid bruits. No lymphadenopathy.
+Cardiac: Regular rate and rhythm. No murmurs, rubs or gallops.
+Lungs: Clear to auscultation, wheezes or crackles. 
+Abdomen: Active bowel sounds. Abdomen is soft, non-tender, non-distended.
+Extremities: Normal radial and distal pulses. No lower extremity edema.
+Skin: Warm and dry. No rashes. 
+Neuro: Alert and oriented. Able to follow 3-step commands. Cranial nerves intact. Sensory and 
+proprioception intact. Muscle strength 5/5 bilaterally in upper and lower extremities.
+LAB:
+Recent Labs
+Lab Units 09/01/22
+1136
+WBC AUTO 10*3/uL 4.52
+HEMOGLOBIN g/dL 13.3
+HEMATOCRIT % 38.9
+PLATELETS 
+AUTO
+10*3/uL 149
+Recent Labs
+Lab Units 09/01/22
+1136
+SODIUM mmol/L 138
+POTASSIUM mmol/L 4.30
+CHLORIDE mmol/L 100
+CO2 mmol/L 25.5
+BUN mg/dL 10
+Submitted Wed 2022 09 07 10:31 pm
+CREATININE mg/dL 0.8
+CALCIUM mg/dL 9.1
+TOTAL 
+PROTEIN
+g/dL 8.0
+BILIRUBIN 
+TOTAL
+mg/dL 0.4
+ALK PHOS U/L 78
+ALT U/L 17
+AST U/L 47
+GLUCOSE mg/dL 102*
+Latest 
+Reference 
+Range & Units
+Most 
+Recent
+Lipase 15 - 75 U/L 24
+09/01/22 
+11:36
+Latest 
+Reference 
+Range & Units
+Most 
+Recent
+Covid19 Not Detected, 
+Invalid, 
+Inconclusive 
+Not 
+Detected
+09/01/22 
+11:36
+Blood cultures from 9/1/22: PENDING
+IMAGING, AND OTHER STUDIES:
+XR Chest 1 View
+Narrative: EXAM: XR CHEST 1 VIEW
+CLINICAL INDICATION: cough;
+TECHNIQUE: A single view of the chest was obtained.
+COMPARISON: None
+Impression: Postsurgical changes/Catheters and Support Devices:
+None. 
+Lungs/Pleural Spaces:
+No focal infiltrates. Costophrenic angles are clear.
+Submitted Wed 2022 09 07 10:31 pm
+Heart/Mediastinum:
+Heart size borderline. Trachea and mediastinal structures are midline. 
+Other:
+No other significant findings.
+Summary:
+No evidence of acute cardiopulmonary pathology.
+FINAL RESULT BY: Henry Notardonato MD DICTATED: 9/1/2022 12:38 PM
+EKG from 9/1/22: Normal sinus rhythm.
+ASSESSMENT AND PLAN:
+Patient is a 39 yo male with history of TB (s/p treatment in DR 2006) who presents with 2 week 
+history of fevers, chills, non-productive cough, phlegm in chest, dysphagia with solid foods, oral 
+thrush, and found to be HIV positive on HIV rapid test upon admission.
+#Fever
+Patient presented with 2 week history of constitutional symptoms and febrile to 102 on 
+admission. Exam notable for oral thrush. Labs within normal limits. Infectious workup with CXR 
+and u/a negative. In the setting of new HIV diagnosis and unknown suppressive state, viral 
+infection likely. Fever secondary to candidemia likely. Bacteremia also likely. 
+- To evaluate infectious source further, will proceed with blood cultures. Will also follow up on 
+urine cultures.
+#Esophagitis
+#Dysphagia
+Patient reports dysphagia to solid foods and found to have oral thrush on exam. Given HIV 
+positive status, most concerning for candida esophagitis. Structural obstruction also likely. Viral 
+esophagitis secondary to CMV or HSV also likely. 
+- Proceed with candida PCR.
+- Will also check EBV and CMV to evaluate for other infections commonly associated 
+with HIV immunosuppressed patients. 
+- Proceed with Fluconazole 200 mg PO BID for 7 days. 
+- Given SDOH, patient will be discharged today. Hold off on GI consult for EGD.
+#HIV
+On admission, patient found to be HIV positive. Patient does not report any risk factors for HIV 
+including maternal HIV infection while in-utero, IV drug use, frequent unprotected intercourse, 
+or previous sexual partners with history of HIV. The patient has one tattoo on his left forearm, 
+which he received in tattoo parlor in DR. Otherwise, patient unaware of source of infection.
+- Proceed with CD4 count and HIV viral load. 
+Submitted Wed 2022 09 07 10:31 pm
+- Since patient is being discharged, proceed with outpatient care at EB Chandler Clinic for 
+HAART therapy. Patient has appointment scheduled with Dr. Jacobs 9/6/22.
+- Counseled patient on importance of following up with outpatient clinic and receiving 
+care for new HIV diagnosis. Patient is aware of risks of not treating HIV. 
+- Counseled patient on contacting previous partners regarding HIV status. Patient states he is 
+unable to contact previous sexual partners as they are all in DR. 
+#Social Determinants/Dispo
+Patient arrived to ED with son and does not have a family member or contact to care for son if 
+patient were to be hospitalized. Patient is adamant about being discharged from hospital today 
+for this reason. If patient is unable to be discharged, he explicitly stated he will leave against 
+medical advice.
+- Given patient’s situation, will proceed with safely discharging patient today. 
+- Reviewed the importance of being able to contact the patient via phone-call to discuss 
+lab results and inform of any critical values. Patient is aware that if he is found to have 
+bacteremia, he will need to return to the hospital immediately for treatment.
+- Reviewed the importance of following up at EB Chandler Clinic for treatment of newly 
+diagnosed HIV. Patient confirmed that he will be able to attend appointment. 
+ 

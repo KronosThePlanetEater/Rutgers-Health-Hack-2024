@@ -1,0 +1,172 @@
+History and Physical Exam
+Date: 10/03/2020
+Referral Source: Transfer from Community Medical Center and Neurology Critical Care Unit at RWJMS
+Data Source: Patient (unreliable/confused), Patient’s sister (reliable), Neurosurgery and Neurology 
+Critical Care consult notes (reliable)
+Chief Complaint: Recurrent headaches
+History of Present Illness
+Ms. A is a 37-year-old female with a PMH of HTN and chronic back pain who presents with a severe 
+throbbing headache. She was apparently well until one week ago when she began experiencing a severe 
+bilateral diffuse throbbing headache while sleeping at night. She rated the headache 10/10. She was 
+concerned that it may be a migraine. She took Tylenol and it did not alleviate her pain, so she went to a
+chiropractor the next day. She had never seen a chiropractor before this. The chiropractor prescribed 
+Medrol Dosepack and it completely relieved her pain. It is uncertain how many days Ms. A took the 
+steroids. Over the next two days, however, she began experiencing the headache for a second time and 
+it gradually grew in intensity. Four days ago, the headache became unbearable and she described it as 
+being 10x worse than the first. This prompted her to go to the ED at Community Medical Center. Both
+headaches were associated with vomiting, dizziness, confusion, hypersensitivity to sound, and blurry 
+vision which she describes as she describes as “a vitreous hemorrhage.” Review of systems is positive for 
+fatigue, neck pain which worsens with movement, and back pain which began one month ago while 
+camping. She also reports watery diarrhea which started one week ago with three episodes over the 
+course of three days. She thinks that is not associated with meals, however, she has not experienced 
+diarrhea since her admission when she reduced her food intake.
+CT ordered at Community Medical Center showed a 2.8cm left frontal intraparenchymal hematoma, a 
+3.8cm right parietal intraparenchymal hematoma, and a left sylvian fissure subarachnoid hemorrhage. 
+She was then transferred to the Neurosurgery unit at RWJUH for higher level care with a systolic blood 
+pressure of 145 where she was started on nicardipine and then weaned off. Yesterday, she received an 
+MRV and MRA Brain w/o Contrast, a diagnostic cerebral angiogram, and a LP. As per neurosurgery, her
+hemorrhages are stable on repeat imaging and no further surgical intervention is needed so she was 
+admitted today to the medicine floor. Today, her headache is an 8/10 in severity, unaccompanied by any 
+other symptoms, and not alleviated by Tylenol. 
+Past Medical History
+Hypertension
+Gestational Diabetes 
+Past Surgical History
+Ovarian Cyst Removal
+Medications
+Metoprolol Succinate 50mg daily
+Medrol Dose Pack
+Mirena
+Allergies
+Carisoprodol – dizziness, sleeplessness
+Family History
+No medical history reported parents
+Maternal Grandmother – Hypertension
+Maternal Grandfather – Glaucoma
+Does not know history of family members on the paternal side 
+No autoimmune conditions in the family
+Social History
+Ms. A works in an ophthalmology clinic and lives at home with her husband and son. She quit smoking 8 
+years ago, but prior to that, had an 8.5-pack-year history. Social alcohol use. Occasional marijuana use; 
+smoked one joint of marijuana in the past week. 
+Review of Systems
+General: (+) fatigue, no traumas or falls, no fevers, no chills, no recent illnesses, no night sweats
+HEENT: See HPI; no recurrent nose bleeds, no mouth ulcers
+Cardio: no chest pain, no lower extremity edema
+Pulm: no shortness of breath, no coughing
+GI: see HPI; no stomach pain, no dysphagia
+GU: no dysuria 
+Derm: no rashes
+Endo: no polyuria, no recurrent unexplained bleeding or bruising
+Neuro: no loss of consciousness, no focal deficits 
+MSK: See HPI; no joint pain, no trouble with ambulation
+Physical Exam
+Vitals: Temp 98.7°F (oral), HR: 60 and regular, BP 141/74, RR: 20, SpO2: 95% on room air, Weight: 102kg
+General: A middle-aged woman lying in her bed. Initially, she looked tired and in distress, but began 
+engaging with the team more and looked better as the encounter progressed.
+HEENT: Normal conjunctiva and sclera, PERRLA, mucus membranes moist, pain on right lateral gaze and 
+upward gaze, tongue midline, no dysarthria
+Neck: not assessed
+Cardiac: normal S1-S2, no rubs, murmurs, or gallops
+Pulm: CTAB, no wheezes, rales, or rhonchi, good respiratory effort
+Abdomen: Soft, nondistended, and nontender. No rebound tenderness or organomegaly. Normal bowel 
+sounds
+Pelvic: not assessed
+Extremities: no clubbing, cyanosis, or edema
+Neuro: AAOx3, CN 2-12 intact, sensation intact, 5/5 strength on all extremities, slight dysmetria on 
+finger to nose testing with left hand
+Psych: not assessed
+Labs
+LP: Glu 72, Protein 21, RBC 7068, WBC 5
+Imaging
+MRV Head w/o Contrast
+Normal MRV of the Brain
+MRA Head w/o Contrast
+Bilateral stenoses of MCA branches possibly with beading suspected despite some motion. 
+Diagnostic Cerebral Angiogram: 
+Mild to moderate vasoconstriction with vasculitis like pattern in right P1-P2 junction of PCA, left 
+P2-P3 segment, and moderate vasoconstriction of bilateral SCAs. Mild to moderate 
+vasoconstriction in right MCA. 
+The V2 cervical segment of right vertebral artery shows 30-40% stenosis due to possible 
+atherosclerotic disease. 
+5 mg Intra-arterial Verapamil into the right vertebral artery did not improve caliber of stenosis.
+There is a 3mm pseudoaneurysm associated with the medial wall. 
+Summary
+Ms. A is a 37-year-old female with a past medical history of hypertension and gestational diabetes,
+presenting with headaches. The headaches are accompanied by vomiting, dizziness, confusion, 
+hypersensitivity to sound, blurry vision, fatigue, and neck pain. Physical exam shows hypertension and 
+pain on right lateral and upward gaze and slight dysmetria on the left side. Labs show increased WBC, 
+increased hemoglobin, low bicarb, and high anion gap. CT taken prior to admission at RWJUH showed 
+left frontal and right parietal intraparenchymal hematomas and a left sylvian fissure subarachnoid 
+hemorrhage. On diagnostic cerebral angiogram, vasoconstriction of the anterior and posterior 
+circulations in a vasculitis-like pattern was noticed with no relief of stenosis with 5mg intra-arterial 
+verapamil. Most likely etiology is Reversible Cerebral Vasoconstriction Syndrome.
+Plan
+1. Headache: The presence of multiple thunderclap headaches recurring over a few days has 
+nearly 100 percent sensitivity and specificity for the diagnosis of RCVS. Ms. A scores a 10 on the 
+RCVS2 score (recurrent headaches present-5, no carotid artery narrowing-0, vasoconstrictive 
+triggers-3, female sex-1, subarachnoid hemmorhage-1). In RCVS, the onset headaches are 
+usually diffuse or located in the occipital region or vertex. They are often accompanied with 
+nausea and photosensitivity. While most patients experience moderate pain relief within a few 
+minutes to hours, it can be followed by sudden, severe exacerbations that can recur for days. It 
+can have multiple triggering factors, such as medication or preexisting conditions, and can often 
+be associated with hypertension. Visual deficits, including blurry vision is common and can be 
+associated with concomitant posterior reversible leukoencephalopathy syndrome (PRES). Key 
+components of diagnosis, in terms of imaging, include the absence of aneurysmal subarachnoid 
+hemorrhage, variable presence of vasogenic edema, FLAIR sulcal hyperintensities (dot sign) on 
+MRI, symmetric border-zone infarcts, intraparenchymal hemorrhage, combined with multifocal 
+segmental cerebral artery vasoconstriction on angiography. On the differential diagnosis is 
+aneurysmal subarachnoid hemorrhage which also presents with thunderclap headaches, 
+subarachnoid blood, and cerebral artery narrowing, but the recurrent nature of thunderclap 
+headaches related to RCVS, the superficial location and small quantity of subarachnoid blood, 
+the widespread, symmetric vasoconstriction, and unremarkable LP distinguish RCVS from 
+aneurysmal bleeds. RCVS can also be mistaken for Primary Angiitis of the Central Nervous 
+System (PACNS). Patients with PACNS usually have an insidious progressive clinical course with 
+chronic headaches, and rarely have thunderclap headache. The characteristic vasoconstriction 
+of RCVS alternates between narrowing and dilation of the cerebral arteries; the narrowing on 
+PACNS is much more irregular. Brain imaging in RCVS can be normal or show watershed infarcts 
+or lobar hemorrhages, whereas PACNS is usually associated with accumulating T2-hyperintense 
+brain lesions, leptomeningeal enhancement, and scattered deep infarcts. 
+Plan: 
+a. For pain, Tylenol, tizanidine, fiorocet, oxycodone. Triptans and the ergot derivatives are 
+contraindicated because of their vasoconstrictive actions. Empiric glucocorticoid 
+therapy should not be given if primary angiitis of the central nervous system (PACNS) 
+cannot be ruled out. Steroids may also affect lab results. Referral to a neurologist and a
+pain management specialist upon discharge. 
+b. In treating vasoconstriction, evidence is lacking for the use of calcium channel blockers, 
+magnesium sulfate, serotonin antagonists, or dantrolene. Balloon angioplasty and direct 
+intra-arterial administration of nicardipine, papaverine, milrinone, and nimodipine have 
+been used with variable success. 
+c. No neurological intervention indicated at this time. Q4h neuro checks. DVT prophylaxis 
+is on hold. 
+2. Vasculitis 
+a. Since Diagnostic Cerebral Angiogram suggested vasculitis, Rheum should be consulted 
+and lupus, rheumatoid, vasculitis, antiphospholipid serologies, HIV, and hepatitis panel 
+should be ordered. 
+3. Hypertension
+a. There is no consensus for the goals of hypertension for RCVS. High blood pressure 
+(systolic >180 mmHg) can be treated with labetalol or nicardipine.
+b. Neurosurgery has recommended to keep SBP<140 and give labetalol IV for SBP>180. 
+Continue with Labetalol 200mg PO q8h. 
+4. Leukocytosis
+a. Possibly reactive to SAH. LP had 5 WBC and there was one instance where fever spiked 
+to 100.6 yesterday. Low suspicion for infection. Get blood cultures. 
+5. Diarrhea
+a. Ms. A’s diarrhea seems acute in nature, staring one week ago, three episodes over the 
+course of three days. She does not think that is not associated with meals and she has 
+also not experienced diarrhea since she was admitted and reduced her food intake. 
+6. Metabolic Acidosis with Anion Gap
+a. Her high anion gap (18) and metabolic acidosis as evidenced by low bicarb (18.2) may 
+also be due to dehydration and loss of electrolytes from these previous episodes of 
+diarrhea. Plan is to encourage food and water intake, for dehydration, replete 
+electrolytes as needed, and monitor for recurrence. Lactate levels should be ordered. 
+b. She has a history of gestational diabetes. Headaches, nausea, vomiting, fatigues, 
+confusion, and blurry vision may be present in diabetic ketoacidosis as well, these lab 
+values could be due to mild, resolving DKA. Her glucose on presentation to ED was 170. 
+Since then has been Insulin Lispro Humalog Sliding Scale, subcutaneous every 6 hours. 
+Her last glucose level was 111. 
+Fluids: None
+Electrolytes: prn
+Nutrition: regular
+Anticoagulation: SCDs
+DISPO: pending further workup

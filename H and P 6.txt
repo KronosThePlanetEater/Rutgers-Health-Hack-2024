@@ -1,0 +1,147 @@
+Date- 3/12
+Data Source- Patient, good historian
+CC- Crushing chest pain for 4 days 
+
+HPI
+　
+Pt is a 47 YOM with a PMH of HTN and possible undiagnosed OSA who presents to the ED with crushing substernal chest pain since Monday, 4 days prior to admission. The pt states that the pain began in his abdomen while he was sitting and then moved upwards to his chest. The pt described the feeling as crushing and was accompanied by SOB. He stated he has never felt anything like this before. He says the pain was a 9/10 and did not radiate to the arm, jaw or back. The feeling got better when he sat down but never entirely resolved and remained at a 5 or 6/10 constantly until he came to the ER and received nitroglycerin, after which he said the feeling subsided and described 0/10 pain. He felt that the feeling worsened on exertion and was accompanied by SOB while moving. He had some associated nausea but no diaphoresis, palpitations or vomiting. He normally sleeps on his side with 1-2 pillows however since Monday the pt states that he has been sleeping upward in a recliner because of worsened SOB. He also notes that he has swelling in his legs at baseline but he has noticed increased swelling since Monday. He attempted to use aspirin with no relief.
+
+Of note the pt has a history of HTN for years which was previously treated with lisinopril but lost his job and his insurance approx 1 year ago and has not taken any medications for the past year. Notably on 1/11/2021 the pt had a physical for his new job in which his BP was 220/110 and he was positive for proteinuria. He also mentioned that his proBNP was 96 at that time but does not have a paper record of this. The pt had no headache, vision changes or blurry vision, no chest pain currently, SOB, abdominal pain, fevers/chills, cough. He had no recent flu-like symptoms or travel. 　
+　
+ED course
+In the ED the pt’s vitals were 224/134, HR 122, RR 18, Spo2 98% on RA. Labs significant for elevated D-dimer 601, troponin 0.02 and proBNP 5454. CXR showed mild cardiomegaly no evidence of lung consolidation. CTA showed no evidence of PE, some backflow into the IVC indicative of possible right heart failure. EKG was sinus tachy with poor R wave progression. Pt was given nitroglycerin, labetalol and 10mg IVP in the ED and felt that his symptoms improved and the crushing sensation was finally gone.
+　
+PMH
+-HTN dx in 2018
+-OSA never formally diagnosed, pt stated that at his work physical it was mentioned that he should be worked up for OSA
+-"heart murmur" found when he joined the army in 1992
+　
+Surgical History
+-Herniated disc repair 2013
+　
+Medications
+None. History of HCTZ use which was switched to lisinopril. See HPI
+　
+Allergies
+No known drug allergies
+　
+Family history
+-Brother passed away from Type 1 DM complications
+-Grandfather MI at 70
+-Mother ovarian cancer passed away at 68
+-Aunt MI unknown age 
+-Cousin MI at 48
+　
+Social
+No tobacco, no EtOH, no drugs
+Lives alone
+Military in 1992
+Works in a warehouse
+Lost insurance last March
+Significant stressors- friend passed away on Sunday. Mother, brother, and cousin have all died within the past year
+
+Review of Systems
+General: See HPI, no change in appetite. Pt states that he has gained weight during the pandemic 
+HEENT: No headaches, lightheadedness, dizziness. No vision changes, blurry vision. No changes in hearing acuity. No post nasal drip or runny nose. No pain in his mouth. 
+Pulm: See HPI. No SOB on sitting currently. Has been hard to catch his breath on exertion for the past 4 days. 
+Cardio: See HPI No palpitations, or feelings of racing heart. No leg pain upon exertion
+GI: No abdominal pain. No changes in bowel movements and stool including diarrhea or constipation, no hematemesis, hematochezia, melena
+GU: Pt states he has increased urinary frequency at night, no pain on urination, no hematuria noted. No incontinence, no feelings of dribbling/straining. 
+Neuro: No tingling or numbness in the bilateral upper and lower extremities. 
+Endocrine: No polyuria or changes in thirst, no decrease in weight recently 
+MSK: Slight back pain that has been present since disk herniation in 2013, no recent changes in quantity or quality of pain. No tremor or weakness. 
+Skin: Pt states his skin feels tight and warm on his calves which is worse since Monday. No hair loss or rashes, no changes in skin color. 
+Psych: Has been stressed due to the recent passing of his friend and multiple family members. Has no suicidal ideation or depressed mood. 
+　
+Vitals:
+T: 96.0F HR: 100 sinus rhythm BP: 182/122  RR: 18 | SpO2: 100% on room air 
+Physical 
+General: Patient is sitting comfortably on the side of the bed, in no acute distress. Pt is obese and appears stated age. He is able to provide his own history. 
+HEENT: EOM intact, PERRL. No conjunctival pallor or scleral icterus. No exudate on the throat. No cervical or supraclavicular lymphadenopathy. 
+CV: Normal rate and rhythm. Normal S1, S2 audible. No murmurs, rubs, or gallops.
+Resp: Chest clear to auscultation bilaterally. No hyper or hyporesonance on percussion
+GI: Normal bowel sounds present. Abdomen is soft, non-tender, and non-distended. No rebound or guarding.
+Extremities: 2+ pitting edema extending bilaterally to the thighs. Slightly warm to the touch. Pulses equal and strong bilaterally, no rashes. No ulcers present on the feet. 
+Skin: Skin is tight and erythema is present on bilateral calves.
+Neuro: A&O x3, CNII-XII intact. Equal sensation and strength bilaterally. Normal sensation bilaterally in lower extremities. No focal deficits appreciated.
+Psych- Normal affect, cooperative, able to all answer questions appropriately
+　
+Labs 
+Troponin 0.02
+proBNP 5454
+
+140 | 101 | 20
+-------------------< 109 Ca: 9.0 Mg: 1.7 
+4.2 | 24.0 | 1.1
+AST: 73 / ALT: 95 / AlkPhos: 87 / Bili: 0.6 / Dir: 0.2 / Prot: 7.4 / Alb: 3.8 
+WBC: 6.0 / Hb: 14.5 / Hct: 43.9 / Plt: 211 
+-- Diff: N:55.8% L:28.4% Mo:13.2% Eo:1.6% Baso:1.0%
+
+EKG 
+EKG was sinus tachy HR of 105 with poor R wave progression in V1-V6. No other abnormalities
+　
+Imaging
+03/11/2021 15:59 CTA Chest W/Contrast- No evidence of pulmonary embolism.
+Findings are suggestive of right-sided heart failure, with a small right pleural effusion and reflux of contrast into the IVC and hepatic veins.
+Bibasilar diskoid atelectasis is also noted. 
+
+Summary Statement
+Pt is a 47 YOM with PMH of HTN unable to take his medications for 1 year and possible OSA who presents with crushing substernal chest pain that began 4 days ago with SOB that got better on sitting but did not completely go away until arriving in the ED and getting nitroglycerin. He was found to have a BP of 224/134 on admission and is being managed for possible unstable angina and hypertensive urgency/emergency.
+　
+Assessment
+
+1.	Typical chest pain
+a.	Crushing CP in the retrosternal region, worse on exertion, associated with SOB and nausea. Subsides when sitting and upon nitroglycerin administration but does not completely go away is consistent with typical chest pain. Possibly unstable angina as the feeling began as he was sitting down at work and has 3/3 features of angina. Possibly CHF due to orthopnea, increasing leg swelling, and CTA chest findings indicating that there was reflux of contrast into the IVC and hepatic veins along with small R pleural effusion. A possibly an MI however the presentation of this feeling lasting days is not typical and troponins would be higher with other expected findings on the EKG including T wave changes. Unlikely to be GERD as the pain is not related to eating, and he has no cough. Also possible is a panic attack due to recent stressors however you would not expect to see CTA findings of RHF and small pleural effusion and would not likely last throughout the week without resolution. Pt has a history of HTN which he is not currently being treated for, and family history is significant for cardiovascular disease in multiple family members. Both of which put him at risk for heart disease and point towards a cardiac cause of the pain. The patient’s EKG was normal with the exception of abnormal R wave progression which could be indicative of an anterior MI however is more often associated with left ventricular hypertrophy, right ventricular hypertrophy or a normal variant of normal in the absence of other signs of MI such as elevated troponins and ST changes, the pt’s initial troponins were 0.02
+
+　
+2.	HTN Urgency/Emergency
+a.	Pt had a BP 224/134 with chest pain, and a history of proteinuria in a physical in 1/11/2021. There is no evidence of vision changes, headache or other end-organ damage at this time. The Pt received labetalol 10mg IV in ED which dropped his BP however it went back up and was 210/120s which still meets the criteria for hypertensive urgency. To note there is not an appropriate sized BP cuff and the large cuff would not fit around the upper arm therefore the pt’s BP was taken on pt's forearm and it is uncertain how accurate it is. 
+3.	CTA signs of Right Heart Failure (RHF)
+a.	Seen on CTA chest showed back flow of contrast reflux into IVC and hepatic veins indicative of RHF. Could potentially be due to long-standing OSA which can cause pulmonary HTN that can lead to right heart strain and RHF. Another potential cause of RHF is left heart disease which is the most common cause of RHF and can be caused by long standing HTN. The patient has increased swelling in his legs which points towards heart failure
+4.	Potential Obstructive Sleep Apnea (OSA)
+a.	The pt was told during his physical that he may have OSA, because of his snoring. He says that he does not wake up fatigued or have AM headaches. OSA has not been formally diagnosed.
+5.	Elevated Creatinine (Cr)
+a.	Cr on admission is 1.1 and BUN 20 which may be the pt’s baseline due to untreated HTN however since we do not know the baseline it is possible that this is an acute elevation and this must be trended. Elevated Cr can occur in the setting of CHF as there is hypoperfusion of the kidneys. 
+6.	Elevated AST/ALT
+a.	AST 73, ALT 95. The most likely differential is elevation due congestive heart failure as there is evidence of RHF and contrast on CTA moving into hepatic veins. Another likely possibility is hepatic steatosis in the setting of obesity. The values are not severely elevated so this points away acute hepatitis or infection. The alk phos is not particularly elevated which points away from a biliary problem. 
+7.	Lost insurance
+a.	Pt stated that he lost his job due to COVID and with that he lost his insurance. He has a new job in a warehouse however it is temporary and does not provide insurance. Pt said that the physical he received on 1/11 was for a potential new job which he is trying to get. In the meantime the pt may need assistance paying for medications as he will likely be discharged on one or more BP medications. 
+
+Plan
+1.	Typical Chest Pain
+a.	An echocardiogram should be obtained due to high concern for right heart failure. Also while there is no history of diabetes, an HbA1c and lipids should be checked because of significant CVD risk and obesity. It does not appear to be consistent with an acute MI however troponins should be trended. A cardiology consult should be obtained as it is likely a stress test will need to be ordered　
+2.	Hypertensive urgency
+a.	The first step would be to find an appropriate sized cuff, or obtain a thigh cuff because accurate measurement of his BP is essential. Fundoscopic examination should be performed to check for retinal hemorrhage and papilledema. A UA should be ordered to check for urine protein indicative of kidney injury. If these are negative then the pt has hypertensive urgency because there are no other signs of end-organ damage. 
+b.	The goal of HTN urgency BP control is lowering 10-20% in the first hour and a further 5-15% over the next 23 hours. Which is a target of <160/<100 over 24 hours, but not lower than <140/<90 which could cause hypoperfusion. Pt received labetalol 10mg IV in ED which dropped his BP initially however it went back up and was 210/120s. Pt can be treated with continued labetalol. Clonidine and oral captopril are other medications that can be used to lower BP to this goal if labetalol as single agent is not sufficient. Pt should get BP checked Q2 for close monitoring. 
+3.	CTA signs of Right Heart Failure (RHF)
+a.	An echocardiogram (see plan above) would give a better indication of the patient’s possible heart failure cause. If there is LV dysfunction it would indicate that it is more likely caused by long-standing HTN than the undiagnosed OSA. Depending on the results of the echocardiogram diuretics, such as furosemide should be considered to decrease the pt’s leg swelling. They would also help alleviate the HTN. Furthermore if heart failure is detected labetalol should be switched to carvedilol which shows mortality benefit. 
+4.	Obstructive sleep apnea
+a.	Monitor pt overnight, could be contributing to RHF if it is causing pulmonary HTN. OSA is usually diagnosed in the outpatient setting with polysomnography and an appointment can be set up on discharge. 
+5.	Elevated Cr
+a.	As it is not certain what the patients baseline Cr is, this value should be trended. A UA will help tell if there is evidence of kidney injury
+6.	Elevated AST/ALT
+a.	A RUQ US should be obtained to look for evidence of hepatic steatosis or dilated veins. PT and INR should be obtained. 
+7.	Lost insurance
+a.	Contact social work to be involved on the case so that when the pt is discharged he will have a plan to help pay for his medications or get them at an affordable cost. 
+
+
+
+EMB- Is treating hypertensive urgency in the ED with anti-hypertensive medications necessary?
+I had 2 other patients who presented with hypertenvise urgency and wanted to research its overall treatment, despite this patient’s chest pain which makes his presentation of hypertensive urgency less straightforward. 
+
+Comparing the clinical efficacy of resting and antihypertensive medication in patients of hypertensive urgency
+a randomized, control trial
+
+
+Park, S. K., Lee, D. Y., Kim, W. J., Lee, S. Y., Park, H. S., Kim, H. W.,  & Moon, K. H. (2017). Comparing the clinical efficacy of resting and antihypertensive medication in patients of hypertensive urgency: a randomized, control trial. Journal of hypertension, 35(7), 1474-1480.
+　
+Hypertensive urgency blood pressure >180/>120 without evidence of end organ damage. In the ED, hypertensive urgency is normally managed with antihypertensive medication. However, there has been increasing concern for the safety of antihypertensive medication in hypertensive urgency. This study compares the clinical efficacy of resting vs antihypertensive medication
+
+Patient- 138 hypertensive urgency patients admitting in the ED of Veterans Health Service medical center
+Intervention- BP was checked every 30 min for 2 hours. The primary end point of the study was average BP reduction from 10 to 35%. 
+Comparison- Resting group (no activity was allowed) and antihypertensive medication (40mg telmisartan) group at admission. Change and decline of SBP and DBP were compared
+Outcome- The rate of individuals approaching primary end point was 68.5% in the rest group and 69.1% in the medication group (P = 0.775). There was also no significant difference in the change of SBP and DBP in both groups, serially or after the full two hours. Overall there was no significant evidence that anti-hypertensive medications were superior to resting at 2 hours. 
+Perhaps there is a greater difference following the acute presentation?
+
+
+

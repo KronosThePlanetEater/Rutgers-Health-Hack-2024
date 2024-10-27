@@ -1,0 +1,116 @@
+History and Physical Examination
+
+Date: 5/2/2021
+Referral Source: Emergency Department
+Data Source: Patient, reliable
+Chief complaint: 5 Days of bright red blood in the stool
+History of Present Illness: Patient is an 84 y/o male with a history of prostate cancer (2011) treated with 
+radiation, and open heart surgery for aortic valve replacement with mechanical valve (1990 and 1999) 
+on warfarin, presenting with 5 days of bright red blood in his stool. Patient reports that this is not the 
+first time he has had this issue. He said he had bright red blood in his stool in 2019, after which he saw 
+GI Dr. Wilkins. CT colonography was negative and bleeding was attributed to mucosal atrophy from the 
+radiation he received during prostate cancer treatment. She prescribed him a mesalamine suppository 
+which resolved the issue. He reports that he attempted to use mesalamine for the past 5 days as well, 
+but his bleeding has not subsided. He reports a fall 3 weeks ago, in which he landed on his bilateral 
+glutes. 2 days following the fall, he noticed blood in his urine. He saw his urologist 2 days after and 
+urinalysis showed hematuria. The hematuria resolved by the end of the week. He then reports the onset 
+of hematochezia 2 weeks following the resolution of hematuria. Patient says he lost around 30lbs two 
+years ago but his weight has been stable since. He does not report lightheadedness, fatigue, abdominal 
+pain, nausea, vomiting, diarrhea, bloating, urinary or bowel changes, or bone/back pain. He says he 
+experiences shortness of breath when walking too fast, which resolves when he rests. He does not 
+report any chest pain, palpitations, or orthopnea.
+Past Medical History:
+Hypertension: Diagnosed 2010
+Otherwise as reported in HPI
+Past Surgical History:
+2014: Adrenal gland removal
+Otherwise as reported in HPI
+Medications:
+Metoprolol Extended Release 25 mg by mouth daily
+Aspirin Chewable 81 mg by mouth daily
+Clonidine 0.1 mg by mouth every 8 hours
+Enalapril 20 mg by mouth daily
+Hydrochlorothiazide 25 mg by mouth daily
+Pravastatin 40 mg by mouth nightly at bedtime
+Warfarin: 5 mg. Target INR 2-3
+Allergies:
+Heparin
+Family History:
+Mother: Deceased. HTN and HLD
+Father: Deceased. HTN
+Patient does not have any siblings
+There is no family history of cancer or inherited bleeding disorders.
+Social History
+Patient smoked approximately 3-4 cigarettes per day until his valvar surgery in 1990 and has not smoked 
+since. 
+Drinks alcohol socially. Approximately 1 drink per week
+Does not use illicit drugs
+Retired. Used to work for IBM sales
+Patient is married to his wife of 55 years
+Housing situation is secure and patient lives with his wife
+No food insecurities
+Review of Systems:
+Constitutional: See HPI
+HEENT: Reports no headache, ear pain, tinnitus, blurry vision
+Cardiovascular: See HPI
+Respiratory: See HPI
+Gastrointestinal: See HPI
+Genitourinary: See HPI
+MSK: See HPI
+Skin: Patient does not report rashes, petechiae, purpura, bumps, or bruises. 
+Psych: Patient does not report depression, anxiety, SI/HI
+Physical Exam:.
+Vitals: Temp 97.7 (oral), HR 63 and regular rhythm, BP 135/63, RR 17 and not labored, SPO2 99% on 
+room air
+General: Well appearing male appearing stated age in no apparent distress.
+Skin: Normal appearing with no discoloration
+HEENT: Normocephalic and atraumatic. Pupils equally round and reactive to light. To tenderness to 
+palpation in the nasal sinuses. No erythema, post nasal drainage, or discoloration of the throat. 
+Neck: No cervical lymphadenopathy. No palpable masses. Trachea midline.
+Pulm: Lungs are clear to auscultation. No crackles/rales/wheezes/rhonci. Bilateral resonance to 
+percussion. Normal tactile fremitus. 
+Cardiac: Loud S1 and S2 (due to mechanical valve). Regular rhythm. Slight early diastolic murmur. 
+GI: Abdomen is nontender, nondistended, no palpable masses, and bowel sounds are present in all four 
+quadrants and are normal. The liver span is approximately 9 cm and there is no splenomegaly.
+Extremities: There is no edema. 5/5 strength in Bilateral upper and lower extremities. Reflexes 2+ 
+bilaterally in Upper and lower extremities. 
+Neuro: Alert and oriented x3. Sensation to light touch and pinprick is intact. Sensation to vibration and 
+proprioception is intact. 
+Psych: Normal affect. Very pleasant and cooperative. 
+Labs & Imaging:
+Na: 140, K: 4.3, Cl: 100, HCO3: 23.6, BUN 22, Cr: 0.8, Ca: 9.5
+WBC: 6.0 / Hb: 11.7 / Hct: 35.1 / Plt: 154 
+-Diff: N: 54.8% L: 30.9% Mo: 9.4.% Eo: 3.1% Baso: 1.8%
+PT: 25.4 (INR: 2.25)
+No imaging performed yet
+Assessment
+Patient is an 84 y/o male with a history of prostate cancer (2011) treated with radiation, and open heart 
+surgery for valve replacement (1990 and 1999) on warfarin, presenting with 5 days of bright red blood in 
+his stool. Patients Hb is 11.1, and his INR is 2.25. 
+1. Hematochezia and anemia
+Patient has been suffering from 5 days of bright red blood with his stool. The most likely explanation for 
+this patient’s symptoms is hemorrhagic diverticulitis. However, given the patients past medical history, 
+we should also consider angiodysplasia (Heyde Syndrome). Though Heyde is rare, the patients prosthetic 
+aortic valve puts him at increased risk to develop this coagulopathy. Other things to consider on our 
+differential are bleeding from friable mucosa due to past radiation, however this is less likely given how 
+long ago he got radiation. We should also consider colon cancer, colonic polyps, and ulcerative colitis. 
+2. Shortness of breath
+Patient reports shortness of breath on exertion. This is likely due to his anemia, and can also be seen as 
+a presenting symptom with Heyde syndrome. However, we should also consider other causes of S.O.B. 
+The patient’s history as a smoker makes it possible that he could have COPD, though this is less likely 
+given how long ago he quit smoking and his low pack per year history. Patient could also be suffering 
+from asthma; however, he does not report increased S.O.B at night or with environmental exposures. 
+We should also rule out cardiovascular causes of S.O.B. Such as CHF and CAD.
+Plan:
+1. Hematochezia.
+Patient needs to undergo a colonoscopy. However, this is complicated by his warfarin use, therapeutic 
+INR, and Heparin allergy. We should stop warfarin. Once patient is not therapeutic (IBR less than 2), we 
+should start patient on bivalrudin or argatroban to decrease stroke risk from his mechanical heart valve 
+and perform the colonoscopy. Once we get the colonoscopy results, we can be more well versed on 
+what we are dealing with. If this is not an option, we can consider another CT cologram. We should also 
+continue to monitor the patients Hb and transfuse if it drops below 7. 
+2. Shortness of breath.
+To rule out other causes of S.O.B. not related to patient’s anemia, we should get PFTs and ABGs on 
+patient. We should also consider EKG, Echo, and stress test to rule out cardiovascular causes of S.O.B. 
+Although I do not believe this is as pressing given the patients reporting no chest pain, palpitations, 
+syncope, or orthopnea. 

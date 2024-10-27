@@ -1,0 +1,107 @@
+
+Date: 4/27/2021
+Referral Source: Emergency Department
+Data Source: Patient, reliable
+Chief complaint: Lower Extremity Swelling
+History of Present Illness:
+Patient is a 43 y/o male smoker with a previous medical history of type 2 diabetes mellitus, which was 
+diagnosed by his primary care provider 1 day ago. HR reports that on Easter he injured his left knee 
+while moving boxes. He said the knee was swollen and painful for around two weeks, during which time 
+he was predominantly immobile, iced and elevated his left knee, and took NSAIDs for pain control. Upon 
+resolution of the pain, HR began to return to his normal activities as a high school football coach. He 
+reports that for a few weeks, he noted polyuria and polydipsia, which prompted him to schedule an 
+appointment with his PCP. Additionally, for the past 3 days, he has noticed swelling of his left lower 
+extremity. At the office, the PCP noted that HR was tachycardic, hypertensive, and had significant 
+swelling of the left lower extremity. A finger stick blood glucose reading was taken and found to be 505. 
+The patient was then instructed to come directly to the ED. In the ED the patient was saturating well on 
+room air. A CBC was ordered, with WBC of 10.5. BMP was unremarkable, and Troponin was within 
+normal limits. The patient’s D-dimer levels were elevated to 2237. On talking with the patient, he denies 
+any recent travel, shortness of breath, chest pain, dyspnea on exertion, fever, chills, or syncope. 
+However he confirms prolonged immobilization of two to three weeks due to his knee injury.
+Past Medical History:
+Type 2 Diabetes Mellitus: Diagnosed April 26th 2021
+Obesity: BMI 34
+Left Knee Injury April 4th 2021
+Otherwise unremarkable
+Past Surgical History:
+None
+Medications:
+Metformin 500mg PO once daily
+Family History:
+Father with CAD
+No family history of coagulation disorders
+Social History
+Smokes ½ pack of cigarettes a day for 20 years
+Does not drink alcohol
+Does not use illicit drugs
+Works as a high school football coach
+Housing situation is secure
+Review of Systems:
+Constitutional: Patient denies fevers, chills, night sweats, weight loss or gain
+HEENT: denies headache, ear pain, tinnitus, blurry vision
+Cardiovascular: denies chest pain, palpitations, DOE, LE edema
+Respiratory: denies SOB, coughing, wheezing
+Gastrointestinal: Denies abdominal pain, nausea, vomiting, diarrhea, constipation, melena
+Genitourinary: Confirms polyuria, frequency, nocturia. Denies dysuria, hematuria, urinary retention. 
+MSK: See HPI
+Skin: denies rashes
+Psych: Denies depression, anxiety, SI/HI
+Physical Exam:. 
+Vitals: Temp 97.8 (oral), HR 107, BP 135/92, RR 18, SPO2 97% on room air
+General: Well appearing male of stated age in no acute distress
+Skin: Normal appearing with no discoloration
+HEENT: Normocephalic and atraumatic. Pupils equally round and reactive to light.
+Neck: No cervical lymphadenopathy. No palpable masses. Trachea midline.
+Pulm: Lungs are clear to auscultation. No crackles/rales/wheezes/rhonci.
+Cardiac: Tachycardic, normal S1 and S2. No rubs, murmurs, or gallops.
+GI: Abdomen is nontender, nondistended, no palpable masses, and bowel sounds are present in all four 
+quadrants. 
+Extremities: Patient has 1+ pitting edema in R leg, 2+ pitting edema L leg.
+Neuro: Alert and oriented x3. Denies numbness, weakness, paresthesias.
+Psych: Normal affect. Nice and cooperative. Seems anxious.
+Labs & Imaging:
+AST: 14 / ALT: 18 / AlkPhos: 63 / Bili: 0.5 / Prot: 6.5 / Alb: 3.6
+Na: 136, K: 3.6, Cl: 100, HCO3: 22.7, BUN 18, Cr: 0.9, Ca: 9.0, Mg: 1.8 
+HbA1c: 11
+PT: 13.3 / PTT: x / INR: 1.19
+WBC: 10.5 / Hb: 16.2 / Hct: 46.5 / Plt: 271
+-Diff: N: 62.7% L: 29.3% Mo: 5.9% Eo: 1.7% Baso: 0.4%
+Cholesterol: 
+Total: 215, HDL: 32, LDL, 121, Triglycerides: 336
+Troponin T: <0.01
+D-dimer: 2237
+LE US with Doppler: There is evidence of thrombus within the left femoral through popliteal vein.
+EKG: Sinus tachycardia without ischemic changes
+CTA chest: Acute pulmonary emboli in the right lower lobe segmental and subsegmental pulmonary 
+arteries as well as the left lower lobe segmental and subsegmental pulmonary arteries. No evidence of 
+right heart strain.
+Assessment
+Patient is 43-year-old male smoker with PMH of T2DM presenting with 3 days of LLE swelling. Physical 
+exam notable for 2+ LLE edema. Duplex Ultrasound shows left femoral DVT. CTA chest shows bilateral 
+pulmonary emboli.
+1. Bilateral Pulmonary Embolisms
+This patient is suffering from bilateral PEs most likely resulting from his left femoral DVT. Though this is 
+the most likely cause, other causes of PE should still be considered. Given the patients smoking history, 
+cancer should also be considered as a possible cause of hypercoagulability.
+2. Lower extremity edema
+Patient presented with 1+ pitting edema in the right leg and 2+ pitting edema in the left leg. The 
+asymmetry is likely due to reduced venous blood flow in the left leg due to the left femoral DVT. 
+However, the DVT does not explain the bilateral swelling at baseline. This patient’s presentation of 
+polyuria, polydipsia and new onset T2DM could hint at possible kidney damage. Diabetic nephropathy 
+could explain the patient’s lower extremity swelling. Urinalysis should be performed to check for 
+proteinuria. Additionally, given this patients cardiac risk factors (hyperlipidemia, obesity, smoking 
+history), an atypical MI or heart failure could also be the cause of the patient’s lower extremity edema. 
+Plan:
+1. PE and DVT
+The management of this patients PE and DVT will be the same. Patient should be started on 
+anticoagulation (factor Xa inhibitor or Warfarin) to reduced further coagulation. Patient should remain 
+on anticoagulation for 3-6 months following discharge.
+2. Hyperlipidemia
+Patient was found to have elevated cholesterol on labs. The patients calculated ASCVD score indicates a 
+17.2% probability of adverse coronary event. The most current recommendation is that patients with an 
+ASCVD of >7.5% be started on a high intensity statin. This patient should be started on 40mg 
+atorvastatin and follow up with is PCP
+3. Type 2 Diabetes Mellitus
+Patient was started on 500mg metformin 1 day ago. However, current literature suggests that 
+metformin can lower HbA1c by 2 points, which would leave this patient at 9. A second generation 
+Sulfonylurea such as glipizide should be considered and patient should follow up with his PCP. 

@@ -1,0 +1,115 @@
+
+Informant: Patient, reliable historian
+CC: “I’ve had worsening stomach pain and bloating for the past week”
+HPI: This is a 41 year old female with a PMHx of alcoholic liver cirrhosis, ascites, chronic pancreatitis, and 
+IDDM secondary to pancreatic insufficiency, who has been in declining health for the past several years 
+and presents with a 1 week history of gradually worsening abdominal distention and pain starting in the 
+mid lower abdomen radiating to the chest and back rated at "14/10" and described as burning pain. She 
+states she cannot take a full breath because of the pain. She was seen in the hospital 2 weeks ago for 
+ascites and hepatic encephalopathy, had 3L removed via paracentesis, was treated with Furosemide, 
+Spironolactone, Lactulose, and Rifaximin and her condition improved. She was discharged and planned to 
+follow-up with Dr. Kahalleh on 9/29, but presented to the ED prior to her scheduled appointment due to 
+worsening pain. She reports nausea and headache from stress, does not report confusion. She also reports 
+foot swelling for 4 days.
+ED Course: Paracentesis performed in ED. 6.8L of yellow fluid drained from abdomen.
+PMD: Dr. Grubb
+GI: Dr. Kahalleh
+PMH: Alcoholic cirrhosis with recurrent ascites, Pancreatitis in 2017 with pancreatic stents, GERD, opioid 
+use disorder, alcohol use disorder, Depression, Neuropathy
+Surgical History: Pancreatic stents over 1 year ago
+Social History: + 30 pack yr history of smoking, history of EtOH abuse, quit in February of this year, no
+current illicit drug use, prior history of opioid use.
+Patient lives at home with her husband, neither are currently working - husband was just laid off of work.
+The patient formally worked as a waitress but stopped working about 2-3 years ago due to declining 
+health. 
+Family history: No history of illness in parents or siblings, both parents are alive and in their late 60s. No 
+children.
+Medications:
+Duloxetine 30 mg oral delayed release capsule 1 cap(s) orally once a day
+furosemide 40 mg oral tablet 1 tab(s) orally once a day
+lactulose 10 g/15 mL oral syrup 15 milliliter(s) oral 3 times a day
+magnesium oxide 400 mg (241.3 mg elemental magnesium) oral tablet 2 tab(s) orally once a day 
+Multiple Vitamins oral tablet 1 tab(s) orally once a day
+niacin 500 mg oral capsule, extended release 1 cap(s) orally once a day (at bedtime)
+pancrelipase 36,000 units-114,000 units-180,000 units oral delayed release capsule 2 cap(s) orally 3 times 
+a day (with meals)
+potassium chloride 15 mEq oral tablet, extended release 2 tab(s) orally once a day
+Rifaximin 550 mg oral tablet 1 tab(s) orally 2 times a day
+Insulin Lispro Kwikipen
+ALLERGIES: NKDA
+TJ Hanlon H&P 2 sent Wed 9/22 10:02 pm
+ROS:
+General: + Nausea, no vomiting, fever, chills, or weakness
+Cardiac: + chest pain radiation from abdomen
+Pulm: No shortness of breath, but patient reports difficulty taking a full breath due to abdominal 
+distention
+Abdomen: See HPI
+GI: 9 bowel movements yesterday started as well-formed, but progressed to diarrhea 
+Physical Exam: 
+VITALS 
+T: 98.1 Tmax: 98.1 @ 15 Sep 10:19
+HR: 115 regular
+BP: 118/82 
+RR: 16 SpO2: 98% on RA
+Weight: 141lbs
+General: Patient appears in moderate discomfort secondary to pain. Patient is a good historian, alert and 
+oriented to person place and time. 
+Skin: Facial jaundice noted, no rashes, petechiae or ecchymosis
+HEENT: Mucus membranes moist, minimal scleral icterus, no conjunctival pallor. No JVD.
+Cardiac: Tachycardia, regular rhythm, no rubs murmurs or gallops, normal S1 and S2.
+Pulmonary: Clear and equal bilaterally, no rales, rhonchi, or wheezes
+Abdomen: Massively distended protuberant abdomen with rigidity and diffuse exquisite tenderness; 
+patient winces to light touch of the abdomen. Unable to assess liver span secondary to patient discomfort
+Back: No CVA tenderness or spinal tenderness
+Extremities: 1-2+ Pitting edema of bilateral lower extremities to the level of the ankle, no deformities 
+noted. Radial and DP pulses 2+
+Neurologic: Bilateral hand tremor at rest consistent with asterixis
+LABS 
+126 | 93 | 8
+--------------------< 117 Ca: 7.8 [09/15 @ 11:05]
+5.6 | 24.0 | 0.2
+WBC: 15.9 / Hb: 10.9 / Hct: 31.6 / Plt: 130 [09/15 @ 11:05]
+-- Diff: N:77.60% L:16.6% Mo:4.4% Eo:0.4% Baso:0.3%
+PT: 18.8 / PTT: x / INR: 1.67 [09/15 @ 11:05]
+AST: 58 / ALT: 18 / AlkPhos: 196 / Bili: 4.3 / Dir: 2.4 / Prot: 7.3 / Alb: 1.8 / Lip: 13 [09/15 @ 11:05] 
+Assessment: This is a 41 year old female with a history of alcoholic cirrhosis, recurrent ascites, chronic 
+pancreatitis who presents with a 1 week history of gradually worsening abdominal pain and distention. On 
+physical exam the patient is jaundiced with a massively distended abdomen with diffuse tenderness. 
+Paracentesis was performed in ED, 6.8L of yellow fluid drained. Abdominal pain with ascites concerning for 
+liver failure, pancreatitis, spontaneous bacterial peritonitis, or malignancy. 
+TJ Hanlon H&P 2 sent Wed 9/22 10:02 pm
+#Abdominal pain of unknown origin and distention
+- Concern for multiple etiologies including acute liver failure or pancreatitis given patient's history of 
+chronic pancreatitis and cirrhosis. Patient is afebrile, but elevated WBC raises concern for spontaneous 
+bacterial peritonitis. Will send ascites fluid to pathology for analysis of serum-to-ascites albumin gradient, 
+cell count and differential, culture, and total protein. Will treat SBP prophylactically with Ceftriaxone 1g IV 
+q24hrs until pathology results return. Will continue to monitor patient's pain and treat with Morphine 
+2mg IV q4hrs PRN. Will consider CT A/P based on pathology results of ascites analysis and if pain 
+continues after paracentesis. Will treat with Albumin 8g per L of fluid removed, 60g total. Will contact Dr. 
+Kahalleh for GI consult and plan for follow-up and management.
+#Cirrhosis/Hepatic encephalopathy
+- Patient with history of cirrhosis and elevated liver enzymes (AST 58). Will continue patient's home 
+medication of Lactulose and Rifaximin to prevent worsening hepatic encephalopathy and await ascites 
+pathology report for further management. Will monitor for worsening asterixis or confusion indicative of 
+worsening encephalopathy. Patient with hyperbilirubinemia likely secondary to failing liver function, is 
+similar to bilirubin on prior admission. CHILD-PUGH Class C, MELD Score 21 which would indicate she is in 
+need of a liver transplant. Will consult GI for plan for potentially evaluating patient for liver transplant. 
+#Electrolyte imbalance
+- Will continue to monitor hyponatremia and re-evaluate in 12 hours as patient has no significant 
+symptoms of hyponatremia and is potentially chronic based on prior hospitalizations' values (past 
+hospitalization sodium levels of 127 prior to paracentesis). Could also be secondary to significant ascites 
+and will re-check after paracentesis.
+#Tacchycardia
+- Could be secondary to pain or infection, will continue to continuously monitor heart rate, but no 
+intervention at this time. 
+#Diarrhea
+- Patient reports chronic diarrhea when taking lactulose, will continue to monitor for worsening 
+diarrhea vs worsening/improving encephalopathy and can increase or decrease lactulose dosing 
+accordingly. 
+#Pancreatic insufficiency
+- Will continue patient's home medications (Pancrelipase) and monitor blood glucose levels. 
+#Health Insurance Coverage
+- Patient expresses concern that her husband was recently laid off and their health insurance will expire 
+at the end of this month. Will discuss with social work and have them evaluate potential options 
+including Medicaid eligibility. 
+

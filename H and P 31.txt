@@ -1,0 +1,136 @@
+
+ 
+Informant: Patient, reliable. Patient is Spanish speaking. Interpreter used, however, there was difficulty in
+ascertaining specific chronology of symptoms partially due to language barrier.
+CHIEF COMPLAINT: "I've had chest pain for 1 month"
+HPI: This is a 60 year old male with history of mitral regurgitation discovered 3 months ago and
+hypertension on Metoprolol who reports a 1 month history of intermittent chest pain rated 6/10 radiating
+to his abdomen, back, right side of his neck, shoulder, and head. He reports the pain is intermittent,
+lasting 1-2 hours and occurs at rest. He woke up at 1 am today with chest pain and was unable to sleep,
+he went to work and had another episode at around 930am, he left work and came to the hospital. He
+reports putting vapor rub on his chest helps with the pain and states he has been able to walk 2 km
+without feeling pain or tired. He also reports a 1 year history of right shoulder pain which he believes is
+from using an air gun at work. He reports no SOB, cough, nausea or vomiting.
+Of note, the patient states he was in the Dominican Republic 3 months ago for 2 weeks where he saw a
+cardiologist due to feeling fatigued on exertion and was told to follow-up with a cardiologist when he
+returned to the USA. Outpatient records were reviewed, patient was noted to have mitral regurgitation on
+exam in July 2021 and scheduled for a TEE for further evaluation which he never had completed.
+ED Course: Patient treated with Aspirin 324 mg PO, EKG and labs ordered
+
+Review Of Symptoms:
+Constitutional No recent weight change, nausea, or vomiting. (+) Recent travel, 3 months ago to Santo
+Domingo, Dominican Republic
+HEENT: No recent cough. No known sore throat within the last 6 months
+Cardiac: See HPI
+Pulm: See HPI
+GI: No diarrhea or constipation
+GU: No urinary changes
+Skin: No known rash within the last 6 months
+PMH:
+- Hypertension
+- Mitral regurgitation
+SURGICAL HISTORY:
+- Ankle surgery for fracture in 1980
+HOME MEDICATIONS:
+- Metoprolol 50 mg daily
+- Aspirin 81 mg daily
+Hanlon TJ H&P 6
+Submitted Wed 2021 10 20 11:03 pm
+ALLERGIES: NKDA, seafood allergy (facial rash, swollen lips, itchy throat)
+FAMILY HISTORY:
+Father died of heart attack age 63
+Mother died age 81 of unknown cause
+3 children, age 31, 29, and 14 without medical illness
+SOCIAL HISTORY:
+Tobacco: <3 year smoking history 20+ years ago
+Alcohol: Drinks 5 times per year during social occasions
+Drugs: No illicit drug use
+Job: Works as a laborer
+Living: Emigrated from the Dominican Republic to the United States 5 years ago.
+VITALS
+T: 98.2 Tmax: 98.2
+HR: 59 (59 - 65) regular
+BP: 135/88
+RR: 18 (18 - 18) | SpO2: 99% (98% - 99%)
+PHYSICAL EXAM
+GENERAL: Patient resting comfortably in bed, in no acute distress.
+HEENT: Mucous membranes moist, no scleral icterus or conjunctival pallor
+CARDIO: Bradycardic, regular rhythm, normal S1 and S2, 3/6 holosystolic murmur heard best at the apex
+radiating to carotids and abdominal aorta. Murmur increases upon sustained hand grip. No chest wall
+tenderness.
+PULM: Clear to auscultation bilaterally, no rales, wheezes, or rhonchi. Resonant to percussion
+GI: Soft nontender, bowel sounds active, no palpable masses
+EXTREM: 2+ pedal and radial pulses bilaterally. No edema, well-healed surgical scar over the medial
+malleolus. Able to abduct RUE 180 degrees with pain.
+SKIN: No rashes or ecchymosis.
+NEURO: Cognitively intact, no focal deficits, moves all extremities well.
+LABS:
+LABS (last 24h)
+142 | 106 | 16
+--------------------< 108 Ca: 8.7 [10/15 @ 11:47]
+4.4 | 28.7 | 0.7
+WBC: 5.2 / Hb: 13.2 / Hct: 40.1 / Plt: 196 [10/15 @ 11:47]
+-- Diff: N:66.90% L:21.4% Mo:7.6% Eo:2.9% Baso:1.0%
+2021-10-15 16:30 Troponin T High Sensitivity: 6* ng/L
+2021-10-15 13:53 Troponin T High Sensitivity: 6* ng/L
+IMAGING:
+EKG: NSR at 60 bpm, normal axis, no ST elevations
+10/15/2021 13:36 Chest 1 View- Summary: No radiographic evidence of acute cardiopulmonary disease.
+Hanlon TJ H&P 6
+Submitted Wed 2021 10 20 11:03 pm
+ASSESSMENT & PLAN
+This is a 60 year old male with a PMHx of hypertension and mitral regurgitation discovered 3 months ago 
+without workup who presents with a 1 month history of intermittent chest pain radiating to his back, right 
+shoulder, right neck, and abdomen occurring for 1-2 hours at a time at rest without shortness of breath. 
+BP was marginally elevated 145/90, SpO2 99% on RA, physical exam was notable for 3/6 holosystolic 
+murmur radiating to carotids and abdominal aorta. Serial troponins were negative, CXR showed no acute 
+process, and EKG was unremarkable. Concern for unstable angina, less likely ACS given duration of 
+symptoms and negative troponins, Plan for cardiac workup including TEE, cardiac catheterization to 
+evaluate cardiac function.
+#Chest pain
+- Given the 1 month history of pain and episodes occurring at rest, there is concern for unstable 
+angina. ACS is possible but unlikely given negative serial troponins and absence of significant ST 
+elevations or signs of ischemia on EKG. Given abdominal radiation, GERD is possible although the 
+patient stated the pain originated in the chest and radiated to the abdomen, not vice versa 
+making GERD less likely. The patient stated he worked with an air gun at work, and pain could be 
+due to trauma from the recoil of the gun, although there was no chest wall tenderness or signs of 
+trauma and the pain has been intermittent making this unlikely. To further evaluate the chest pain 
+given his presentation and family history of heart attack in his father at age 63, he should be 
+evaluated for underlying CAD with cardiac catheterization and echocardiogram to evaluate for 
+any heart dysfunction.
+#Mitral Valve Regurgitation
+- Mitral regurgitation was first reportedly first noticed 3.5 months ago by a doctor in the Dominican 
+Republican, but has not been evaluated with TEE. The list of potential causes of mitral 
+regurgitation is quite expansive including degenerative valve disease, Rheumatic fever, infective 
+endocarditis, systemic inflammatory disorders, underlying ischemia, papillary muscle rupture, 
+dilated cardiomyopathy, and calcification. Given his immigration status and recent travel to DR, 
+rheumatic fever is a potential cause. He reported no sore throat or noticeable rash within the last 
+6 months and rheumatic fever is not as common in the DR as it is in other immigrant populations 
+such as Sub-Saharan Africa and parts of Asia, however, a distant rheumatic fever leading to 
+rheumatic heart disease and mitral regurgitation is possible. Given there was no imaging done, 
+and the exam demonstrating radiation of the murmur to the carotids, it is possible the murmur is 
+due to aortic stenosis, although sustained hand grip would not be expected to increase the 
+murmur, it would not be loudest at the apex, and it is classically a crescendo-decrescendo 
+murmur. TEE is warranted to further evaluate any valvopathies and guide management and 
+possible mitral valve replacement.
+#Right shoulder pain
+- Given the 1 year history of pain, it is likely chronic possible due to overuse given working history, 
+but also could be related to chest pain. Attempt to control with Acetaminophen 650 mg PO and 
+re-evaluate, at this time imaging might not be warranted given the chronic nature of pain, and 
+likely outpatient follow-up with PT or MRI may be indicated. 
+#Hypertension
+- Continue with Metoprolol 50 mg PO.
+Hanlon TJ H&P 6
+Submitted Wed 2021 10 20 11:03 pm
+Evidence Based Medicine
+Clinical Question: What is the best treatment for Mitral Regurgitation?
+Patients: Patients with grade 3+ or 4+ chronic mitral regurgitation from 37 centers in the US and Canada 
+between 2005 and 2008. 
+Intervention: Percutaneous repair of mitral valve
+Comparison: Conventional surgery for repair or replacement of mitral valve.
+Outcome: The rates of death and mitral regurgitation at 12 months were similar in both groups, however 
+the rate of surgery required after percutaneous repair was substantially higher (20%) compared to 2.2% in 
+the surgery group requiring repeat surgery. Major adverse events at 30 days were less common in the 
+percutaneous repair group (15%) compared to the surgery group (48%) p < 0.001. Adverse events that 
+were more common and statistically significant included transfusion of 2+ units of blood (13% vs 42% p < 
+0.001) and mechanical ventilation for > 48 hours (0% vs 4%, p <0.02).

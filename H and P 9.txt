@@ -1,0 +1,110 @@
+History and Physical Examination
+
+Date: 5/2/2021
+Referral Source: Emergency Department
+Data Source: Patient, reliable
+Chief complaint: Left nasal pain and drainage and hematuria. 
+History of Present Illness:
+Patient is a 25-year-old female with medical history significant for mixed connective tissue disease
+(diagnosed 3/21/21) and recent nasal septoplasty (3/12/21) presenting to the ED with three days of 
+nasal pain and clear nasal discharge as well as five days of hematuria. Patient says that following her 
+nasal septoplasty she had one week for swelling, erythema, and pain, which resolved at the conclusion 
+of the week. Since then she noticed that she was having increasing knee pain in her right knee as well as 
+diffuse pain in her left wrist. She then visited a rheumatologist who diagnosed her with mixed 
+connective tissue disorder and started her on hydroxychloroquine. She reports that her knee and wrist 
+pain began to resolve when she noticed that her urine was a dark red/brown color. Thinking that she 
+may just be dehydrated, AL increased her water intake and continued with her life until 4/30 when she 
+began to have extreme pain in her nasal septum accompanied by continuous clear discharge. In the ED, 
+labs were drawn and the patients CMP and CBC were unremarkable and a urinalysis showed 3+ protein, 
+3+ Blood, with negative leukocyte esterase or nitrates. Patient does not report fever, chills, 
+dizziness/lightheadedness, headache, blurry vision, or weakness, numbness, or tingling of the face or 
+extremities. She does not report weight loss or bowel/bladder changes. 
+Past Medical History:
+As reported in HPI
+Past Surgical History:
+Breast augmentation
+-2019
+Otherwise unremarkable besides what is laid out in HPI
+Medications:
+Hydroxychloroquine 400mg PO once daily with dinner.
+Family History:
+Mother: Age 59. HTN and HLD
+Father: Not known to patient
+No siblings
+No family history immune disorders, cancer, arthritis, or blood disorders. 
+Social History
+Does not smoke cigarettes 
+Drinks alcohol socially. Approximately 2-1 drinks per week
+Does not use illicit drugs
+Works in HR for Comcast
+Housing situation is secure
+No food insecurities
+Review of Systems:
+Constitutional: See HPI
+HEENT: denies headache, ear pain, tinnitus, blurry vision
+Cardiovascular: She does not report chest pain, palpitations, DOE, LE edema
+Respiratory: She does not report SOB, coughing, wheezing
+Gastrointestinal: See HPI
+Genitourinary: See HPI
+MSK: See HPI
+Skin: Patient does not report rashes, petechiae, purpura, bumps, or bruises. 
+Psych: Denies depression, anxiety, SI/HI
+Physical Exam:. 
+Vitals: Temp 98.5 (oral), HR 72 and regular rhythm, BP 117/73, RR 17 and not labored, SPO2 98% on 
+room air
+General: Well appearing female of stated age in mild distress
+Skin: Normal appearing with no discoloration
+HEENT: Normocephalic and atraumatic. Pupils equally round and reactive to light. Tenderness around 
+the left nasolabial fold and nasal septal area. Bilateral friable nasal mucosa. No erythema, post nasal 
+drainage, or discoloration of the throat. 
+Neck: No cervical lymphadenopathy. No palpable masses. Trachea midline.
+Pulm: Lungs are clear to auscultation. No crackles/rales/wheezes/rhonci. Bilateral resonance to 
+percussion. Normal tactile fremitus. 
+Cardiac: Regular rate and rhythm, normal S1 and S2. No rubs, murmurs, or gallops.
+GI: Abdomen is nontender, nondistended, no palpable masses, and bowel sounds are present in all four 
+quadrants and are normal. No hepatomegaly or splenomegaly.
+Extremities: There is no edema. 5/5 strength in Bilateral upper and lower extremities. Reflexes 2+ 
+bilaterally in Upper and lower extremities. 
+Neuro: Alert and oriented x3. Sensation to light touch and pinprick is intact. Sensation to vibration and 
+proprioception is intact. 
+Psych: Normal affect. Very kind and in good spirits. Cooperative but is also clearly anxious. 
+Labs & Imaging:
+Na: 136, K: 3.6, Cl: 100, HCO3: 22.7, BUN 18, Cr: 0.9, Ca: 9.0, Mg: 1.8 
+WBC: 9.4 / Hb: 10.3 / Hct: 31.2 / Plt: 323 
+-Diff: N: 65.3% L: 28.3% Mo: 5.0.% Eo: 1.0% Baso: 0.4%
+Microbiology: 
+Culture of Aspirate/Abscess which showed few Streptococcus pyogenes (Group A)
+CT Facial Bones W/Contrast: 
+Rim-enhancing low-attenuation involving the cartilaginous nasal septum measuring 18 x 7 x 15 mm likely 
+due to an abscess.
+Renal US Bilateral: Normal renal ultrasound.
+Assessment
+A/P: Patient is a 25 y/o female with ANA+ mixed connective tissue disorder (diagnosed 3/21) presenting 
+with nasal abscess following nasal septoplasty on 3/12/21. Culture was + GAS and patient was started on 
+Ampicillin-Sulbactam 3g IV. Failure to improve resulted in patient being started on Vancomycin 1g 
+piggyback every 12 hrs. Patient was also reports that she has hematuria for the past five day and 
+urinalysis showed 3+ blood and 3+ protein.
+1. Nasal Abscess
+This patient is suffering from GAS+ nasal abscess likely resulting from her recent septoplasty on 3/12. 
+However, given the patients history and location of the abscess, other etiologies should be considered. 
+For a patient with autoimmune disorder such as mixed connective tissue disease, we should rule out 
+immunodeficiency from autoimmunity. Additionally, though her culture was positive for GAS, the 
+abscess has not responded to ampicillin sulbactam. This information, plus the location of the abscess 
+raises concern for possible coinfection with Staph Aureus. Also given her history, we should consider the 
+possibility of granulomatosis with polyangitis which can affect the nasal septum as well as the kidneys.
+2. Hematuria and proteinuria
+Patient presented with 3+ blood and 3+ proteinuria. This is likely caused by the lupus component of 
+mixed connective tissue disease which affects the kidneys. As listed above, we should also consider 
+granulomatosis with polyangitis as a possibility. Additionally, this patient could have RPGN due to her 
+acute onset of hematuria and proteinuria coupled with her autoimmune history. 
+Plan:
+1. Nasal abscess
+Patient should be scheduled for incision and drainage of the abscess. We should continue the ampicillinsulbactam for the full 14-day course. In addition, we should add vancomycin, 1g IV piggyback to cover 
+possible coinfection with Staph given her resistance to antibiotics so far. We should also order fungal 
+cultures on the abscess aspirate. 
+2. Hematuria and proteinuria. 
+Patient was found to have 3+ blood and 3+ protein on urinalysis. 24-hour urine protein collection should 
+be ordered. In addition, we should order a renal ultrasound to assess for cysts, structural abnormalities, 
+and stones. I would also like to order a P-ANCA and C-ANCA to assess for autoimmune vasculitis which 
+could be affecting her kidney function. Depending on the results of this testing, I would like to consider a 
+renal biopsy to assess the extent of kidney damage in this patient. 

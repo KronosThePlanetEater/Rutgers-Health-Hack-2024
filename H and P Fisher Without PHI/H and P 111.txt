@@ -1,0 +1,83 @@
+
+Patient Name: 
+Date: ++++
+Referral Source: ED
+Data source: Patient (mostly reliable other than some memory lapses of young age)
+
+CC: "Worsening belly pain over the past 4 days”
+
+HPI: Patient is a 59-year-old female with a past medical history of PUD and HTN presenting with worsening epigastric abdominal pain for the past 4 days. The patient reports that the abdominal pain is associated with vomiting, diarrhea, increased belching, and bloating. The patient reports that the vomiting initially started out clear, however it has since turned darker and like "coffee grounds". She additionally reports that her diarrhea is watery, though it has turned darker in color almost black. She reports that her pain is a 20/10 in severity, and it is a pressure sensation which is worsened with laying down and improved with sitting up. She states that she has a history of chronic abdominal pain for the past few years which come every 3 months. She follows up with her PCP and has attributed it to gas. The pain is similar to this episode, however this time it is much more severe and associated with vomiting and diarrhea. The patient has no recent sick exposures, recent travel, or any abnormal foods. She does not report chronic NSAID use or steroid use, though she did report that she took two 81mg aspirin 4 days ago when the pain initially started.
+
+Since admission, the patient got an NG placed in the ED and has gone to get an EGD done by GI today. She has gotten morphine, Zofran, famotidine, 1250ml NaCl 0.9%, pantoprazole, and metoclopramide.
+
+Past Medical Hx: PUD when she was around 14-15 years old, and HTN which is normally well controlled.
+
+Past Surgical Hx: 2 C-Sections
+
+Medications: HCTZ 25mg PO daily. She has not missed any doses until this episode as she cannot keep medications down.
+
+Allergies: Robitussin - Hives
+
+Family Hx: Older sister- gastric ulcers
+Maternal aunt- Breast cancer and DM
+Maternal aunt- Breast cancer- deceased
+
+Social Hx: 
+- The patient has less than a one pack year smoking history as she smoked a few cigarettes per day for a few years in the 80s. 
+- She has one alcohol beverage every couple of months during the holidays. 
+- She does not report any recreational drug use. 
+- She reports that she is a vegetarian and has an overall healthy diet. She states that she drinks 2-3 cups of tea per day and rarely any coffee.
+
+ROS: As per the HPI plus the following:
+General: (-) fever, chills, lightheadedness, dizziness
+Cardiac: (-) chest pain, shortness of breath, palpitations
+Pulmonary: (-) shortness of breath, wheezing
+Abdomen: (-) constipation
+Extremities: (-) weakness, numbness, tingling, and swelling
+GU: (-) pain with urination, increased or decreased urination, and hematuria
+Neuro: (-) headache, generalized weakness
+
+Physical Exam:
+Vitals: Temp 98.0
+	HR 89
+	BP 165/75
+	RR 16
+
+General: Lying comfortably in bed. No acute distress. Non-toxic.
+Head: Normocephalic
+Eyes: PERRLA, EOMI, nonicteric, normal conjunctiva, no pallor
+Throat: Mucous membranes were moist. No oral lesions
+Neck: Supple, FROM, no lymphadenopathy
+Chest: Regular rate and rhythm. No murmurs, rubs, or gallops.
+Lungs: CTAB. No wheezes, rhonchi, or rales.
+Abdomen: There is mild epigastric tenderness to light palpation. The abdomen is nontympanitic and nondistended. Normoactive bowel sounds throughout. There is a large midline birthmark as well as a well healed C-section scar.
+MSK: There is no extremity edema or tenderness.
+Skin: No rashes or jaundice appreciated
+Neuro: Strength 5/5 in b/l upper and lower extremities. Sensation grossly intact, CNs grossly intact.
+
+Labs:
+WBC: 5.9, Hb: 11.3, Hct: 34.4, Plt: 268
+Diff: N:63.3% L:24.7% Mo:9.3% Eo:1.8% Baso:0.8%
+Na 138, K 3.5, Cl 96, CO2 28.3, BUN 22, Creat 0.8, Glucose 99, Ca 9.1
+PT: 13.2, INR 1.11
+AST 16, ALT 15, AlkPhos 79, Bili 0.4, Dir <0.2, Prot: 7.6, Alb: 4.6, Lip: 25
+
+Imaging: EGD- 5x6 cm ulcer on a visible vessel. No more active bleeding. Biopsied and pending results
+EKG: Normal Sinus Rhythm
+
+Assessment & Plan
+
+This is a 59 year old woman with a past medical history of PUD and HTN presenting with worsening abdominal pain associated with hematemesis, melena, belching, and bloating over the past 4 days. Physical exam was notable for mild epigastric tenderness. The patient is going to be admitted for an EGD for evaluation of an upper GI bleed.
+
+Abdominal Pain:
+The patient’s most likely diagnosis for her abdominal pain is an upper GI bleed. The patient has a history of peptic ulcers, and she reports that the pain is similar to the last time she was diagnosed. Her coffee ground emesis as well as her melena also point to an upper GI bleed most likely in the stomach. She was found to actually have a 5x6cm ulcer in the gastric mucosa, however other etiologies had to be worked up. Her ulcer could be due to H pylori, therefore her ulcer was biopsied, and the results will be back in a few days. If positive then she will be started on triple therapy consisting of PPI, amoxicillin, and clarithromycin. Other sources of bleed could include esophageal bleeding from esophageal cancer and esophagitis due to GERD. This is less likely as the blood in the vomit is more likely to be bright red, but it must be ruled out. Additionally, there could be vascular malformations in the stomach such as AVMs or Dieulafoy’s lesion which is a vascular malformation in which the arteriole is very superficial and prone to bleeding. 
+
+Based on the patient’s Rockall score was 4 due to being <60 years (0), systolic BP > 100 but pulse >100 on presentation (1), no major comorbidity (0),  and on endoscopy she had an ulcer found (1), and the ulcer was found on a visible vessel however without bleeding (2). This puts her at a 5.3% mortality risk and 14.1% rebleed risk. If the patient has a pre-endoscopic score of 0, then they can be safely discharged, however anything above 0, they must have an endoscopy. If there is a post-endoscopic score of <3, then they can be discharged for outpatient follow up. Our patient was 1 and 4 respectively, therefore she needed further evaluation.
+
+The plan for the patient is placement of two large bore IVs as well as type and cross for blood products as a precaution. While this patient has no active bleeding, there can be rapid decompensation. The patient is going to attempt a clear liquid diet to challenge her PO intake of fluids. Her CBC is going to be trended to watch her hemoglobin as there was a drop from 13.8 to 11.3 on admission. She will be started on a PPI drip for acid suppression for 72 hours. Patient does not need transfusion unless hemoglobin drops below 7. PPI drips have been the gold standard of treatment, however according to a metanalysis done in 2014, intermittent PPI boluses are as effective as drips. It was found that intermittent PPI boluses either oral or IV were found to be noninferior and had no changes in mortality, red cell transfusions, hospital stay, urgent intervention, and rebleeding. The chance of rebleeding was considered to be non-inferior if there was an absolute risk increase of <3%. The ARI was found to be .17% increased risk at 3 days, -.28% at 7 days, and 1.49% at 30 days. None of these risk increases were considered to be statistically significant. Therefore, this patient could actually have had intermittent boluses of oral PPI during her stay instead of an IV drip of PPI. This would have saved her money, and decreased risk of infection by not having a continuous drip.
+
+Sachar, H., Vaidya, K., & Laine, L. (2014). Intermittent vs continuous proton pump inhibitor therapy for high-risk bleeding ulcers: a systematic review and meta-analysis. JAMA internal medicine, 174(11), 1755–1762. https://doi.org/10.1001/jamainternmed.2014.4056
+
+
+Hypertension:
+The patient was unable to take her blood pressure medication due to the vomiting. The patient should be given her blood pressure medications IV at this time. However, if there is evidence of increased bleeding, then this should be stopped to decrease the risk of becoming hypotensive.

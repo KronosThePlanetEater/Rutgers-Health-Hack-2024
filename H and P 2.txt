@@ -1,0 +1,201 @@
+
+Pt is a reliable historian who speaks English well as a second language. A translator was not 
+used. Her daughter was present and helped with recall and some translation.
+CC: worsening shortness of breath x 2 months
+HPI: 61F with presents with a 2-week history of progressively worsening shortness of breath, 
+lower extremity swelling, and dry cough, as well as a "few day" history of pain in her chest. Pt.
+was previously short of breath with walking but is now short of breath at rest. She reports new 2-
+pillow orthopnea, and last night experienced PNDs for the first time. She has gained 15 lbs in 
+the last 2 weeks, which she attributes to water weight. She also reports mild, 2/10 chest pain 
+best described as a ―tightness‖ that does not radiate. It has increased in frequency in the last 2 
+weeks. It was constant last night for the first time, but she still rates it at a 2/10. This chest pain 
+has never been worse with exertion. She notes that this pain is different from her NSTEMI, 
+which was a more intense, crushing pain throughout her chest. She also reports abdominal 
+distention and nausea but reports no abdominal pain. Her cough is dry and she reports some 
+wheezes. She reports no sick contacts. She reports that she has been taking her medication as 
+prescribed. Denies any recent changes in diet, including recent salty foods.
+She believes this began when her cardiologist switched her from lisinopril to Entresto two weeks 
+ago. She called her cardiologist on two days prior to presentation, who recommended she stop 
+taking Entresto and restart the lisinopril tomorrow (three days after stopping the medication), 
+and follow up at her primary care provider at that time for basic labwork. Because of her 
+worsening SOB and chest pain last night, her daughter called her an ambulance this morning.
+She reports that she was given aspirin in the ambulance.
+In the ED today she was given 40 mg Lasix and has urinated, with no dysuria, hematuria, 
+incontinence, or difficulty voiding completely. 
+ROS: as per HPI
+Constitutional: reports fever (never measured) and chills. Denies changes in appetite, fatigue, or 
+feelings of weakness.
+HEENT: no headaches, changes in vision or hearing
+Pulm: as per HPI
+Cardio: as per PHI
+GI: reports nausea and a few days of constipation in the past 2 weeks, but is having bowel 
+movements again. Denies vomiting, hematemesis, hematochezia, melena
+GU: no dysuria, hematuria, changes in urinary frequency
+Derm: no rashes, bruising, petechiae
+Psych: no changes in mood
+PMH:
+Type-I diabetes: diagnosed at age 6. Was "perfectly controlled" until her age 35-40.
+Hyperlipidemia: diagnosed ~2015, on losartan.
+Hypothyroidism: diagnosed 1990, managed with levothyroxine
+Heart failure: diagnosed ~2016. Last echocardiogram 04/2019 in context of NSTEMI and PCI, 
+EF found to be 25%.
+Document1 10/10/19
+PSH:
+- CABG
+- Multiple PCI
+- C-section x 2
+- R toe amputation
+Home Medications: Walmart Pharmacy, Rt 18, Woodbridge (732) 955-0770
+metoPROlol Extended Release 25 mg by mouth daily
+Enoxaparin Injection 40 mg subcutaneous daily at 10 pm
+Insulin Glargine r-DNA (Lantus) 54 units subcutaneous nightly at bedtime
+Insulin Lispro (HumaLOG) 12 units subcutaneous Three Times a day before Meals
+Insulin Lispro (HumaLOG) Sliding Scale. subcutaneous Three Times a day before Meals
+Senna tablet ( 1 tablet= 8.6 mg Senna) 1 tab by mouth nightly at bedtime
+Atorvastatin 80 mg by mouth daily at 10 pm
+Clopidogrel 75 mg by mouth daily
+Isosorbide Dinitrate 30 mg by mouth daily
+Levothyroxine 100 mcg by mouth daily at 7 am
+Lisinopril 10 mg by mouth daily
+Spironolactone 25 mg by mouth daily
+Plavix 75 mg by mouth daily
+Allergies:
+- Vancomycin, reaction is rash
+- Zosyn, reaction is rash
+FH: not elicited
+SH:
+- Lives at home with her daughter and son. Divorced happily in 2015. Denies food or housing 
+insecurity.
+- Denies alcohol use, tobacco, or other drug use.
+Vitals:
+T: 97.2 Tmax: 97.2 @ 01 Jun 17:32
+HR: 78 (78 - 94)
+BP: 171/78 (140/60 - 171/78)
+RR: 20 (20 - 22) | SpO2: 98% (98% - 100%) on 2L NC. SpO2 on RA was not assessed.
+Physical Exam:
+General: Lying comfortably in bed, in no acute distress.
+HEENT: Moist mucous membranes.
+Neck: ~13 cm JVP, trachea midline
+Heart: Systolic murmur RRR, normal S1, S2.
+Lungs: Decreased breath sounds bilaterally, with no crackles or wheezes.
+Abdomen: Distended. Soft, nontender, no organomegaly.
+Extremities: Bilateral 2+ lower extremity dependent edema. Legs were tender to deep palpation. 
+No cyanosis, or clubbing.
+Skin: No rashes.
+Neuro: Answers all questions appropriately.
+Psych: normal affect and though process.
+Document1 10/10/19
+.:
+.: Labs:
+LABS (last 24h)
+135 | 105 | 22
+--------------------< 211 Ca: 6.9 Mg: 1.6 [06/01 @ 08:39]
+4.9 | 17.9 | 0.8
+WBC: 11.3 / Hb: 11.3 / Hct: 32.7 / Plt: 250 [06/01 @ 08:39]
+-- Diff: N:85.1% L:9.8% Mo:4.4% Eo:0.2% Baso:0.4%
+Troponin T: <0.01 [06/01 @ 08:39]
+2021-06-01 14:39 Troponin T: 0.02* ng/mL
+2021-06-01 12:30 ProBNP: 2590* pg/mL
+Imaging:
+06/01/2021 09:05 Chest 1 View- Pulmonary vascular congestion and right basilar 
+opacity/pleural effusion. Enlarged cardiac silhouette. Findings suggest CHF.
+EKG:
+Normal sinus rhythm. T-wave changes in leads V-I through V-III that are different from abnormal 
+T-waves in EKG from most recent EKG in 04/2019.
+Assessment/Plan: 61F with PMH of CHF and CAD s/p CABG and multiple PCI including 
+NSTEMI in 2019 requiring PCI presents with a 14-day history of progressively worsening SOB, 
+cough, LE edema, PE findings of decreased breath sounds and elevated JVP, labs showing 
+normal troponin and consistently elevated proBNP, and T-wave changes on EKG all suggestive 
+of decompensated heart failure, etiology of decompensation currently unknown. 
+#Decompensated heart failure 2/2 EKG changes
+- Most likely etiology of decompensated heart failure is likely ischemic damage given her EKG 
+changes and history of NSTEMI requiring PCI.
+- Differential includes:
+- Changes in medication regimen, unlikely given known efficacy of Entresto and 
+similarity to lisinopril
+- Medication non-compliance is one of the most common causes of HF decompensation. 
+Unlikely given her good medication recall, including a long list and most dosages.
+- High-salt diet. Possible, but pt. denies any recent changes in diet and cooks for herself 
+avoiding processed foods.
+- Depression is a possible CHF contributor
+- Plan:
+- Continue Lasix, 40 mg twice daily for diuresis until clinically stable for discharge with no 
+SOB or PE findings.
+- Consult cardiology for EKG changes and chest pain for catheterization and possible 
+PCI.
+- Order echocardiogram, as last done in 04/2019. Check outpatient records for more 
+recent imaging.
+#HTN
+- Pt reports HTN is well controlled with a systolic BP of 150 as the highest at-home 
+measurement in the last few months, checked ~weekly.
+Document1 10/10/19
+#DM-I
+- Currently well-controlled with insulin regimine. Most recent HbA1c 9.1, but down from previous 
+readings of over 11. Pt reports that her sugars were "perfectly" controlled from her diagnosis 
+until age 35-40, when she began to have rising blood glucose readings.
+- Continue insulin regimen in hospital, encouraging compliance and diet for continue 
+improvement in HbA1c.
+#HLD: continue home medications
+#Hyperthyroidism
+- Consider thyroid studies (TSH, free T3, T4) as hyperthyroidism may be a cause of 
+hypertension and decompensation of heart failure. Pt. reports having studies done one month 
+ago. Will reach out to PCP for baseline. 
+Unfortunately, my primary question for this patient seems to have an answer that is unsupported 
+by the literature:
+Do patients need to undergo the 36-hour washout period when switching from an ACEinhibitor such as lisinopril to Entresto?
+This patient believed that her decompensation started after stopping her existing hypertensive 
+medication (lisinopril) in order to swtich to Entresto. Regardless of how accurate this belief is, it 
+should impact patient care because she told us she would never take Entresto again. The 
+leading cause of decompensated heart failure is medication non-compliance, so this alone 
+should encourage us to consider returning her to lisinopril while also working with her to 
+understand the reasons for this switch.
+Entresto is a well-studied medication (1) with benefit to patients on existing medications, 
+including specifically ACE inhibitors. The change made by her cardiologist is well-supported, 
+and the PICO for these studies in fact fits our patient well:
+P: Patients with diagnosed CHF
+I: Switching to an ACE-inhibitor
+C: Remaining on enalapril
+O: 0.8 hazard reduction for composite death or hospitalization due to heart failure 
+These results are convincing, enough to end the trial early, but the data behind the washout 
+period is lacking.
+The manufacturer’s insert (2), one of only two publications cited in a recommendation published 
+by the American Academy of Family Physicians (3), contains no citations of any kind beyond the 
+clinical trials proving efficacy. Indeed, even the updated guidelines from the combined American 
+College of Cardiology, American Heart Association, and the Heart Failure Society of American 
+(4) provide no citation for the recommendation of a 36-hour washout period used in this clinical 
+trial.
+The only citation I was able to find for this washout period were for Omaparilat, a combined 
+ACE-I and neprilysin-inhibitor that never made it to market due to increased risk for 
+angioedema. Two trials for Omaparilat, known as OCTAVE and OVERATURE (5,6), were a 
+direct comparison to enalapril, similar to the defining PARADIGM-HF study for Entresto (1). 
+Document1 10/10/19
+OVERTURE found an increased risk in angioedema, while OCTAVE did not (7). It is unclear to 
+me if the Omaparilat studies included a 36-hour washout period, or if they are sufficient to 
+explain the apparently confidence in this uncited 36-hour timeframe. 
+Interestingly, though perhaps unfortunately unsurprisingly, the switch from enalapril to Enstresto 
+is not without controversy (8). Though efficacy was the primary outcome for the PARADIGM-HF 
+study for Entresto, there was a notable increase in the rate of angioedema (the primary risk 
+avoided by the 36-hour washout period) in the black population between Entresto and enalapril:
+Overall, 5 of the 213 black patients (2.3%) taking sacubitril/valsartan compared 
+with 1 of the 214 black patients (0.5%) taking enalapril experienced angioedema; 
+1 of the patients in the sacubitril/valsartan group required subsequent 
+hospitalization. Assessing specifically the US black population in PARADIGMHF, 3 of the 54 patients (5.6%) treated with sacubitril/valsartan experienced 
+angioedema, compared with none in the enalapril group.
+This is a concerning finding with multiple implications, including the importance of so-called 
+―phase 4‖ clinical trials with population-wide data sets. Specific to this patient, it is possible that 
+her Hispanic background makes her under-represented in the very same PARADIGM-HF study.
+Of course, this patient’s presentation of decompensated heart failure is different from the 
+concern of angioedema discussed so far. Specific to our patient, I am concerned that this 36-
+hour washout period was extended out of a reasonable over-abundance of caution for potential 
+drug interactions between ACE-I and Entresto, as well intentioned yet poorly supported as these 
+concerns may be. Though the prescribing physician in this case was well-served by the 
+guidelines and overall population data, it is possible this patient’s wash-out period was too long
+per her ―a few days‖ history of washout. Over-abundance may be an understatement, as one 
+study found that the recommended slow dosage increase for Entresto may be unnecessary (9), 
+and that most patients tolerated only a 2-week step-up period well, shorter than what is often 
+recommended (4). This may have contributed to the decompensation of her already poorly 
+controlled, though sub-acute, CHF.
+Of course, it remains entirely possible and in fact probable that her medication switch was not 
+the cause of her presentation to the ED. Despite this, I am comfortable with my conclusion that 
+the 36-hour washout period is widely cited but poorly supported by the literature. 
+.548

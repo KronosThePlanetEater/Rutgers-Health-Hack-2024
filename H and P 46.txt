@@ -1,0 +1,120 @@
+
+Reliability: Patient is a reliable source of information; history is corroborated by patient’s 
+son and daughter at bedside. 
+CHIEF COMPLAINT: 
+“I have been needing higher levels of oxygen to walk and to sleep for past few days.”
+HPI:
+The patient is a 68YO M with a PMH significant for IPF treated with Ofev and 2L O2 who 
+was previously well presenting to the ED for respiratory distress. Two days ago, the 
+patient's family noticed that his pulse ox was dramatically decreasing to 60-70s with 
+exertion. His son states that even while resting, he was unable to get his pulse ox back up to 
+baseline. His baseline pulse ox is 92-93% at rest and 85-90% while walking. They also 
+noticed he required O2 at night while sleeping, which is unusual for him. While this was 
+occurring, the patient's family noticed a sound during inspiration that was unusual for him. 
+This sound was audible without need of a stethoscope. Prior to this, he and his family state 
+that he was well. They proceeded to call his primary physician, and then came to the ED 
+after no improvement. He has had no other symptoms and has not had any fever, chills, 
+N/V.
+Patient recently had ophthalmology visit for chronic dry eyes. He was instructed not to rub 
+eyes in case anterior membrane is displaced. Patient's family requesting ophthalmology
+consult as nurse rubbed secretions away from eye.
+ED Course: Started CPAP, gave DuoNeb x2, terbutaline 0.25mg, magnesium 2g, solumedrol 
+125 mg in EMS; CXR showed evidence of right pneumothorax, and so, chest tube 
+thoracostomy was done to correct it. Patient continued on supplemental oxygen.
+PMH:
+IPF
+GERD
+Chronic dry eyes
+SURGICAL HISTORY:
+L-sided inguinal hernia repair
+HOME MEDICATIONS:
+Ofev 10mg three times weekly (Monday, Wednesday, Friday)
+Pantoprazole 40 mg once daily
+Atorvastatin 10 mg at bedtime 
+ALLERGIES:
+NKDA
+No allergies to food, latex, etc. 
+Submitted Tuesday 4/12/2022 2:25 pm
+FAMILY HISTORY:
+Brother died from IPF in the 1990s
+Son and daughter are alive and well without health problems 
+Patient’s parents are deceased, unknown cause of death
+SOCIAL HISTORY:
+Tobacco: Never smoker
+Alcohol: None
+Drugs: Never
+Job: Retired engineer
+Lives with wife, son, daughter-in-law, and granddaughter 
+VITALS: 
+T: 97.1 degrees F
+HR: 112 bpm
+BP: 118/75 mmHg
+RR: 21 breaths/minute 
+fiO2: 60%
+PHYSICAL EXAM:
+General: Dressed in hospital gown; appears to be in mild respiratory distress; cachectic; 
+chest tube in right-sided 5th intercostal space
+Head: Normocephalic, no evidence of trauma, tenderness, or lesions
+Eyes: Not assessed 
+Ears: Not assessed
+Nose: Not assessed
+Mouth and throat: Not assessed 
+Neck: No JVD, carotid bruits, adenopathy, thyromegaly; trachea midline
+Lymph nodes: No lymphadenopathy 
+Chest/Lungs: Bibasilar rales, coarse breath sounds with relatively decreased breath sounds 
+at right upper lung
+Heart: Regular S1 and S2, PMI is nondisplaced, regular rate and rhythm; no S3, no S4, no 
+rubs or murmurs
+GI: Soft, nondistended abdomen, nontender to palpation, normoactive bowel sounds; no 
+organomegaly
+Extremities: No cyanosis, clubbing, pitting edema
+Neurologic/developmental: The patient was oriented to time, place, and person; CN 2-12 
+intact; sensation, motor, reflexes not assessed
+LABS:
+WBC: 18.9 
+Troponin T High Sensitivity: 27 ng/L
+Sodium: 129 mmol/L
+Chloride: 93 mmol/L
+Glucose: 154 mg/dL
+Absolute Neutrophil Count Auto: 11.600 
+Absolute Lymphocyte Count Auto: 5.240 
+Absolute Monocyte Count Auto: 1.840 
+Submitted Tuesday 4/12/2022 2:25 pm
+IMAGING:
+Initial CXR showed R pneumothorax
+Follow-up CXR showed right chest tube with marked reexpansion of right lung; smaller 
+moderate residual right apical lateral pneumothorax; diffuse bilateral interstitial infiltrates. 
+ASSESSMENT & PLAN:
+The patient is a 68YO M with a significant PMH of IPF treated with Ofev and 2L O2 who 
+presented to the RWJUH ED in respiratory distress. Two days ago, the patient's family 
+noticed that his pulse ox was dramatically decreasing to 60-70s with exertion. His son 
+states that even while resting, he was unable to get his pulse ox back up to baseline. His 
+baseline pulse ox is 92-93% at rest and 85-90% while walking. They also noticed he 
+required O2 at night while sleeping, which is unusual for him. While this was occurring, the 
+patient's family noticed a sound during inspiration that was unusual for him. They 
+proceeded to call his primary physician and then came to the ED after no improvement. 
+Initial CXR showed evidence of right pneumothorax, which was subsequently corrected 
+with closed thoracostomy.
+Problem #1: Right Pneumothorax s/p Thoracostomy
+Currently on 6L NC - continue supplemental oxygen
+Continue home medications for IPF
+Consult pulmonology – appreciate recommendations 
+Problem #2: Elevated Troponins
+Repeat troponins
+Monitor EKG
+Problem #3: Leukocytosis
+Obtain UA
+Continue to monitor 
+Problem #4: Chronic Dry Eyes
+Ophthalmology on consult - appreciate recommendations 
+Start oxoflacin ointment
+Problem #5: IPF
+Continue home medications (Ofev)
+Contact outpatient pulmonologist for records
+Problem #6: GERD
+Continue home medications (Pantoprazole)
+Problem #7: Hypercholesterolemia
+Continue home medications (Atorvastatin)
+FENP: None / Replete PRN / Diet: Regular / Enoxaparin subQ
+Code status: Full Code
+Dispo: Med/Surg

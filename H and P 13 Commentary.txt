@@ -1,0 +1,72 @@
+
+With delight I must tell you that this current write-up shows tremendous growth in comparison with the first one,
+which itself was excellent. As you have come to expect from me, I have several comments, most of them to reinforce the
+good practices you have applied to this write-up and a few intended for your further growth.
+1. It is commendable that you indicated the informant and the reliability of the informant right up front.
+2. It is useful and desirable to include the duration of the chief complaint right up front with the chief complaint itself.
+3. It is a very good practice to give the patient's "usual state of health" at the onset of the HPI, as you did; but it
+would be more informative also to include what that state of health is (e.g., "apparent good health" or "failing health
+from...")
+4. Many people, as you have done, use the word "substernal"; but it is ambiguous. It can mean behind the sternum or
+under the sternum or below the sternum. If you mean behind the sternum, a clearer way to express this is to say
+"retrosternal".
+5. It is excellent that you expressed quantitation of the weight gain.
+6. It is excellent that you quantified her exercise tolerance.
+7. Because of the overall story, one symptom to mention, whether present or absent, is paroxysmal nocturnal dyspnea.
+This symptom has great differential diagnostic significance, which we can discuss in real time if you wish.
+8. (I have to tease you about this: 1300 as a time of day is 1:00 pm and so it seems odd to speak of it as "1300 last
+night".
+9. Ideally, if you use the moment of admission as the point of reference for all events in the history, instead of saying
+"ago" or "last night" you would say "...prior to admission (PTA)" or "the night prior to admission". That way, no matter when
+the document is reviewed, the reader can easily reconstruct the chronology of events clearly and accurately.
+10. It seems extraordinary that a patient would know a term such as "hepatic congestion" as you indicated at the end of
+the second paragraph.
+11. I commend you for referring the reader to the HPI in the ROS instead of repeating the symptoms.
+12. With that in mind, several items that you mention in the PMH can be omitted, since you very properly included them in
+the HPI. I don't believe that you included the mitral regurgitation or the AICD in the HPI and these should have been
+included in it also. Indeed, it isn't clear to me how she warranted an AICD, from what you gave in the history, unless she
+once had a much worse ejection fraction.
+13. In the PSH, you didn't have to repeat the PCI or mastectomy, as you mentioned them earlier in the appropriate
+sections of the write-up.
+14. I am delighted that you indicated the types of reactions that she experienced under "allergies". But nausea
+from morphine is not an allergy; it is intolerance or adverse side effect, but not an allergy. You could simply say, in a
+separate section (e.g., "other adverse effects"). This is important because true allergy might deter you from using a
+congener of a drug that had caused an allergic reaction. But for an adverse effect or intolerance you might be able to use
+a congener safely, as long as you warn the patient.
+15. In the Family History, it would be more complete to include the ages of those people mentioned and whether they are
+alive.
+16. Possibly, the smoking history (although absent) should have been mentioned in the HPI, as it is a risk factor for what
+she actually has.
+17. In the Vitals, many people (including me) think that the rhythm should be stated right after the heart rate.
+18. I commend you for indicating the angle at which she was reclining when you looked at the neck veins; but I
+think that you meant to say "45 degrees" and not "45%".
+19. In the chest exam, did you note the absence of the breast? (I will tell you a story about that from when I was a
+sophomore student, if you remind me when we talk in real time.)
+20. In describing the rhythm under "Cardiac" unless you saw regular a waves and v waves in the neck, you can't really
+say it is a "sinus tachycardia". All you can say is that the rhythm was regular. This is not just nit-picking. I will tell you why
+if you remind me when we talk.
+21. Your summary statement in introducing the assessment and plan is excellent; but I think that you may also want
+to mention possible dietary salt indiscretion in the differential diagnosis.
+22. I have already mentioned the differential diagnostic importance of the presence or absence of paroxysmal nocturnal
+dyspnea. If that was absent, and the CXR didn't show signs of congestive failure, it's hard to make a case for significant
+congestive failure in this event.
+23. I commend you for wanting to get a transthoracic echocardiogram. That would be critical to determining what
+is going on. Sometimes those are even done in the ER.
+24. It is hard to make a case for significant pulmonary embolism with an oxygen saturation of 97% on room air.
+4/8/2021 Re: H&P #2
+https://mail.aol.com/webmail-std/en-us/PrintMessage 2/2
+25. Your insistence that she have CPAP in the hospital reflects excellent insight. If she needs it at home, how
+could she not need it in the hospital?
+26. Your inclusion of "adequate social support" in your discussion is a wonderful reflection of your clinical
+acumen and humanism.
+27. It's hard for me to agree that she has chronic iron deficiency anemia (if that is what IDA means) if the MCV is 85.
+28. Your EBM is very interesting, even if quite an old paper. It is important to be familiar with classic medical
+literature. But it would be interesting to see what more current articles recommend with regard to optimal management of
+congestive heart failure. (Although I grew up with cardiac glycosides as the cornerstone of therapy of CHF, I think things
+have changed quite a bit in the last several decades.)
+it sounds like I am being very critical of this really excellent write-up, but most of what I say above is intended to
+add polish to your work, and not to address substance. Your clinical sense is truly very good, based on this write-up
+(as well as the first one). In essence, I am encouraging you to go from strength to strength, to cite an old saying.
+I have no doubt that, as you move forward, you will indeed go from strength to strength and take your rightful
+place among the true exemplars of our profession.
+I will send you a text very soon to try to arrange a phone call/FaceTime in real time.
